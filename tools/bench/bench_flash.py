@@ -116,6 +116,24 @@ def price_for(model):
                                 entry["input_cost_per_token"])}
 
 
+def preflight(model):
+    """Spend one token verifying the key actually works.
+
+    llm_acompletion swallows auth and config errors, retries ten times, then
+    returns "". Without this check a bad key burns the whole sweep printing
+    `Retrying` and lands on a table of empty summaries and zero cost.
+    """
+    import openai
+    try:
+        reply = openai.OpenAI(max_retries=0).chat.completions.create(
+            model=model, messages=[{"role": "user", "content": "Reply with the word OK"}])
+    except Exception as exc:
+        raise SystemExit(f"Preflight call to {model!r} failed, aborting before the sweep:\n"
+                         f"  {type(exc).__name__}: {exc}")
+    if not (reply.choices[0].message.content or "").strip():
+        raise SystemExit(f"Preflight call to {model!r} returned an empty reply, aborting.")
+
+
 def tree_stats(structure):
     n = {"nodes": 0, "leaves": 0, "max_depth": 0, "key_items": 0}
 
@@ -265,11 +283,14 @@ def main():
     if not os.getenv("OPENAI_API_KEY"):
         raise SystemExit("OPENAI_API_KEY is not set (put it in .env at the repo root)")
 
+    preflight(model)
+
     os.makedirs(args.out, exist_ok=True)
     print(f"model={model}  documents={len(docs)}  variant={args.variant}\n"
           f"price=${price['input'] * 1e6:.2f}/M in, ${price['output'] * 1e6:.2f}/M out\n"
           f"out={args.out}", flush=True)
 
+    empties = 0
     for pdf in docs:
         stem = os.path.splitext(os.path.basename(pdf))[0]
         path = f"{args.out}/{stem}.bench.json"
@@ -290,8 +311,13 @@ def main():
         rec["price"] = price
         with open(path, "w") as f:
             json.dump(rec, f, indent=2)
+        empties += sum(u["empty"] for u in (rec.get("usage") or {}).values())
         print(json.dumps({k: rec.get(k) for k in ("pages", "time")}, indent=1), flush=True)
 
+    if empties:
+        print(f"\nWARNING: {empties} calls returned an empty reply. Those nodes have no "
+              f"summary and their cost is understated. Check the reliability table.",
+              flush=True)
     print(f"\nsweep complete. now run:  python {Path(__file__).parent / 'report.py'} "
           f"--out {args.out}", flush=True)
 
