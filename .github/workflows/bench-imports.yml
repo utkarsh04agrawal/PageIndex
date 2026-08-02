@@ -1,0 +1,49 @@
+# tools/bench/ imports from pageindex.flash.api, so a rename or deletion on main
+# breaks it silently: the ImportError only surfaces when someone runs a sweep.
+# This runs on every push to the benchmark branch and turns that into a red build.
+name: Benchmark scripts import
+
+on:
+  push:
+    branches: [bench/flash-cost]
+    paths:
+      - 'tools/bench/**'
+      - 'pageindex/**'
+      - 'requirements.txt'
+      - '.github/workflows/bench-imports.yml'
+  pull_request:
+    branches: [bench/flash-cost]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  imports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install openai matplotlib numpy   # bench-only, not project dependencies
+
+      - name: Import every bench script
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          for m in bench_flash report figure_data plot_figures; do
+            echo "importing $m"
+            python -c "import sys; sys.path.insert(0, 'tools/bench'); import $m"
+          done
+
+      - name: Check the entry points still parse their arguments
+        run: |
+          python tools/bench/bench_flash.py --help > /dev/null
+          python tools/bench/report.py --help > /dev/null
