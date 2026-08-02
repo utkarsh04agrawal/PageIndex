@@ -81,7 +81,7 @@ openai.AsyncOpenAI = _instrumented
 
 import pageindex.flash.main as flash_main
 import pageindex.tree_optimize as tree_optimize
-from pageindex.flash.api import _optimize, _thin
+from pageindex.flash.api import _merge, _optimize
 from pageindex.utils import ConfigLoader, summarize_tree
 
 
@@ -212,8 +212,8 @@ def run_one(pdf, model, variant, out_dir, save_trees):
     if variant in ("both", "baseline"):
         struct_b = copy.deepcopy(base)
         t0 = time.perf_counter()
-        _thin(struct_b)
-        t_thin = time.perf_counter() - t0
+        _merge(struct_b)
+        t_merge_b = time.perf_counter() - t0
 
         STAGE[0] = "summary_base"
         t0 = time.perf_counter()
@@ -221,8 +221,9 @@ def run_one(pdf, model, variant, out_dir, save_trees):
         t_sum_b = time.perf_counter() - t0
 
         rec["time"].update({
-            "thin": round(t_thin, 2), "summary_baseline": round(t_sum_b, 1),
-            "total_baseline": round(t_extract + t_thin + t_sum_b, 1)})
+            "merge_baseline": round(t_merge_b, 2),
+            "summary_baseline": round(t_sum_b, 1),
+            "total_baseline": round(t_extract + t_merge_b + t_sum_b, 1)})
 
     rec["usage"] = {
         "expand": usage("optimize"),

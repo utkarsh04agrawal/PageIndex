@@ -67,3 +67,22 @@ actually charged; use it to reconcile an invoice, not to compare the two variant
 rather than raising, so a run can silently produce empty summaries. The
 reliability table counts those separately from retried errors. A nonzero value
 there invalidates the cost numbers for that document.
+
+## Figures
+
+`report.py` prints tables. For the two scatter figures that go in the Flash
+README, run the sweep first, then:
+
+```bash
+python tools/bench/figure_data.py results/bench-doclen   # records -> figure_data.json
+python tools/bench/plot_figures.py results/bench-doclen  # -> time_vs_pages.png, cost_vs_pages.png
+```
+
+`figure_data.py` also prints the per-document pages, seconds, cost and token
+counts, and carries the full per-stage breakdown into `figure_data.json` so the
+figures stay reproducible from one file. Both take the record directory as their
+only argument.
+
+The dashed line on each figure is a least-squares fit through the origin, so its
+slope is cost per page rather than a total divided by a page count. Fixed
+per-document overhead lands above that line at the small end.

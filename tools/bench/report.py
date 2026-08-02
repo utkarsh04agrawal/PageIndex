@@ -108,7 +108,7 @@ def main():
   expand            LLM pass that adds a child level to oversized nodes  (runs only with --optimize)
   node summaries    LLM summary for every node of the OPTIMIZED tree, 64 concurrent calls
   with --optimize   pdf parse + layout + merge + expand + node summaries
-  default           pdf parse + layout + thinning (~0s) + node summaries of the THINNED tree""")
+  default           pdf parse + layout + merge (~0s) + node summaries of the MERGED tree""")
 
     # ----------------------------------------------------------------- cost
     banner(f"COST  ({'as billed, prompt-cache hits included' if args.billed else 'cold run, every input token at full price'})",
@@ -137,7 +137,7 @@ def main():
           f"{ct['parent']:>18.4f}{ct['opt']:>17.4f}{ct['base']:>10.4f}"
           f"{ct['opt'] - ct['base']:>+12.4f}")
     print("""
-  expand            the only LLM cost --optimize adds; merge and thinning are free
+  expand            the only LLM cost --optimize adds; merge is free and runs in both
   leaf summaries    summaries of nodes with no children
   parent summaries  summaries composed from child summaries plus uncovered pages
   difference        positive means --optimize cost more than the default run""")
@@ -152,7 +152,7 @@ def main():
            "search cost = how many pages an agent must read to reach the answer")
     top, col, rule = header([
         ("", [("document", 32), ("pages", 7)]),
-        ("node count", [("raw tree", 10), ("after optimize", 16), ("after thinning", 16)]),
+        ("node count", [("raw tree", 10), ("after optimize", 16), ("default tree", 16)]),
         ("operations", [("merges", 9), ("expands", 9)]),
         ("worst-case pages", [("before", 9), ("after", 8)]),
         ("average pages", [("before", 9), ("after", 8)]),
@@ -174,7 +174,7 @@ def main():
               f"{before.get('average_search_complexity', 0):>9.1f}"
               f"{after.get('average_search_complexity', 0):>8.1f}")
     print("""
-  raw tree          nodes straight out of extraction, before merge or thinning
+  raw tree          nodes straight out of extraction, before any merge
   worst-case pages  pages read on the most expensive path through the tree (lower is better)
   average pages     pages read on an average path (lower is better)""")
 
@@ -202,7 +202,7 @@ def main():
               f"{sum(u[k]['empty'] for k in disjoint):>17}"
               f"{(cached / tokens_in * 100 if tokens_in else 0):>15.0f}%")
     print("""
-  default summaries  summary calls on the thinned tree, i.e. the run without --optimize
+  default summaries  summary calls on the merged default tree, i.e. the run without --optimize
   retried errors     transient API failures (connection reset, HTTP 500) that a retry recovered
   empty responses    calls that returned an empty string, which the pipeline swallows silently
   cache hit rate     share of input tokens served from the provider prompt cache""")
