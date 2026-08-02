@@ -13,6 +13,10 @@ on:
       - '.github/workflows/bench-imports.yml'
   pull_request:
     branches: [bench/flash-cost]
+  # a push-only trigger never fires when main is the thing that moved, so also
+  # look for drift on a schedule
+  schedule:
+    - cron: '0 6 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -23,6 +27,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # merge-base needs history
+
+      - name: Fail if this branch is behind main
+        run: |
+          git fetch --quiet origin main
+          if ! git merge-base --is-ancestor origin/main HEAD; then
+            behind=$(git rev-list --count HEAD..origin/main)
+            echo "::error::bench/flash-cost is $behind commit(s) behind main. Merge main in; tools/bench imports from pageindex.flash.api and drifts silently."
+            exit 1
+          fi
+          echo "up to date with main"
 
       - uses: actions/setup-python@v5
         with:
