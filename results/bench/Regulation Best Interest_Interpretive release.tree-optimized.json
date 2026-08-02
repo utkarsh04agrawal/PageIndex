@@ -1,0 +1,115 @@
+{
+  "doc_name": "Regulation Best Interest_Interpretive release.pdf",
+  "doc_title": "[Release No. IA-5249] Commission Interpretation Regarding the Solely Incidental Prong of the Broker-Dealer Exclusion from the Definition of Investment Adviser",
+  "structure": [
+    {
+      "title": "SUMMARY",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "This SEC Federal Register publication announces an interpretation, effective July 12, 2019, of section 202(a)(11)(C) of the Investment Advisers Act concerning when broker-dealers are excluded from the investment adviser definition because their advisory services are solely incidental to their brokerage business and provided without special compensation. It identifies the publication, agency, action, legal authority, and relevant SEC contacts."
+    },
+    {
+      "title": "FOR FURTHER INFORMATION CONTACT",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "The SEC published an interpretation of the Investment Advisers Act provision excluding brokers and dealers from the investment adviser definition when their advisory services are solely incidental to their brokerage or dealer business and provided without special compensation. The release, issued under 17 CFR Part 276 as IA-5249, is effective July 12, 2019, and includes SEC staff contact information and identifies section 202(a)(11)(C) as the relevant statutory provision."
+    },
+    {
+      "title": "SUPPLEMENTARY INFORMATION",
+      "node_id": "0002",
+      "start_index": 1,
+      "end_index": 6,
+      "summary": "The SEC’s July 12, 2019 interpretation clarifies the solely incidental prong of the Advisers Act’s broker-dealer exclusion. It explains that broker-dealers remain outside the investment-adviser definition only when their advice is solely incidental to brokerage or dealing activities and they receive no special compensation. The interpretation responds to disagreement and requests for guidance arising from the SEC’s 2018 proposals on broker-dealer conduct, adviser standards, and relationship disclosures, particularly concerning investment discretion, account monitoring, and the extent of permissible advice. It confirms the SEC’s position, illustrates its application to those two services, and complements the related rules and forms. The SEC declines to revise its existing interpretation of the special-compensation prong. The text also introduces the exclusion’s historical and legislative context, noting that broker-dealers traditionally offered both commission-supported auxiliary advice and separately contracted advisory services."
+    },
+    {
+      "title": "A. Historical Context and Legislative History",
+      "node_id": "0003",
+      "start_index": 6,
+      "end_index": 9,
+      "summary": "The text explains the historical development underlying the Advisers Act's treatment of broker-dealers and investment advisers. Before 1940, broker-dealers offered both incidental advice as part of commission-based brokerage services and separately contracted, fee-based advisory services, with the former encompassing extensive financial, market, tax, and technical information. A Commission study from 1935–1939 identified the need to distinguish legitimate advisers from “tipsters” and to regulate advisory businesses, leading Congress to adopt the Advisers Act's broad definition of investment adviser and reject calls for minimal oversight. The Act nevertheless excluded advice incidental to another primary business, including broker-dealers. The text also notes that the Commission declined to issue additional guidance on the special compensation prong because existing interpretations were adequate and public comments showed no significant disagreement."
+    },
+    {
+      "title": "Conversely, the Advisers Act specifically excluded persons, among others, from the",
+      "node_id": "0004",
+      "start_index": 9,
+      "end_index": 12,
+      "key_items": [
+        "B. Scope of the Solely Incidental Prong of the Broker-Dealer Exclusion"
+      ],
+      "summary": "The text explains the legislative and regulatory background of investment-adviser oversight and the Advisers Act’s broker-dealer exclusion. Although investment counselors argued against regulation, Congress viewed them as largely unsupervised and eventually obtained industry support for regulation. The Act excludes broker-dealers that provide investment advice without special compensation when the advice is solely incidental to their brokerage business. Commission interpretations, the 2007 D.C. Circuit decision, and the Tenth Circuit’s 2011 Thomas decision establish that the test depends on whether advice is connected to and reasonably related to the broker-dealer’s primary securities-selling or transaction-execution business, not on the advice’s frequency, amount, or importance, unless advice becomes the primary business or objective."
+    },
+    {
+      "title": "product as the ‘primary’ goal of the transaction or the ‘primary’ business of the broker-dealer.” 45",
+      "node_id": "0005",
+      "start_index": 12,
+      "end_index": 28,
+      "nodes": [
+        {
+          "title": "C. Guidance on Applying the Interpretation of the Solely Incidental Prong",
+          "node_id": "0006",
+          "start_index": 14,
+          "end_index": 18,
+          "key_items": [
+            "1. Investment Discretion"
+          ],
+          "summary": "The text explains how the solely incidental prong applies to broker-dealer investment discretion. Unlimited, ongoing authority over customer trading is advisory in character and outside the broker-dealer exclusion, while narrowly confined, temporary, or limited discretion may remain solely incidental when it is connected to executing securities transactions and does not make the relationship primarily advisory. It lists qualifying examples, incorporates commenter views and the Exchange Act section 3(a)(35) framework, and refines earlier guidance concerning periods of customer unavailability, obligations such as margin or collateral calls, and tax-loss sales. An account-monitoring section is introduced but not developed in the provided text."
+        },
+        {
+          "title": "2. Account Monitoring",
+          "node_id": "0007",
+          "start_index": 18,
+          "end_index": 27,
+          "nodes": [
+            {
+              "title": "A. Background",
+              "node_id": "0008",
+              "start_index": 22,
+              "end_index": 23,
+              "summary": "The text introduces the Commission’s economic analysis of its interpretation of the broker-dealer exclusion’s solely incidental prong. Although the interpretation creates no new legal obligations, it may affect firms whose practices are inconsistent with it. The analysis describes the affected broker-dealer and financial-advice markets, including industry size, customer accounts, assets, dual registration, and affiliation statistics, while noting that the Commission lacks data on discretionary services. It explains that firms already bear compliance costs and that the interpretation largely confirms existing requirements. The Commission expects few firms to regard accounts involving more than temporary or limited investment discretion as covered by the prong, while industry comments distinguish limited discretion over timing or price from the broader investment discretion that raises Advisers Act concerns. The Commission may issue supplemental guidance after reviewing comments."
+            },
+            {
+              "title": "B. Potential Economic Effects",
+              "node_id": "0009",
+              "start_index": 23,
+              "end_index": 27,
+              "summary": "The text analyzes the potential economic effects of the Commission’s interpretation of the solely incidental broker-dealer exclusion, noting existing compliance costs, limited available data, and the distinction between permissible temporary or limited discretion and broader investment discretion. Broker-dealers may need to revise practices, discontinue services, register as investment advisers, or migrate customers to advisory affiliates, affecting costs, fees, competition, service availability, portfolio efficiency, demand among financial providers, and execution quality. Conversely, some firms may expand permissible discretion and monitoring services, although regulatory-arbitrage risks remain and are expected to be reduced by enhanced broker-dealer conduct standards. It also provides affiliation and asset statistics, clarifying data limitations, and formally adds the June 5, 2019, IA-5249 interpretive release to 17 CFR Part 276."
+            },
+            {
+              "title": "List of Subjects in 17 CFR Part 276",
+              "node_id": "0010",
+              "start_index": 27,
+              "end_index": 27,
+              "summary": "The text records a regulatory amendment concerning enhanced conduct standards for broker-dealer recommendations. It identifies securities as the relevant subject and amends 17 CFR Part 276 by adding Commission Interpretation Release No. IA-5249, dated June 5, 2019, regarding the solely incidental prong of the broker-dealer exclusion from the investment adviser definition, with Federal Register citation details pending insertion."
+            },
+            {
+              "title": "Amendments to the Code of Federal Regulations",
+              "node_id": "0011",
+              "start_index": 27,
+              "end_index": 27,
+              "summary": "The Commission amends 17 CFR Part 276 by adding its June 5, 2019, interpretive release IA-5249 on the solely incidental prong of the broker-dealer exclusion from the investment adviser definition, in connection with rules enhancing broker-dealer recommendation conduct standards; the subject is securities, with Federal Register citation placeholders."
+            },
+            {
+              "title": "Subject",
+              "node_id": "0012",
+              "start_index": 27,
+              "end_index": 27,
+              "summary": "The Commission adopts conduct-enhancing rules for broker-dealer recommendations and amends 17 CFR Part 276 by adding its June 5, 2019, interpretive release IA-5249 on the solely incidental prong of the broker-dealer exclusion from the definition of investment adviser; the subject is securities and Federal Register citation details remain placeholders."
+            }
+          ],
+          "summary": "The section refines which temporary or limited discretionary activities remain solely incidental to brokerage, including transactions satisfying customer or collateral obligations and tax-loss sales, while warning that longer discretion may be advisory. It explains when agreed periodic account monitoring and voluntary account reviews are consistent with the broker-dealer exclusion, confirms that resulting recommendations are subject to Regulation Best Interest, and notes that separate advisory contracts, fees, or compensation can defeat the exclusion. It then analyzes the interpretation’s market, compliance, competitive, service, customer, and execution effects, including data limitations and potential regulatory arbitrage, and records the related addition of Interpretive Release IA-5249 to 17 CFR Part 276."
+        },
+        {
+          "title": "Release No. Date",
+          "node_id": "0013",
+          "start_index": 27,
+          "end_index": 28,
+          "summary": "The text announces an amendment to 17 CFR Part 276 adding the SEC’s June 5, 2019, Release No. IA-5249, which interprets the solely incidental prong of the broker-dealer exclusion from the investment adviser definition. It identifies securities as the subject, notes the related enhancement of conduct standards for broker-dealer recommendations, includes Federal Register citation placeholders, and records the Commission’s issuance and Vanessa A. Countryman’s role as Acting Secretary."
+        }
+      ],
+      "summary": "The section interprets the broker-dealer exclusion’s solely incidental prong to allow meaningful advice about securities and transactions when it is reasonably related to the broker-dealer’s primary business of effecting trades; the advice’s importance or frequency alone does not disqualify it. It distinguishes permissible limited or temporary trading discretion, account monitoring, and brokerage-related reviews from ongoing discretionary or primarily advisory services, addresses customer unavailability, collateral and tax-loss transactions, Regulation Best Interest, separate advisory compensation, and the preserved section 28(e) research exception. It also evaluates the interpretation’s practical and regulatory effects, including compliance, competition, customer protection, execution, data limitations, and regulatory arbitrage, and formally adds Release No. IA-5249 to 17 CFR Part 276."
+    }
+  ],
+  "has_abstract_or_references_section": true
+}

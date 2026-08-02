@@ -1,0 +1,973 @@
+{
+  "doc_name": "Regulation Best Interest_proposed rule.pdf",
+  "doc_title": "SECURITIES AND EXCHANGE COMMISSION",
+  "structure": [
+    {
+      "title": "SUMMARY",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The SEC proposes Regulation Best Interest, a standard requiring broker-dealers and associated persons to place retail customers’ interests first when recommending securities transactions or investment strategies. The notice identifies the rulemaking details, sets an August 7, 2018 comment deadline, explains electronic and paper submission procedures, public posting and privacy warnings, describes notifications about additions to the comment file, and lists SEC staff contacts for further information."
+    },
+    {
+      "title": "FOR FURTHER INFORMATION CONTACT",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 5,
+      "summary": "The text provides SEC instructions for submitting and viewing comments on File No. S7-07-18, warns that submissions will be publicly posted without redaction, explains notifications about added comment-file materials, and lists agency contacts. It then presents the table of contents for a proposed Regulation Best Interest rulemaking, covering its background and objectives; the best-interest obligation, scope, disclosure, care, conflicts, and recordkeeping requirements; requests for comment; economic analysis and regulatory alternatives; Paperwork Reduction Act requirements; small-business and regulatory-flexibility analyses; and the proposal’s statutory authority and rule text."
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "node_id": "0002",
+      "start_index": 6,
+      "end_index": 44,
+      "nodes": [
+        {
+          "title": "A. Background",
+          "node_id": "0003",
+          "start_index": 12,
+          "end_index": 36,
+          "nodes": [
+            {
+              "title": "1. Evaluation of Standards of Conduct Applicable to Investment Advice",
+              "start_index": 22,
+              "end_index": 26,
+              "node_id": "0004",
+              "summary": "The text reviews efforts to reconcile stronger investor protection with preservation of customer choice amid blurred distinctions between broker-dealers and investment advisers. It describes conflicts in both commission and fee-based arrangements, the SEC’s longstanding evaluation of applicable standards, the 2011 Section 913 staff recommendation for a uniform best-interest fiduciary standard and related conflict and care requirements, the SEC’s 2013 information request and largely supportive but implementation-focused public comments, and the Investor Advisory Committee’s proposed approaches and disclosure recommendation. It concludes by introducing separate Department of Labor rulemaking to expand fiduciary status for investment advice under ERISA and the Internal Revenue Code."
+            },
+            {
+              "title": "2. DOL Rulemaking",
+              "start_index": 26,
+              "end_index": 32,
+              "node_id": "0005",
+              "summary": "The text reviews proposals and developments concerning fiduciary standards for broker-dealers and investment advisers. It describes the IAC’s preferred and alternative SEC approaches, then explains the DOL’s expanded ERISA and Code fiduciary rule, its broader prohibited-transaction consequences, and its subsequent judicial vacatur. It details the BIC and Principal Transactions exemptions, including permitted compensation and transactions, fiduciary and impartial-conduct obligations, contracts, policies, disclosures, best-execution requirements, and implementation delays. It concludes with Chairman Clayton’s request for updated public input on retail-investment standards of conduct in light of these developments."
+            },
+            {
+              "title": "3. Statement by Chairman Clayton",
+              "start_index": 32,
+              "end_index": 36,
+              "node_id": "0006",
+              "summary": "The text describes the phased implementation of the DOL Fiduciary Rule’s fiduciary definition, Impartial Conduct Standards, and related exemptions; Chairman Clayton’s 2017 request for public input and the resulting broad support for stronger or uniform conduct standards for broker-dealers and investment advisers; SEC outreach and competing views about the rule’s effects on retirement advice, including changes in products, accounts, costs, access, conflicts, and investor protection; and the factors the SEC considered in developing its proposed approach to broker-dealer conduct."
+            }
+          ],
+          "summary": "The section provides background for proposed Regulation Best Interest, explaining its goals of enhancing investor protection while preserving choice and creating clearer, more consistent broker-dealer standards. It outlines broker-dealers’ existing fair-dealing, suitability, compensation, conflict-management, disclosure, antifraud, and potential fiduciary obligations, while noting the absence of an explicit general best-interest requirement. It then traces SEC, Investor Advisory Committee, and DOL efforts to develop stronger or uniform advice standards, including Section 913 recommendations, public input, the DOL Fiduciary Rule and its exemptions, judicial vacatur, and implementation delays. Finally, it discusses Chairman Clayton’s request for updated input, SEC outreach, competing views about the DOL rule’s effects on retirement advice and investors, and the factors shaping the SEC’s proposed approach."
+        },
+        {
+          "title": "B. General Objectives of Proposed Approach",
+          "node_id": "0007",
+          "start_index": 36,
+          "end_index": 44,
+          "summary": "The text explains the Commission’s rationale for proposing Regulation Best Interest: it seeks to strengthen broker-dealer obligations and investor protection while preserving customer choice, affordable advice, commission-based compensation, and access to products and services. The proposal responds to conflicts, investor harm, customer confusion, and inconsistent regulatory standards, builds on existing federal and SRO requirements, and is distinct from investment-adviser fiduciary duties. It would require broker-dealers making securities recommendations to retail customers to act in their best interests through written disclosure of material relationship terms and conflicts and through a care obligation involving reasonable diligence, care, skill, and prudence. The rule would supplement existing laws, not create private litigation or rescission rights, and could have access and cost effects that the Commission believes are justified by stronger investor protections."
+        }
+      ],
+      "summary": "The section explains the role and range of agency, advisory, dealer, and proprietary-product services broker-dealers provide to retail customers, the inherent conflicts associated with those services, and the existing regulatory framework governing recommendations, which lacks an explicit general best-interest requirement. It reviews the policy and regulatory history leading to the proposal, including SEC and Investor Advisory Committee initiatives, Section 913, the DOL Fiduciary Rule and its subsequent vacatur, and later SEC outreach. The Commission’s proposed Regulation Best Interest is intended to strengthen investor protection and clarify broker-dealer standards while preserving customer choice, affordable and commission-based advice, and product access. It would require broker-dealers and associated persons making securities recommendations to act in the customer’s best interest, supported by written disclosure of material relationship terms and conflicts and a reasonable care obligation, while supplementing existing requirements, remaining distinct from investment-adviser fiduciary duties, creating no private litigation or rescission rights, and potentially affecting advice costs and access."
+    },
+    {
+      "title": "II. DISCUSSION OF REGULATION BEST INTEREST",
+      "node_id": "0008",
+      "start_index": 44,
+      "end_index": 209,
+      "nodes": [
+        {
+          "title": "A. Overview of Regulation Best Interest",
+          "node_id": "0009",
+          "start_index": 44,
+          "end_index": 50,
+          "summary": "The text introduces the Commission’s proposed Regulation Best Interest, which would require broker-dealers making recommendations to retail customers to act in the customers’ best interests without putting their own interests first. Compliance would involve written disclosure of relationship terms and conflicts, a detailed care standard covering general, customer-specific, and cumulative transaction recommendations, and written procedures to disclose, mitigate, or eliminate conflicts, especially those driven by financial incentives. The Commission expects these measures to improve recommendation quality, investor protection, conflict transparency, and alignment with customer expectations. The proposal draws on existing federal, state, SRO, Advisers Act, and DOL principles while preserving broker-dealer business models and investor choice. It deliberately avoids language that could require eliminating all conflicts, explaining instead that conflicts may exist but cannot predominate over customer interests. The Commission also discusses relevant Dodd-Frank standards, requests comment on alternative wording, and describes the proposal’s interpretive guidance, definitions, and specific compliance components."
+        },
+        {
+          "title": "B. Best Interest, Generally",
+          "node_id": "0010",
+          "start_index": 50,
+          "end_index": 62,
+          "nodes": [
+            {
+              "title": "1. Consistency with Other Approaches",
+              "node_id": "0011",
+              "start_index": 58,
+              "end_index": 62,
+              "summary": "The text explains that broker-dealers would breach Regulation Best Interest if recommendations are primarily driven by their own enrichment, business interests, quotas, or contests rather than the retail customer’s best interest, while allowing higher-cost, higher-risk, or more remunerative products when the required disclosure, care, and conflict protections are satisfied. It compares the proposal with the DOL’s BIC Exemption and related PTEs, emphasizing similar requirements for prudent care, professional conduct, and loyalty, and noting that commissions, proprietary or third-party-paid products, certain principal transactions, and the absence of a single-best-product or ongoing-monitoring requirement are not categorically prohibited. The text declines to duplicate the DOL standards against misleading statements and unreasonable compensation because federal securities laws and FINRA rules already address them. Finally, it distinguishes the proposal from the 913 Study by adopting a broker-dealer-specific best interest obligation rather than a uniform fiduciary standard for broker-dealers and investment advisers, while leaving broader framework harmonization to separate consideration."
+            }
+          ],
+          "summary": "This section explains that Regulation Best Interest requires broker-dealers to prioritize retail customers over their own financial interests without categorically banning commissions, higher-cost or higher-risk products, proprietary or third-party-paid products, principal transactions, or diverse portfolios. Compliance is based on Disclosure, Care, and Conflict of Interest obligations, including reasonable customer- and recommendation-specific care and avoidance of excessive transactions, and the obligation goes beyond existing suitability rules because it does not depend on fraud, cannot be cured by disclosure alone, and addresses costs and incentives. “Best interest” is left undefined and determined by the facts and circumstances. The section also explains how the proposal compares with the DOL framework and the 913 Study, rejects duplicative standards already covered by securities laws and FINRA rules, and seeks comment on alternative statutory language."
+        },
+        {
+          "title": "b. Recommendations of 913 Study",
+          "node_id": "0012",
+          "start_index": 62,
+          "end_index": 71,
+          "nodes": [
+            {
+              "title": "2. Request for Comment on the Best Interest Obligation",
+              "start_index": 66,
+              "end_index": 71,
+              "node_id": "0013",
+              "summary": "The text explains that Regulation Best Interest would build on existing broker-dealer suitability and related care principles while imposing tailored Disclosure, Care, and Conflict of Interest Obligations reflecting duties of care and loyalty and addressing financial-incentive conflicts. It presents the proposed requirement that broker-dealers act in retail customers’ best interests without putting their own interests first, followed by extensive requests for comment on the obligation’s adoption, wording, clarity, customer protection, relationship to DOL and Advisers Act standards, definitions, guidance, prohibited or permissible practices, product limitations, account monitoring, enforcement rights, additional compensation or anti-misleading requirements, and whether a tailored or uniform standard or an enhanced FINRA suitability rule is preferable. It then introduces key terms and scope, including the proposed Exchange Act-based definition of a natural person who is an associated person."
+            }
+          ],
+          "summary": "This section contrasts the proposed Regulation Best Interest with the 913 Study’s recommendation for a uniform fiduciary standard requiring broker-dealers and investment advisers to act in retail customers’ best interests through duties of loyalty and care. It explains the Commission’s preference for a tailored broker-dealer regime reflecting their transaction-based relationships, varied services, and agent or principal capacities, while drawing on the Study’s principles and Advisers Act concepts. It then presents the proposed best interest framework and solicits comment on its obligations, wording, scope, standards, conflicts, products, monitoring, enforcement, compensation, and regulatory alternatives, before introducing key definitions."
+        },
+        {
+          "title": "C. Key Terms and Scope of Best Interest Obligation",
+          "node_id": "0014",
+          "start_index": 71,
+          "end_index": 96,
+          "nodes": [
+            {
+              "title": "3. Any Securities Transaction or Investment Strategy",
+              "node_id": "0015",
+              "start_index": 82,
+              "end_index": 83,
+              "summary": "The text defines the proposed scope of Regulation Best Interest for recommendations to retail customers, covering securities transactions, broadly construed investment strategies, and certain retirement-account rollovers or transfers, while excluding mere execution and generally untied account-type recommendations. It preserves existing best-execution and suitability obligations, cites examples and legal authority concerning unsuitable margin and other transactions, seeks comment on general account recommendations, and proposes a definition of retail customer based on receiving and primarily using the recommendation for personal purposes."
+            },
+            {
+              "title": "4. Retail Customer",
+              "node_id": "0016",
+              "start_index": 83,
+              "end_index": 90,
+              "summary": "The text explains that account rollovers and transfers tied to securities transactions, including ERISA-to-IRA rollovers, are subject to suitability requirements, while account-type recommendations generally are not proposed to fall under Regulation Best Interest unless linked to a securities transaction; comments are requested on related broker-dealer and adviser obligations. It defines a proposed retail customer as a person or legal representative receiving a securities-transaction or securities-strategy recommendation from a broker-dealer or its natural associated person for primarily personal, family, or household purposes. The definition excludes primarily business-related recommendations, covers entities such as personal trusts, and differs from Dodd-Frank by using broader transaction/strategy language and extending beyond natural persons, with related recordkeeping requirements. Institutional accounts outside personal purposes would remain under FINRA suitability rules and its institutional exemption. Regulation Best Interest would apply only when a firm or dual registrant acts as a broker-dealer, not when an investment adviser provides advice, with capacity determined by facts such as account type, compensation, and disclosures; the proposal does not alter the brokerage-versus-advisory customer analysis. The definition is narrower than the proposed Relationship Summary “retail investor” definition, which covers all natural persons, and the Commission seeks comments on the rule’s overall scope, contract modifications, coverage of associated persons, and alternative definitions."
+            },
+            {
+              "title": "5. Request for Comment on Key Terms and Scope of Best Interest Obligation",
+              "node_id": "0017",
+              "start_index": 90,
+              "end_index": 96,
+              "summary": "The text explains that Regulation Best Interest is aimed primarily at personal, family, and household recommendations rather than business or institutional recommendations, then requests extensive comment on its key terms and scope. Topics include associated persons, retail customers, recommendations, personalized advice, investor education, discretionary activity, securities transactions and investment strategies, account-type recommendations, fiduciary protections, dual-registrants, and the interaction with FINRA suitability standards. It also introduces the rule’s four compliance components—disclosure, care, and two conflict-of-interest obligations—stating that broker-dealers must act in retail customers’ best interests without prioritizing their own interests, that violating any component violates the rule, and that existing statutory, antifraud, Exchange Act, and SRO obligations remain unchanged."
+            }
+          ],
+          "summary": "This section defines the proposed terms and boundaries of Regulation Best Interest. It would apply to broker-dealers and covered natural-person associated persons when making recommendation-based advice about securities transactions or investment strategies to retail customers, including specified retirement rollovers, while generally excluding execution-only activity and untied account-type recommendations. The proposal defines associated persons and retail customers, distinguishes personal, family, and household advice from business or institutional recommendations, addresses dual registrants' capacity, and preserves existing suitability, best-execution, antifraud, statutory, and SRO duties. It also outlines the rule's disclosure, care, and conflict-of-interest requirements and seeks extensive comment on its definitions, scope, relationship to FINRA suitability and adviser standards, additional compensation or anti-misleading requirements, and related compliance and investor-protection issues."
+        },
+        {
+          "title": "D. Components of Regulation Best Interest",
+          "node_id": "0018",
+          "start_index": 96,
+          "end_index": 125,
+          "nodes": [
+            {
+              "title": "1. Disclosure Obligation",
+              "start_index": 97,
+              "end_index": 103,
+              "node_id": "0019",
+              "summary": "The text explains the Commission’s proposed Regulation Best Interest Disclosure Obligation, requiring written, timely disclosure of material relationship terms and all material conflicts connected with a retail recommendation. It identifies expected disclosures, including capacity, fees, charges, services, and account monitoring, and discusses commenters’ support for information on duties, services, compensation, products, and conflicts. The proposal supplements existing transaction-specific, antifraud, SRO, analyst, and DOL requirements, which vary according to the scope of the broker-dealer relationship and are broader when recommendations are made. The Commission views the new obligation as necessary to promote best-interest recommendations and reduce investor confusion. It is coordinated with proposed Relationship Summary/Form CRS, title-use restrictions, and Regulatory Status Disclosure requirements through a layered disclosure framework: the concise Relationship Summary provides initial, comparable information and directs investors to details, while Regulation Best Interest adds recommendation- and account-specific fee and conflict disclosures."
+            },
+            {
+              "title": "a. Disclosure of Material Facts Relating to the Scope and Terms of the Relationship",
+              "start_index": 103,
+              "end_index": 104,
+              "node_id": "0020",
+              "summary": "The text explains that Regulation Best Interest’s Disclosure Obligation requires written, recommendation-specific disclosure of the relationship’s material terms and all associated material conflicts to retail customers. It distinguishes this detailed obligation from the more general Regulatory Status Disclosure and Relationship Summary, while noting that prior disclosures may sometimes suffice. Required or potentially required information includes the broker-dealer’s capacity, fees and charges, services such as account monitoring, and any other material facts identified from the circumstances. Capacity disclosure is emphasized as a means of clarifying the relationship, services, and applicable conduct standard, with specific discussion of standalone broker-dealers and their associated persons; the excerpt ends before stating the required compliance method."
+            },
+            {
+              "title": "(1) Capacity",
+              "start_index": 104,
+              "end_index": 107,
+              "node_id": "0021",
+              "summary": "The text explains that the Disclosure Obligation requires broker-dealers and associated persons to disclose material relationship information, including services, fees and charges, and other facts needed to supplement the Relationship Summary. It focuses on disclosing the capacity in which recommendations are made: standalone broker-dealers can generally rely on prior Relationship Summary and Regulatory Status disclosures, while dual-registrants must provide clearer, capacity-specific disclosure because their standard disclosures cover both brokerage and advisory services. Broker-dealers have flexibility in the disclosure method and may use advance written explanations of when each capacity applies, without repeating them for every recommendation if the applicable capacity remains clear. The text also treats fees and charges as material facts requiring timely written disclosure, highlighting investor uncertainty and commenters’ calls for transparent information about fees, compensation, services, and conflicts."
+            },
+            {
+              "title": "(2) Fees and Charges",
+              "start_index": 107,
+              "end_index": 109,
+              "node_id": "0022",
+              "summary": "The text explains that broker-dealers must disclose their acting capacity and, before or when making recommendations, provide written disclosure of material relationship terms, particularly applicable fees, charges, and the type and scope of services. It emphasizes investor confusion about fees and commenters’ calls for clear disclosure of fees, compensation, conflicts, and services. The proposed Relationship Summary would provide standardized, high-level information about principal fees, incentives, and services, but not personalized or quantitative fee details; broker-dealers would therefore be expected to provide supplemental layered disclosures. Existing transaction-specific, antifraud, and SRO disclosure requirements also apply, while firms offering different account types or service levels may need additional service disclosures."
+            },
+            {
+              "title": "(3) Type and Scope of Services",
+              "start_index": 109,
+              "end_index": 110,
+              "node_id": "0023",
+              "summary": "The text explains that broker-dealers should use layered disclosure to supplement Relationship Summaries with quantitative fee information and account-specific details about the types, scope, limitations, frequency, duration, and applicable conduct standards of services. Relationship Summaries contain only high-level information because of space constraints, so further disclosures may be provided separately and may cover services such as margin, cash management, discretion, and research access. It also introduces the Disclosure Obligation to disclose all material conflicts of interest before or when making a recommendation, defining such conflicts as interests that could reasonably incline a broker-dealer to make a non-disinterested recommendation, with the interpretation informed by the BIC Exemption and related rules."
+            },
+            {
+              "title": "b. Material Conflicts of Interest",
+              "start_index": 110,
+              "end_index": 113,
+              "node_id": "0024",
+              "summary": "The text explains proposed broker-dealer disclosure duties under Regulation Best Interest. Firms should disclose material account-specific information about the relationship and, before or at the time of a recommendation, all material conflicts of interest—defined as conflicts that could reasonably incline a broker-dealer toward a non-disinterested recommendation. The materiality standard follows Advisers Act precedent and limits disclosure to significant conflicts so important information is not obscured. Covered conflicts include financial incentives and recommendations involving proprietary, affiliated, limited or differently priced products, underwritten securities, account rollovers or transfers, and allocations such as IPOs. Broker-dealers must identify, disclose, mitigate, or eliminate such conflicts under written policies and procedures, while Regulation Best Interest preserves broader disclosure obligations under federal securities laws, including disclosures concerning revenue sharing and other payments that may influence recommendations."
+            },
+            {
+              "title": "c. Guidance on Reasonable Disclosure",
+              "start_index": 114,
+              "end_index": 117,
+              "node_id": "0025",
+              "summary": "The Commission proposes a flexible, negligence-based requirement for broker-dealers and their associated persons to reasonably disclose material facts and conflicts in a truthful, complete, and nonmisleading manner sufficient for informed customer decisions. Disclosure adequacy will depend on the circumstances, with no mandatory Form ADV-style document; firms may tailor the content, format, timing, and frequency, including using general disclosures supplemented by recommendation-specific information. Disclosures should be concise, clear, plain-English, and written, potentially using graphics, while telephone recommendations may be supported by prior or electronic written disclosures and limited oral clarification. The requirement remains subject to existing securities-law anti-fraud obligations, and inaccurate or evasive disclosures are not acceptable."
+            },
+            {
+              "title": "(1) Form and Manner of Disclosure",
+              "start_index": 117,
+              "end_index": 118,
+              "node_id": "0026",
+              "summary": "The Commission proposes flexible requirements for the form, delivery method, timing, and frequency of Regulation Best Interest disclosures. Disclosures should be written, concise, clear, understandable, and generally use plain English, with graphics permitted where helpful. Written disclosures support investor review, compliance, supervision, and regulatory oversight, while telephone recommendations may be addressed through prior or contemporaneous electronic delivery, with limited oral clarification of capacity after an appropriate initial written disclosure. Electronic delivery must follow existing SEC guidance. Rather than mandate a single format, the Commission would allow standardized relationship-level disclosures and tailored recommendation-specific disclosures, with adequacy judged by the facts and circumstances, consistent with statutory goals of simple, clear relationship and conflict disclosures."
+            },
+            {
+              "title": "(2) Timing and Frequency of Disclosure",
+              "start_index": 119,
+              "end_index": 122,
+              "node_id": "0027",
+              "summary": "The text explains that required disclosures must be provided before or when a recommendation is made, with timing designed to give customers meaningful opportunity to understand conflicts and make informed decisions without receiving premature or excessive information. It describes flexible delivery methods, including initial, periodic, recommendation-time, point-of-sale, repeated, and layered disclosures. Later disclosures alone cannot cure a failure to disclose beforehand, though an initial disclosure may identify when more specific information will follow. Standardized disclosures may be used but must be tailored or updated when circumstances or conflicts change, and previously provided disclosures need not be repeated unless they are stale or no longer reasonably known to the customer. This approach is said to align with fact-specific antifraud duties, which are broader for recommending or advisory relationships and generally narrower for brokers merely executing customer orders."
+            },
+            {
+              "title": "d. Consistency with Other Approaches",
+              "start_index": 123,
+              "end_index": 125,
+              "node_id": "0028",
+              "summary": "The text explains how the proposed Regulation Best Interest Disclosure Obligation relates to the BIC Exemption, the 913 Study, the Relationship Summary, and Regulatory Status Disclosure. It describes the BIC contract, conduct, conflict, cost, and website-disclosure requirements; reviews existing transaction, affiliation, analyst, and research-conflict disclosure rules; summarizes the 913 Study's recommendations for clear relationship, advice-specific, services, fee, and conflict disclosures and possible conflict restrictions; and argues that a flexible, layered disclosure framework would provide substantially similar information while clarifying firms' capacities and reducing confusion. It concludes with the Commission's general and detailed requests for comment on the obligation's scope, specificity, sufficiency, standard, and implementation guidance."
+            },
+            {
+              "title": "e. Request for Comment on Proposed Disclosure Obligation",
+              "start_index": 125,
+              "end_index": 125,
+              "node_id": "0029",
+              "summary": "The text explains that Regulation Best Interest's Disclosure Obligation would complement related disclosures to clarify firms' and professionals' capacities, reduce investor confusion, and improve understanding through a layered approach. It then presents the Commission's general request for comment and specific questions about the obligation's effects, the need for disclosures beyond existing requirements, more detailed or Form ADV-style disclosures, the appropriate type and amount of disclosure, a 'full and fair' standard, and guidance on the proposed 'reasonably disclose' requirement."
+            }
+          ],
+          "summary": "This section proposes that Regulation Best Interest be satisfied through four specified components—Disclosure, Care, and two Conflict of Interest Obligations—while preserving existing federal securities-law and SRO duties and imposing no additional unspecified obligations. It focuses extensively on the Disclosure Obligation: broker-dealers must provide timely, written, clear, and reasonably sufficient disclosure of their capacity, relationship terms, services, fees, charges, and all material conflicts, including incentives involving products, compensation, rollovers, allocations, affiliations, and other payments. Special attention is given to dual-registrants, which must make their brokerage or advisory capacity and applicable standards clear. The proposal uses a flexible, layered approach combining the Relationship Summary and Regulatory Status Disclosure with tailored account- and recommendation-specific information, and permits varied formats and delivery methods subject to fact-specific adequacy, anti-fraud standards, and updating requirements. The section compares the approach with existing disclosure rules, the BIC Exemption, and the 913 Study, and concludes with broad and detailed requests for comment on the scope, content, standard, and implementation of the Disclosure Obligation."
+        },
+        {
+          "title": "e. Request for Comment on Proposed Disclosure Obligation",
+          "node_id": "0030",
+          "start_index": 125,
+          "end_index": 184,
+          "nodes": [
+            {
+              "title": "2. Care Obligation",
+              "start_index": 133,
+              "end_index": 135,
+              "node_id": "0031",
+              "summary": "The text seeks comment on disclosure and possible written-consent requirements for material broker-dealer conflicts, including whether representatives’ broker-dealer recommendations could obscure conflicts compared with adviser advice. It then describes Regulation Best Interest’s proposed Care Obligation, requiring reasonable diligence, care, skill, and prudence; a reasonable basis for recommendations generally, for the particular customer, and for a series of transactions considered together; and a prohibition on placing the broker-dealer’s interests ahead of the customer’s. The obligation would enhance suitability standards, resemble fiduciary conduct standards, and use prudence as an objective-care concept, while inviting comment on that term’s clarity. Broker-dealers should consider reasonable alternatives they offer but need not analyze every product or recommend the cheapest option. Limited, proprietary, affiliated, and principal products would remain permissible if the care requirement is satisfied and conflicts are properly addressed. The text also emphasizes existing duties of fairness and reasonable basis, supported by legal authorities."
+            },
+            {
+              "title": "a. Understand the Potential Risks and Rewards of the Recommended Transaction or Strategy, and Have a Reasonable Basis to Believe that the Recommendation Could be in the Best Interest of at Least Some Retail Customers",
+              "start_index": 135,
+              "end_index": 140,
+              "node_id": "0032",
+              "summary": "The text explains the proposed Care Obligation and reasonable-basis standard under Regulation Best Interest. Broker-dealers should consider reasonable available alternatives but need not identify the universally best, cheapest, or least remunerative product, and may recommend limited, proprietary, affiliated, or principal-transaction products if the obligation and conflict requirements are satisfied. They must conduct reasonable diligence to understand a recommendation's risks, rewards, costs, features, incentives, liquidity, and other relevant factors, and must reasonably believe it could benefit at least some retail customers. Both elements are mandatory, with the required diligence varying by product complexity, risk, and firm familiarity. The text provides illustrative evaluation questions, emphasizes that they are non-exhaustive, grounds the duty in fair dealing and the broker-dealer's special relationship with customers, cites related legal and FINRA authorities, and transitions to the separate customer-specific best-interest requirement."
+            },
+            {
+              "title": "b. Reasonable Basis to Believe the Recommendation is in the Best Interest of a Particular Retail Customer",
+              "start_index": 140,
+              "end_index": 155,
+              "node_id": "0033",
+              "nodes": [
+                {
+                  "title": "c. Reasonable Basis to Believe a Series of Recommended Transactions is Not Excessive and is in the Retail Customer’s Best Interest",
+                  "start_index": 149,
+                  "end_index": 155,
+                  "node_id": "0034",
+                  "summary": "The text explains that broker-dealers cannot favor more remunerative products unless reasonably equivalent alternatives are both in the customer’s best interest, and that disclosure cannot cure a recommendation that is objectively worse, such as choosing an identical but more expensive security. It then describes a proposed obligation to assess whether a series of recommendations is collectively non-excessive and in the retail customer’s best interest, incorporating and expanding quantitative suitability without requiring actual or de facto account control. The discussion covers churning, switching, unsuitable frequency of trading, and relevant measures of excessiveness such as turnover, cost-to-equity ratios, and in-and-out trading, including historical thresholds and legal authorities. The expanded rule would apply regardless of customer control or sophistication, protect against trading costs that make positive returns unlikely, and require evaluation of whether the broker-dealer’s interests are being placed ahead of the customer’s; the text concludes by introducing comparison with other approaches, including the DOL fiduciary rulemaking."
+                },
+                {
+                  "title": "d. Consistency with Other Approaches",
+                  "start_index": 155,
+                  "end_index": 155,
+                  "node_id": "0035",
+                  "summary": "The text explains that a broker-dealer’s best-interest and reasonable-basis duties apply regardless of control or de facto control over a retail account. Eliminating the control requirement broadens protection against excessive trading that can make profitable returns virtually impossible, and customer sophistication or involvement does not excuse the broker-dealer’s responsibility. Broker-dealers recommending a series of transactions must assess whether their interests are being placed ahead of the customer’s and comply with the enhanced requirement even without account control. The passage then begins comparing this approach with DOL fiduciary rulemaking and cites Bresner as an example involving the absence of de facto control."
+                },
+                {
+                  "title": "(1) DOL Fiduciary Rulemaking",
+                  "start_index": 155,
+                  "end_index": 155,
+                  "node_id": "0036",
+                  "summary": "The text explains that broker-dealers’ best-interest and reasonable-basis obligations apply even without control or de facto control of a retail account. Eliminating the control requirement broadens protection against excessive trading that can make profitable returns virtually impossible, and customer knowledge or participation does not excuse the broker-dealer’s responsibilities. Broker-dealers recommending transaction series must evaluate whether their interests are being placed ahead of the customer’s and comply with the enhanced requirement regardless of account control. The passage then introduces the requirement’s consistency with DOL fiduciary rulemaking and cites SEC precedent illustrating how lack of de facto control affected prior churning findings."
+                }
+              ],
+              "summary": "The section explains that broker-dealers must understand a product’s or strategy’s costs, incentives, risks, liquidity, and other characteristics, and establish a reasonable basis that it could serve the interests of at least some retail customers. They must then determine, using the particular customer’s investment profile, objectives, financial situation, and needs, that each recommendation is in the customer’s best interest rather than merely suitable and does not place the firm’s interests first. The section further requires evaluating series of transactions for excessiveness and cumulative customer benefit, expanding quantitative suitability principles without requiring account control, and addressing churning, switching, trading frequency, turnover, costs, and in-and-out trading. It emphasizes that disclosure cannot justify objectively inferior or more expensive alternatives and that these duties apply regardless of account control, customer sophistication, or involvement. The discussion concludes by comparing the approach with other frameworks, including DOL fiduciary rulemaking and relevant precedent on de facto control."
+            },
+            {
+              "title": "d. Consistency with Other Approaches",
+              "start_index": 155,
+              "end_index": 155,
+              "node_id": "0037",
+              "summary": "The text argues that broker-dealers’ best-interest and reasonable-basis obligations, including oversight of excessive trading and series of recommendations, should apply regardless of control or de facto control over a retail account. Customer sophistication or participation does not eliminate these duties, and the approach is introduced as consistent with DOL fiduciary rulemaking. A cited SEC case illustrates circumstances in which de facto control was not established."
+            },
+            {
+              "title": "(1) DOL Fiduciary Rulemaking",
+              "start_index": 155,
+              "end_index": 158,
+              "node_id": "0038",
+              "summary": "The text explains that the proposed broker-dealer Care Obligation would apply regardless of account control and would protect retail customers from unsuitable or excessive trading even when customers have market knowledge or exercise control. Broker-dealers must evaluate individual and series-of-transaction recommendations, prioritize customer interests, and apply reasonable diligence, care, skill, and prudence. The obligation is compared with the DOL’s fiduciary best-interest standard, which imposes an objective professional duty of care and loyalty, does not permit disclosure to excuse imprudence, and does not require fraud or misrepresentation. The proposal incorporates and strengthens suitability principles, considers costs and financial incentives, requires justification when choosing among alternatives, and mandates mitigation or elimination of material conflicts. It is also compared with the duty-of-care recommendation in the SEC’s 913 Study, although the excerpt ends before completing that discussion."
+            },
+            {
+              "title": "(2) 913 Study",
+              "start_index": 158,
+              "end_index": 161,
+              "node_id": "0039",
+              "summary": "The text explains that proposed Regulation Best Interest’s Care Obligation would require broker-dealers to consider costs, financial incentives, conflicts, available alternatives, risks and rewards, and the customer’s investment profile when making recommendations. It compares the proposal with the 913 Study’s recommended uniform duty-of-care standards, emphasizing that the proposal covers only the reasonable basis for recommendations, while existing best-execution and fair-pricing or compensation duties remain unchanged. The Commission explains why broker-dealer and investment-adviser standards may differ, notes that the proposed obligation complements existing duties and is more prescriptive than the Advisers Act duty of care, and requests comments on customer expectations, clarity regarding investment losses, and the adequacy of implementation guidance."
+            },
+            {
+              "title": "e. Request for Comment on Proposed Care Obligation",
+              "start_index": 161,
+              "end_index": 166,
+              "node_id": "0040",
+              "summary": "The text explains that Regulation Best Interest’s Care Obligation is broadly aligned with, but more prescriptive than, the Advisers Act duty of care, with differences justified by broker-dealer relationships and existing suitability guidance. It presents the Commission’s extensive requests for comment on the Care Obligation’s clarity, scope, relationship to suitability, treatment of risks, investment profiles, costs, compensation, alternatives, best-interest definitions, documentation, and enforcement. It also addresses quantitative suitability and excessive transaction series, including relevant factors, terminology, continuing duties, alternative formulations, and control or de facto control. Finally, it introduces proposed Conflict of Interest Obligations requiring broker-dealer entities to maintain written conflict policies and distinguishes their application from the Disclosure and Care Obligations."
+            },
+            {
+              "title": "3. Conflict of Interest Obligations",
+              "start_index": 166,
+              "end_index": 168,
+              "node_id": "0041",
+              "summary": "The text seeks comment on whether the proposed standard for evaluating excessive series transactions should use language requiring that they be not contrary to, rather than affirmatively in, the retail customer’s best interest, and whether control or de facto control should be included. It then describes Regulation Best Interest’s two conflict-of-interest requirements for broker-dealer entities: written, reasonably designed procedures to identify and disclose or eliminate material conflicts generally, and to identify, disclose, mitigate, or eliminate conflicts arising from financial incentives. The text explains the purposes and flexibility of these procedures, clarifies their entity-only scope and the relationships whose conflicts must be assessed, and stresses that procedures must be maintained, enforced, and monitored. Broker-dealers may adapt existing supervisory systems to comply, consistent with existing Exchange Act and FINRA requirements and cited Commission guidance."
+            },
+            {
+              "title": "a. Material Conflicts of Interest and Material Conflicts of Interest Arising From Financial Incentives Associated with Such Recommendations",
+              "start_index": 169,
+              "end_index": 170,
+              "node_id": "0042",
+              "summary": "The text defines material conflicts under Regulation Best Interest, broadly describes financial-incentive-related conflicts, and explains that broker-dealers need not automatically mitigate every such conflict. It seeks comment on which conflicts should be eliminated, mitigated, or disclosed, limits the proposed obligations to conflicts associated with recommendations, preserves existing requirements for other services, and outlines the need for adequate compliance and supervisory systems to identify and disclose conflicts."
+            },
+            {
+              "title": "b. Reasonably Designed Policies and Procedures",
+              "start_index": 170,
+              "end_index": 172,
+              "node_id": "0043",
+              "summary": "The text requests comment on which financial incentives and other material conflicts of interest should be eliminated, mitigated, or disclosed, including whether disclosure alone is adequate in some cases. It explains that the proposed Conflict of Interest Obligations cover only material conflicts tied to recommendations and do not change requirements for other broker-dealer services. Broker-dealers would need reasonably designed, flexible, risk-based policies and procedures tailored to their operations to identify, disclose, mitigate, or eliminate conflicts. Recommended elements include conflict identification, monitoring, escalation, supervision and compensation controls, periodic testing, remediation, and training. The Commission views conflict identification and categorization as the essential first step and references relevant SEC, FINRA, and adviser-compliance guidance."
+            },
+            {
+              "title": "c. Identifying Material Conflicts of Interest",
+              "start_index": 172,
+              "end_index": 174,
+              "node_id": "0044",
+              "summary": "The text describes a risk-focused framework for broker-dealer compliance programs, emphasizing identification, supervision, monitoring, escalation, testing, remediation, and training concerning material conflicts of interest. It explains that firms must identify and categorize conflicts involving both the broker-dealer and associated persons, including financially motivated conflicts, through understandable definitions, structured and ongoing reviews, periodic testing, and training. New products and changing business or compensation structures require renewed conflict analysis, with plain-English disclosure where appropriate. Finally, policies must establish how material conflicts connected to retail recommendations will be eliminated or disclosed and mitigated as required, with clear procedures ensuring effective resolution."
+            },
+            {
+              "title": "d. Disclosure, or Elimination, of Material Conflicts of Interest and Disclosure and Mitigation, or Elimination, of Material Conflicts of Interest Arising From Financial Incentives Associated with a Recommendation",
+              "start_index": 174,
+              "end_index": 176,
+              "node_id": "0045",
+              "summary": "The text describes proposed broker-dealer conflict-of-interest obligations, including employee training, identification of conflicts, and procedures for disclosing, mitigating, or eliminating material conflicts associated with retail recommendations. It explains that absolute elimination is not generally required, gives examples of eliminating or neutralizing conflicts, and permits combined disclosure and mitigation where appropriate. Disclosure alone is insufficient when it is unclear, fails to support informed customer decisions, or cannot prevent the broker-dealer’s interests from taking precedence. Special requirements would apply to material conflicts arising from financial incentives, requiring written policies and procedures to identify, disclose, and mitigate or eliminate them, while acknowledging the potential cost-effectiveness of the brokerage model."
+            },
+            {
+              "title": "e. Mitigation of Material Conflicts of Interest Arising From Financial Incentives",
+              "start_index": 176,
+              "end_index": 184,
+              "node_id": "0046",
+              "summary": "The text explains proposed Regulation Best Interest requirements for broker-dealers to address material conflicts, distinguishing ordinary conflicts—generally handled through disclosure and, where needed, mitigation or elimination—from financial-incentive conflicts, which specifically require identification, disclosure, and mitigation or elimination. It discusses compensation-related conflicts, including internal, third-party, embedded, and principal-trading incentives; recognizes the value and cost advantages of brokerage advice and legitimate differential compensation; and states that disclosure alone may not be adequate. The proposal adopts a flexible, principles-based framework tailored to firm size, business model, customer sophistication, product complexity, and compensation transparency, with procedures subject to revision as circumstances change. Suggested controls include neutral compensation criteria, caps, enhanced supervision and monitoring, compensation adjustments, customer or product restrictions, and avoidance of especially problematic non-cash incentives such as sales contests and prizes. The approach is compared with the DOL Fiduciary Rule and related exemptions, emphasizing disclosure, impartial conduct, and prevention of incentive-driven violations."
+            },
+            {
+              "title": "f. Consistency with Other Approaches",
+              "start_index": 184,
+              "end_index": 184,
+              "node_id": "0047",
+              "summary": "The text discusses evaluating broker-dealer financial incentives and best-interest compliance, compares the Commission's proposed conflict requirements with the DOL's Fiduciary Rule and BIC Exemption, and describes required conflict disclosures and incentive-related policies. It also summarizes FINRA's review of gifts, gratuities, and non-cash compensation rules and SIFMA's recommendations to restrict sales targets, base training eligibility on total production, and apply the rules consistently across securities products, with supporting citations."
+            }
+          ],
+          "summary": "The section presents Regulation Best Interest's layered Disclosure Obligation and requests comment on its scope, standards, content, timing, format, usefulness, existing broker-dealer practices, reliance on the Relationship Summary, material relationship facts, and dual-registrant disclosures. It also explains the related Care Obligation, requiring reasonable diligence and care, product and customer-specific best-interest determinations, consideration of costs, risks, incentives and alternatives, and review of transaction series for excessiveness regardless of account control. Finally, it describes entity-level Conflict of Interest Obligations requiring risk-based written procedures to identify, disclose, mitigate, or eliminate recommendation-related conflicts—especially compensation-driven incentives—along with supervision, monitoring, testing, training, remediation, and restrictions on problematic compensation practices. The proposals are compared with suitability rules, Advisers Act duties, the DOL Fiduciary Rule, the 913 Study, best-execution and fair-pricing obligations, FINRA requirements, and industry recommendations, with extensive requests for comment on their clarity, implementation, effectiveness, and enforcement."
+        },
+        {
+          "title": "f. Consistency with Other Approaches",
+          "node_id": "0048",
+          "start_index": 184,
+          "end_index": 189,
+          "summary": "The text explains how Regulation Best Interest’s proposed Conflict of Interest Obligations would address broker-dealer conflicts, especially financial incentives, through disclosure, elimination, mitigation, and written policies and procedures. It compares the proposal with the DOL’s Fiduciary Rule and BIC Exemption, including permitted neutral-factor compensation differences and supervisory controls, and references FINRA’s review and SIFMA’s recommendations on sales targets and non-cash compensation. It also relates the proposal to the 913 Study’s duty-of-loyalty principles, including treatment of principal trading, while distinguishing the proposal’s recommendation-focused scope and more flexible, principles-based approach. The Commission concludes that the requirements support best-interest recommendations alongside existing supervision and disclosure duties, and seeks comment on whether they would meet retail customers’ reasonable expectations."
+        },
+        {
+          "title": "g. Request for Comment on the Conflict of Interest Obligations",
+          "node_id": "0049",
+          "start_index": 189,
+          "end_index": 209,
+          "nodes": [
+            {
+              "title": "E.Recordkeeping and Retention",
+              "start_index": 196,
+              "end_index": 199,
+              "node_id": "0050",
+              "summary": "The text solicits comments on prohibiting or mitigating conflicts of interest under Regulation Best Interest, including non-cash compensation, customer consent, product prohibitions, neutral compensation, and the clarity and adequacy of conflict guidance. It then explains proposed broker-dealer record-making and six-year retention requirements for retail-customer information and associated-person identities, the interaction with existing Exchange Act and FINRA rules, the customer-information exception, and the absence of new retention requirements for policies and procedures. The Commission also asks whether additional records should be created or retained. Finally, the text begins addressing whether exercising investment discretion is solely incidental to broker-dealer activities under the Advisers Act and introduces the relevant investment-adviser definition and broker-dealer exclusion."
+            },
+            {
+              "title": "F.Whether the Exercise of Investment Discretion Should be Viewed as Solely Incidental to the Business of a Broker or Dealer",
+              "start_index": 199,
+              "end_index": 209,
+              "node_id": "0051",
+              "summary": "The text describes existing broker-dealer manual-retention requirements and asks whether Regulation Best Interest should add record-making or retention obligations. It then examines whether broker-dealer exercise of investment discretion is advice solely incidental to brokerage or instead advisory activity under the Advisers Act. It reviews the statutory exclusion, Commission and court history, prior rules and proposals, the distinction between limited and unfettered discretion, applicable federal, SRO, and state-law protections, and industry treatment of discretionary accounts. The Commission seeks comment and data on permissible limits, definitions, authorization, account practices, investor benefits and risks, potential churning, future services, and whether clearer distinctions between account types would help investors. It closes with a broad request for comments on Regulation Best Interest and its interaction with related disclosure, self-regulatory, antifraud, Advisers Act, ERISA, and tax requirements."
+            },
+            {
+              "title": "III. REQUEST FOR COMMENT",
+              "start_index": 209,
+              "end_index": 209,
+              "node_id": "0052",
+              "summary": "The text seeks views on how Regulation Best Interest would mitigate risks from discretionary brokerage services, the effect of broker-dealer discretion on investor choice, its benefits and risks, possible regulatory responses, and the potential expansion of such services. It also asks whether distinguishing discretionary from non-discretionary accounts would reduce confusion between advisory and brokerage accounts. More broadly, the Commission requests comments on all aspects of Regulation Best Interest, including its impact on retail recommendations and broker-dealer conduct, its relationship with the Relationship Summary Proposal, and its interaction with FINRA and other SRO rules, federal antifraud laws, the Advisers Act, ERISA, and the Internal Revenue Code."
+            }
+          ],
+          "summary": "This section explains and solicits comment on Regulation Best Interest’s Conflict of Interest Obligations, under which broker-dealers would use written, reasonably designed policies and procedures to identify, eliminate or disclose, and where required mitigate material conflicts, alongside the separate recommendation disclosure requirement. It asks about the scope, flexibility, clarity, implementation, supervision, risk-based operation, minimum content, and interaction of these obligations with associated persons, the Relationship Summary, antifraud rules, and FINRA requirements. Related discussion addresses recordkeeping and retention requirements and whether additional records are needed. The section also considers whether broker-dealer investment discretion is incidental to brokerage or constitutes investment-adviser activity, reviewing applicable law, regulatory history, account types, protections, benefits, risks, and possible regulatory distinctions, and concludes with broad requests for comment on Regulation Best Interest and its interaction with other federal, self-regulatory, and tax regimes."
+        }
+      ],
+      "summary": "The section presents and evaluates proposed Regulation Best Interest, which would require broker-dealers and covered associated persons recommending securities transactions or investment strategies to retail customers to prioritize customer interests without banning commissions, proprietary products, principal transactions, or other existing business practices. It defines the rule’s scope and key terms, distinguishes covered recommendations from excluded or institutional activity, and preserves existing securities-law, FINRA, suitability, best-execution, antifraud, and adviser duties. Compliance would involve a layered Disclosure Obligation covering capacity, relationship terms, services, costs, and material conflicts; a Care Obligation requiring reasonable, customer- and recommendation-specific consideration of risks, costs, incentives, alternatives, and transaction series; and two Conflict of Interest Obligations requiring risk-based written procedures to identify, disclose, eliminate, or mitigate conflicts, particularly financial incentives, supported by supervision, training, monitoring, remediation, and recordkeeping. The proposal is compared with the Dodd-Frank mandate, 913 Study, Advisers Act, DOL Fiduciary Rule and BIC Exemption, FINRA requirements, industry recommendations, and other federal, state, self-regulatory, and tax regimes. The Commission explains its preference for a flexible, broker-dealer-specific, principles-based framework and solicits broad comment on its wording, standards, definitions, scope, implementation, enforcement, disclosures, conflicts, compensation, discretion, investor protection, and interaction with existing regulation."
+    },
+    {
+      "title": "III. REQUEST FOR COMMENT",
+      "node_id": "0053",
+      "start_index": 209,
+      "end_index": 214,
+      "key_items": [
+        "A. Generally"
+      ],
+      "summary": "The text seeks public comment on discretionary brokerage services and Regulation Best Interest, including whether the proposal reduces risks, expands or limits investor choice, affects investor confusion, and influences future broker-dealer competition and services. It requests detailed feedback on the rule’s clarity, structure, safe harbors, compliance procedures, definitions, guidance, effects on recommendations and available products and services, and consistency with existing obligations. It also examines interactions and possible conflicts with SRO, federal, state, Advisers Act, DOL, ERISA, and tax-law requirements, asks whether broker-dealer and investment-adviser standards should be harmonized and what effects that would have, and solicits views on state fiduciary standards. Finally, it introduces the economic analysis, emphasizing the Commission’s duty to weigh costs, benefits, investor protection, efficiency, competition, and capital formation."
+    },
+    {
+      "title": "IV. ECONOMIC ANALYSIS",
+      "node_id": "0054",
+      "start_index": 214,
+      "end_index": 338,
+      "nodes": [
+        {
+          "title": "A. Introduction, Primary Goals of Proposed Regulations and Broad Economic Considerations",
+          "node_id": "0055",
+          "start_index": 214,
+          "end_index": 222,
+          "summary": "The text solicits views on regulatory harmonization, its investor effects, and interactions between Regulation Best Interest and state fiduciary standards. It then introduces the Commission’s economic analysis, emphasizing statutory consideration of investor protection, efficiency, competition, and capital formation, along with qualitative and, where feasible, quantitative assessment of proposal costs and benefits. The analysis explains broker-dealer advice as a principal-agent relationship marked by conflicting incentives, and evaluates contracts, monitoring, bonding, and regulatory standards as mechanisms for reducing agency costs. It argues that Regulation Best Interest would establish an enforceable minimum best-interest standard, potentially improving advice quality and mitigating conflicts, while unaddressed conflicts may drive recommendations toward higher-fee or affiliated products, restrict customer choice, and undermine trust. Finally, it explains that reducing agency costs can benefit both customers and firms and introduces gains from trade arising from customers’ willingness to pay exceeding firms’ reservation prices."
+        },
+        {
+          "title": "b. Effects of the best interest standard on the agency relationship",
+          "node_id": "0056",
+          "start_index": 222,
+          "end_index": 235,
+          "nodes": [
+            {
+              "title": "B. Economic Baseline",
+              "start_index": 225,
+              "end_index": 225,
+              "node_id": "0057",
+              "summary": "The passage introduces the Commission’s economic baseline for evaluating Regulation Best Interest, focusing on the broad but segmented market for broker-dealer advice and related services and its potential effects on gains shared with retail customers. It lists the principal services broker-dealers provide, explains the simplifying market framework, and notes other advice providers—including state-registered advisers, banks, and insurers—along with available estimates of their numbers and the Commission’s inability to quantify all such entities."
+            },
+            {
+              "title": "1. Market for Advice Services",
+              "start_index": 225,
+              "end_index": 225,
+              "node_id": "0058",
+              "summary": "The passage introduces the analysis of the proposed best interest standard and its effect on broker-dealer and retail-customer gains from trade. It describes the Commission’s baseline treatment of broker-dealer services as one broad but segmented market, lists the major services offered, and notes that competition may involve many interrelated markets. It also identifies other advice providers, including state-registered advisers, banks, and insurers; notes broker-dealers’ additional insurance and tax businesses; and provides estimates of approximately 17,800 state-registered advisers as of January 2018, 145 of which were also Commission-registered, and approximately 398 life insurance companies potentially serving retirement investors."
+            },
+            {
+              "title": "a. Broker-Dealers",
+              "start_index": 225,
+              "end_index": 231,
+              "node_id": "0059",
+              "summary": "The text establishes the economic baseline for evaluating proposed Regulation Best Interest, focusing on its potential effects on broker-dealers, retail customers, and competing advice providers. It describes the broad and varied broker-dealer services market; identifies other advice providers; presents December 2017 data on broker-dealer numbers, assets, customer accounts, retail activity, dual registration, affiliations, omnibus accounts, and firm-size concentration; explains data limitations; catalogs the major and minor business lines of retail-facing broker-dealers; and introduces the potential indirect competitive effects on SEC- and state-registered investment advisers, noting that most SEC-registered advisers serve individuals or small businesses."
+            },
+            {
+              "title": "b. Investment Advisers",
+              "start_index": 231,
+              "end_index": 235,
+              "node_id": "0060",
+              "summary": "The text examines how proposed Regulation Best Interest may indirectly affect investment advisers and other financial-advice providers, presents the population, affiliations, retail orientation, AUM, clients, and accounts of SEC- and state-registered advisers as of December 2017, and supplies size-based tables for SEC-registered and retail-serving advisers. It also describes registration rules and data limitations, lists specialized retail-facing broker-dealer categories, and reports a long-term shift from declining broker-dealer numbers to rising investment-adviser numbers, potentially changing competition, retail choice, advice delivery and payment, and conflicts of interest."
+            },
+            {
+              "title": "c. Trends in the Relative Numbers of Providers of Financial Services",
+              "start_index": 235,
+              "end_index": 235,
+              "node_id": "0061",
+              "summary": "The text reports the scale of state-registered advisers serving high-net-worth retail clients and describes a 2005–2017 shift in the financial-services provider landscape: broker-dealers decreased while Commission-registered investment advisers increased. It notes that this change may affect competition, retail customers’ choices about receiving and paying for advice, the nature of advice, and associated conflicts of interest. It also identifies Figure 1 as showing these trends and provides the IARD data date, AUM qualification, and dual-registration details."
+            }
+          ],
+          "summary": "The section explains how a best interest standard could reduce principal-agent conflicts, lower agency costs, increase gains from trade, and build investor trust, while noting that both customers and financial firms can benefit. It uses numerical examples to show how incentive misalignment reduces surplus, how cost-effective contractual protections can restore it, and how overly costly provisions can be inefficient. Because broker-dealers may lose compensation based on product-sponsor payments, they may seek higher disclosed customer fees, although competition may prevent full recovery and direct most benefits to retail customers. The section therefore presents a conduct standard as a potentially efficient alternative to detailed contracting, while recognizing its own costs. It also establishes the economic baseline for Regulation Best Interest by describing the broad, segmented broker-dealer advice market, competing providers such as investment advisers, banks, and insurers, relevant services and business lines, firm and market data, registration and measurement limitations, and the shift from declining broker-dealer numbers to growing investment-adviser numbers, which may alter competition, consumer choice, advice arrangements, payments, and conflicts."
+        },
+        {
+          "title": "c. Trends in the Relative Numbers of Providers of Financial Services",
+          "node_id": "0062",
+          "start_index": 235,
+          "end_index": 243,
+          "nodes": [
+            {
+              "title": "d. Registered Representatives of Broker-Dealers, Investment Advisers, and Dually-Registered Firms",
+              "start_index": 239,
+              "end_index": 243,
+              "node_id": "0063",
+              "summary": "The text presents a 2010–2017 figure on estimated HNW and non-HNW retail client RAUM and explains how registered representatives and investment adviser representatives are estimated from Form U4 and related regulatory data. It defines dually-registered professionals, discusses registration-count limitations, and summarizes Tables 5 and 6 on representative and employee populations by firm size, showing that dual registration is common overall but varies substantially by firm size. It compares dual-registration rates with 2010 and 2017 benchmarks, explains firm classification and size-measurement methods, and outlines the range of compensation structures at broker-dealers and dually-registered firms, including salaries, commissions, and performance bonuses, while noting that the compensation sample may not be representative."
+            },
+            {
+              "title": "e. Financial Incentives of Firms and Financial Professionals",
+              "start_index": 243,
+              "end_index": 243,
+              "node_id": "0064",
+              "summary": "The text reports that about 88% of investment adviser representatives were also registered representatives, consistent with the 87.6% reported in 2010, while only about half of registered representatives were also investment adviser representatives in 2017. It then describes the wide range of compensation incentives used by standalone and dually registered firms, from $45,000–$85,000 base salaries to commission-only pay supplemented by individual or team performance bonuses. The registration figures were calculated from aggregated firm-size data, and the compensation findings, based mainly on 2016 arrangements at approximately 20 firms, may not be broadly representative because of the diversity of firms’ products and services."
+            }
+          ],
+          "summary": "The section describes the long-term shift from broker-dealers toward investment advisers and fee-based advisory models, including the decline in broker-dealer firms, growth in investment advisers, possible regulatory, technological, product, competitive, and consolidation-related causes, and implications for retail advice choices and conflicts. It also presents estimates of adviser and representative populations, explains dual registration and its measurement limitations, compares registration patterns across firm sizes and with 2010 benchmarks, and details the varied salary, commission, and bonus incentives used by broker-dealers and dually registered firms, while cautioning that the compensation sample may not be representative."
+        },
+        {
+          "title": "e. Financial Incentives of Firms and Financial Professionals",
+          "node_id": "0065",
+          "start_index": 243,
+          "end_index": 324,
+          "nodes": [
+            {
+              "title": "Capital Formation and Efficiency",
+              "node_id": "0066",
+              "start_index": 322,
+              "end_index": 324,
+              "summary": "The text explains how Regulation Best Interest could reshape product-sponsor and broker-dealer competition, improve recommendation quality, and affect portfolio and economy-wide capital-allocation efficiency. By mitigating compensation conflicts, broker-dealers might eliminate some products and encourage product sponsors to compete on quality, potentially channeling funding toward better products. Improved customer outcomes could increase securities-market participation, investment, and capital formation, including financing valuable corporate projects. However, effects may vary by product: recommendations and investment could rise where benefits exceed compliance costs, but fall where the rule reduces gains from trade, potentially harming customers, capital formation, and allocation efficiency. The text then introduces reasonable alternatives to the proposed standard, including disclosure-only and principles-based approaches, while describing the proposal’s requirement that broker-dealers act in retail customers’ best interests without prioritizing their own interests."
+            }
+          ],
+          "summary": "The section describes the prevalence of dual registration and the wide range of financial incentives used by broker-dealers and dual registrants, including salaries, commissions, product- and volume-based payouts, proprietary-product incentives, client fees, asset-based charges, bonuses, and performance-based compensation. It notes the limitations of the sampled compensation data and explains how these incentives may create conflicts. It then considers how Regulation Best Interest could alter firms’ and product sponsors’ competitive behavior, recommendation quality, customer outcomes, market participation, capital formation, and capital-allocation efficiency, with effects varying across products, and introduces disclosure-only and principles-based alternatives to the proposed best-interest requirement."
+        },
+        {
+          "title": "E. Reasonable Alternatives",
+          "node_id": "0067",
+          "start_index": 324,
+          "end_index": 335,
+          "nodes": [
+            {
+              "title": "1. Disclosure-Only Alternative",
+              "start_index": 325,
+              "end_index": 327,
+              "node_id": "0068",
+              "summary": "The text evaluates disclosure-only and principles-based alternatives to proposed Regulation Best Interest, while noting other possible alternatives. A disclosure-only regime would expand required disclosures concerning relationships, conflicts, compensation, and regulatory status, with lower costs than the proposed rule but less customer protection because it would not require best-interest conduct, care, or conflict mitigation. A principles-based regime would let broker-dealers tailor best-interest practices to their business models, relying on competence requirements, SRO rules, and antifraud laws rather than express disclosure and conflict obligations; it could be more flexible and less costly but less effective at reducing investor harm."
+            },
+            {
+              "title": "2. Principles-Based Standard of Conduct Obligation",
+              "start_index": 327,
+              "end_index": 328,
+              "node_id": "0069",
+              "summary": "The text compares proposed Regulation Best Interest with disclosure-only and principles-based alternatives, concluding that both would offer weaker retail investor protection. A principles-based regime would provide flexibility and potentially lower compliance costs but could produce inconsistent standards and fail to ensure disclosure, elimination, or mitigation of conflicts. The Commission favors the proposed uniform Disclosure, Care, and Conflict of Interest Obligations and then introduces imposing a fiduciary standard on broker-dealers as another alternative."
+            },
+            {
+              "title": "3. A Fiduciary Standard for Broker-Dealers",
+              "start_index": 328,
+              "end_index": 332,
+              "node_id": "0070",
+              "summary": "The text compares a principles-based broker-dealer care obligation with proposed Regulation Best Interest, concluding that a uniform standard incorporating disclosure, care, and conflict-mitigation requirements would better protect retail customers than an unguided principles-based approach. It then evaluates imposing a fiduciary standard on broker-dealers, explaining how fiduciary duties could address conflicted advice and principal-agent problems but noting that broker-dealers and investment advisers have different business models, relationships, conflicts, and regulatory histories. Although uniformity could improve consistency, disclosure, advice quality, and customer understanding, it could also reduce business-model differentiation, legal certainty, payment, account, product, and provider choice, and fail to tailor protection to each model. The Commission therefore preliminarily supports separate regulatory standards enhanced by Regulation Best Interest and Form CRS. Finally, it introduces an alternative combining a fiduciary standard with requirements modeled on the DOL's BIC Exemption for recommendations across all retail accounts, while noting the scope, related exemptions, reliance considerations, and subsequent vacatur of the DOL Fiduciary Rule."
+            },
+            {
+              "title": "4. Enhanced Standards Akin to Conditions of the BIC Exemption",
+              "start_index": 332,
+              "end_index": 335,
+              "node_id": "0071",
+              "summary": "The text evaluates, but does not favor as its primary approach, imposing on broker-dealers a fiduciary standard accompanied by the full set of disclosure and other requirements of the DOL’s BIC Exemption for all retail accounts. It explains that existing implementation and overlapping broker-dealer rules could reduce incremental costs, but the alternative could substantially increase compliance and legal risks, raise advice prices, shift firms and customers from commission-based to fee-based models, cause customers or account segments to lose access to advice, and drive firm exits, consolidation, or conversion to investment advisers. It could also alter competition among broker-dealers, advisers, banks, and trust companies, with any supply-related cost reductions likely offset by compliance costs. The Commission cannot quantify the alternative’s effects and considers wholesale BIC adoption inconsistent with its regulatory approach, and it concludes by seeking comments on the completeness and quality of its economic analysis and on all relevant benefits, costs, market effects, and alternatives."
+            }
+          ],
+          "summary": "The section describes Regulation Best Interest and evaluates disclosure-only, principles-based, fiduciary, and BIC-modeled alternatives. Disclosure-only and principles-based approaches could be less costly or more flexible but would provide weaker, less consistent protection and less assurance that conflicts are disclosed or mitigated. A uniform fiduciary standard could improve consistency and address conflicted advice, but may not fit the distinct business models of broker-dealers and investment advisers and could reduce choice, differentiation, and legal certainty; the Commission therefore favors separate standards supplemented by Regulation Best Interest and Form CRS. Extending the DOL BIC framework to all retail accounts could leverage existing rules but might significantly increase compliance costs, legal risks, advice prices, industry consolidation, and loss of access to advice, so it is not favored. The section also discusses possible reductions in recommendations and resulting effects on portfolio and capital-allocation efficiency, balanced against potential gains from product-quality competition, and solicits comments on the alternatives and their economic effects."
+        },
+        {
+          "title": "F. Request for Comment",
+          "node_id": "0072",
+          "start_index": 335,
+          "end_index": 338,
+          "summary": "The Commission explains that imposing a fiduciary standard with BIC Exemption-like conditions could significantly increase broker-dealer and investment-advice costs and affect retail customers and the advice market, while noting that it cannot quantify the impacts and that the Department of Labor’s differing regulatory focus makes wholesale adoption inappropriate. It requests broad and detailed comments on its economic analysis, including the problem definition, assumptions, benefits, costs, effects on efficiency, competition, and capital formation, alternatives, data sources, and omitted considerations. Specific requests address the principal-agent and gains-from-trade frameworks, identification of firms serving retail customers, compensation incentives, the benefits and costs of Regulation Best Interest, allocation of impacts between firms and customers, treatment of discretionary advice under the Advisers Act, and additional regulatory alternatives. The text also notes legal uncertainty and litigation risk associated with the BIC Exemption and introduces the following section on Paperwork Reduction Act analysis."
+        }
+      ],
+      "summary": "The section presents the Commission’s economic analysis of Regulation Best Interest, addressing its statutory goals of investor protection, efficiency, competition, and capital formation. It models broker-dealer advice as a principal-agent relationship and explains how conflicts, contracting, monitoring, disclosure, and enforceable conduct standards affect agency costs, trust, gains from trade, advice quality, customer choice, and firm and investor welfare. It establishes a market baseline by describing broker-dealers, investment advisers, dual registrants, competing providers, changing provider numbers, business models, registration limitations, and compensation incentives. The analysis considers how Regulation Best Interest could alter firm and product-sponsor behavior, competition, recommendation quality, customer outcomes, market participation, and capital allocation. It evaluates disclosure-only, principles-based, uniform fiduciary, and DOL BIC-based alternatives, weighing investor protection against compliance costs, legal risk, advice prices, consolidation, choice, and access. The Commission favors separate standards for broker-dealers and advisers supplemented by Regulation Best Interest and Form CRS, discusses possible effects on recommendations and product-quality competition, and solicits extensive comment on its assumptions, data, methods, costs, benefits, distributional effects, alternatives, and unresolved legal and economic issues before introducing the Paperwork Reduction Act analysis."
+    },
+    {
+      "title": "V. PAPERWORK REDUCTION ACT ANALYSIS",
+      "node_id": "0073",
+      "start_index": 338,
+      "end_index": 377,
+      "nodes": [
+        {
+          "title": "B. Summary of Collections of Information",
+          "node_id": "0074",
+          "start_index": 341,
+          "end_index": 351,
+          "nodes": [
+            {
+              "title": "1. Conflict of Interest Obligations",
+              "start_index": 342,
+              "end_index": 344,
+              "node_id": "0075",
+              "summary": "The text describes Regulation Best Interest conflict-management requirements, including broker-dealers’ duties to identify, disclose, mitigate, or eliminate material conflicts and conflicts caused by financial incentives. It explains that proposed Rules 17a-3(a)(25) and 17a-4(e)(5) would add record-making and retention obligations, creating separate information collections and associated burdens. The Conflict of Interest Obligations apply to broker-dealer entities and would require written policies and procedures that support conflict management, compliance supervision, and regulatory examinations, with retention generally covered by Rule 17a-4(e)(7). The initial cost analysis assumes broker-dealers will update existing policies using internal and external legal and compliance resources, with larger firms bearing greater burdens; it estimates 802 small and 2,055 large broker-dealers and an initial average burden of 50 in-house hours for each large firm."
+            },
+            {
+              "title": "a. Written Policies and Procedures",
+              "start_index": 344,
+              "end_index": 344,
+              "node_id": "0076",
+              "summary": "This excerpt discusses the initial costs and internal burdens of requiring broker-dealers to establish written policies and procedures for identifying and managing conflicts of interest under Regulation Best Interest. It explains that firms would update existing policies using in-house and external legal and compliance counsel, with larger firms facing greater burdens because of their broader offerings. It estimates 802 small and 2,055 large broker-dealers, projects a 50-hour initial in-house burden for each large firm, and provides methodological footnotes concerning burden measurement, FOCUS Reports, the firm-count calculation, and a future PRA update."
+            },
+            {
+              "title": "(1) Initial Costs and Burdens",
+              "start_index": 344,
+              "end_index": 346,
+              "node_id": "0077",
+              "summary": "The text analyzes initial and ongoing costs of requiring broker-dealers to maintain written policies and procedures for identifying and managing conflicts under Regulation Best Interest. It separates 802 small and 2,055 large firms, estimates their respective use of in-house and outside legal and compliance personnel, and calculates aggregate initial burdens of 131,320 hours and costs of $24.8 million. Small firms would primarily use outside counsel, while large firms would combine internal and external resources. Ongoing reviews would occur periodically and annually, with large firms estimated to spend 12 internal hours per year across legal, compliance, and business-line personnel. Supporting footnotes provide the underlying calculations, hourly rate, FOCUS Report definition, and measurement conventions."
+            },
+            {
+              "title": "(2) Ongoing Costs and Burdens",
+              "start_index": 346,
+              "end_index": 348,
+              "node_id": "0078",
+              "summary": "The text estimates initial and ongoing burdens and costs for broker-dealers updating policies and procedures for Regulation Best Interest. Initial totals are 131,320 hours and $24.8 million, including substantial outside counsel and in-house review costs for small firms. Ongoing annual burden is estimated at 28,670 hours and cost at $3.08 million, with large firms using internal personnel and small firms primarily using outside legal and compliance services plus in-house approval. The Commission cautions that costs and update frequency may vary with firm size, complexity, and business model, and the text transitions to identification of material conflicts of interest."
+            },
+            {
+              "title": "b. Identification of Material Conflicts of Interest",
+              "start_index": 348,
+              "end_index": 351,
+              "node_id": "0079",
+              "summary": "The text estimates the costs and burdens of Regulation Best Interest compliance. Small broker-dealers would incur $3.08 million in annual ongoing costs and 4,010 compliance-manager hours, contributing to 28,670 total ongoing hours across firms, while costs and policy-update needs may vary by firm. Material-conflict compliance would require technology modifications costing $15.43 million and 14,285 hours initially, another 14,285 hours to assess materiality, and 28,570 annual hours for in-house reviews without additional costs. Broker-dealers would also develop computerized training for registered representatives, with initial technology-development costs of $21,600 per firm or $61.7 million in aggregate, plus review by compliance and legal personnel."
+            },
+            {
+              "title": "c. Training",
+              "start_index": 351,
+              "end_index": 351,
+              "node_id": "0080",
+              "summary": "The text estimates 28,570 burden hours for 2,857 retail broker-dealers to identify and evaluate potential conflicts, with no additional ongoing costs because in-house personnel would perform the work. It then discusses required Regulation Best Interest training programs, particularly computerized modules, whose development would involve specified outside technology personnel and cost about $21,600 per broker-dealer, or $61.7 million in aggregate, plus expected review by the Chief Compliance Officer and in-house legal counsel."
+            }
+          ],
+          "summary": "This section summarizes the information collections and compliance burdens associated with proposed Regulation Best Interest and related recordkeeping amendments. It covers the estimated population of affected retail-facing representatives; the requirement that broker-dealers act in retail customers’ best interests; conflict identification, disclosure, mitigation, and elimination; written policies and procedures; record creation and retention; initial and ongoing legal, compliance, technology, and personnel costs for small and large firms; technology-based conflict reviews; and development and review of representative training programs. Aggregate estimates include 131,320 initial policy-related hours and $24.8 million in costs, 28,670 annual policy-related hours and $3.08 million in ongoing costs, $15.43 million for conflict-identification technology, and approximately $61.7 million for computerized training development."
+        },
+        {
+          "title": "c. Training",
+          "node_id": "0081",
+          "start_index": 351,
+          "end_index": 375,
+          "nodes": [
+            {
+              "title": "(1) Initial Costs and Burdens",
+              "start_index": 351,
+              "end_index": 352,
+              "node_id": "0082",
+              "summary": "The text estimates the labor burdens and costs for broker-dealers to identify potential conflicts and establish Regulation Best Interest training. Conflict evaluation would require 28,570 aggregate hours with no additional ongoing costs. Developing a computerized training module would cost approximately $21,600 per broker-dealer, or $61.7 million in total, plus 11,428 hours for compliance and legal approval. Initial representative training would require 435,071 hours, producing a total initial training burden of 446,699 hours. Annual repeat training would require another 435,071 hours per year."
+            },
+            {
+              "title": "(2) Ongoing Costs and Burdens",
+              "start_index": 352,
+              "end_index": 352,
+              "node_id": "0083",
+              "summary": "The text estimates the initial and ongoing burdens of implementing Regulation Best Interest training. Broker-dealers would incur 11,428 hours to review and approve the training module, 435,071 hours to train registered representatives initially, and 446,699 hours in total, averaging 152.3 initial hours per broker-dealer. Requiring the one-hour training annually would create 435,071 burden hours per year, or 152.3 hours per broker-dealer, based on 435,071 representatives and 2,857 broker-dealers."
+            },
+            {
+              "title": "2. Disclosure Obligation",
+              "start_index": 353,
+              "end_index": 353,
+              "node_id": "0084",
+              "summary": "The proposed Disclosure Obligation would require broker-dealers to provide retail customers, before or at the time of a securities recommendation, written disclosures describing the relationship’s material scope and terms and all material conflicts of interest. The disclosures are intended to clarify account features, fees, services, and limitations, distinguish broker-dealers from investment advisers and dual-registrants, increase awareness of conflicts, and promote best-interest recommendations. The text also notes that related information-collection, record-making, and recordkeeping requirements will be discussed, and introduces a subsection explaining how broker-dealers are assumed to satisfy the relationship-disclosure requirement, although the excerpt ends before the methods are identified."
+            },
+            {
+              "title": "a. Obligation to Reasonably Disclose to the Retail Customer, in Writing, the Material Facts Relating to the Scope and Terms of the Relationship with the Retail Customer",
+              "start_index": 353,
+              "end_index": 354,
+              "node_id": "0085",
+              "summary": "The text explains proposed Regulation Best Interest’s written disclosure obligations: broker-dealers must disclose material relationship terms and conflicts of interest before or when recommending securities to retail customers. These disclosures are intended to clarify accounts, fees, services, service limitations, provider roles, and conflict effects, thereby supporting best-interest recommendations. For compliance, broker-dealers are expected to use Relationship Summaries, standardized account disclosures addressing capacity and service scope, and comprehensive fee schedules, while also meeting related information-collection and recordkeeping requirements. Standalone firms may use the Relationship Summary to disclose capacity; dual registrants would use account disclosures explaining when they act as broker-dealers and how capacity changes will be communicated."
+            },
+            {
+              "title": "(1) Disclosure of Capacity",
+              "start_index": 354,
+              "end_index": 354,
+              "node_id": "0086",
+              "summary": "The text explains proposed disclosure practices for broker-dealers, including using the Relationship Summary to disclose capacity for standalone firms, standardized account disclosures for dually registered firms, and comprehensive fee schedules detailing transaction, holding, and account fees and charges. These disclosures would generally be provided at the start of the customer relationship, with account disclosures also explaining capacity changes."
+            },
+            {
+              "title": "(2) Disclosure of Fees, Charges, and Types/Scope of Services",
+              "start_index": 354,
+              "end_index": 355,
+              "node_id": "0087",
+              "summary": "The text explains proposed Regulation Best Interest disclosure practices concerning broker-dealer capacity, fees and charges, service types and scope, and material conflicts of interest. Capacity and service information would generally be included in standardized account disclosures delivered at relationship initiation, with updates for material changes. Comprehensive fee schedules would cover transactions, holdings, and accounts and would be updated when disclosures are no longer current or complete for a recommendation. Material conflicts would be disclosed in standardized written documents, supplemented with product-specific information, delivered at account opening or, for existing customers, before or when a recommendation is made, with further disclosures when circumstances materially change or additional information is needed."
+            },
+            {
+              "title": "b. Obligation to Reasonably Disclose in Writing All Material Conflicts of Interest that are Associated with the Recommendation",
+              "start_index": 355,
+              "end_index": 356,
+              "node_id": "0088",
+              "summary": "The text explains disclosure requirements and estimated compliance burdens under Regulation Best Interest. Broker-dealers must update fee schedules when fee disclosures become incomplete or outdated, amend account disclosures after material service changes, and reasonably disclose all material recommendation-related conflicts in writing. Disclosures are generally provided at account opening, with existing customers receiving conflict disclosures before or at the time of a recommendation and additional updates as needed. The analysis assumes standardized and supplemental product disclosures, use of Relationship Summaries for capacity by standalone firms, new account disclosures for dual-registrants and service information, delivery for each customer account, and no separate representative-level burden for these disclosures. Conflict-identification costs are treated separately."
+            },
+            {
+              "title": "c. Estimated Costs and Burdens",
+              "start_index": 356,
+              "end_index": 356,
+              "node_id": "0089",
+              "summary": "The passage introduces estimated annual reporting costs and burdens for Regulation Best Interest disclosures concerning broker-dealer capacity and the type and scope of services. It explains that standalone broker-dealers would use the Relationship Summary for capacity disclosure, while the analysis assumes dual-registrants would create new capacity disclosures and all broker-dealers would create service-related account disclosures, even if similar disclosures are already provided as a best practice. Disclosures are assumed to be delivered for each retail customer account. The Commission does not expect registered representatives generally to bear separate burdens because the broker-dealer’s account disclosure would cover the information, although the text begins an unfinished discussion of initial burdens for dually registered representatives. Conflict-identification costs are addressed separately under the Conflict of Interest Obligation."
+            },
+            {
+              "title": "(1) Disclosure of Capacity, Type and Scope of Services",
+              "start_index": 356,
+              "end_index": 357,
+              "node_id": "0090",
+              "summary": "The text estimates the initial compliance burdens and costs for capacity, service-type, and service-scope disclosures under Regulation Best Interest. It assumes broker-dealers will provide standardized account disclosures for each retail account, with entities handling most disclosure responsibilities and dually registered representatives bearing capacity-related burdens. Each of 360 dually registered firms would spend 10 internal hours and $4,720 on outside counsel, producing aggregate initial estimates of 3,600 hours and $1.7 million. Material-conflict disclosure costs are covered separately."
+            },
+            {
+              "title": "i. Initial Burdens and Costs",
+              "start_index": 357,
+              "end_index": 360,
+              "node_id": "0091",
+              "summary": "The text estimates the initial labor and external legal costs of creating standardized account disclosures on capacity and service scope for dual registrants, small broker-dealers, and large broker-dealers, as well as the labor required to deliver those disclosures to approximately 95.2 million retail accounts. It gives firm-level and aggregate hours and costs, explains the calculation assumptions and delivery timing, notes that postage costs are not incremental, and reports total initial burdens of 1,956,620 hours and costs of $20.04 million, with a minor discrepancy between the large-firm burden used in the total and the earlier estimate. Ongoing obligations are assumed to involve annual in-house review and amendment of the disclosures without outside-counsel costs."
+            },
+            {
+              "title": "ii. Ongoing Burdens",
+              "start_index": 360,
+              "end_index": 362,
+              "node_id": "0092",
+              "summary": "The text estimates initial and ongoing burdens and costs for broker-dealers to prepare, update, and deliver retail account disclosures concerning their capacity and the types and scope of services offered. Initial delivery requires 1,956,620 hours and costs $20.04 million, with no incremental postage expected. Annual review, amendment, and delivery of updated disclosures are estimated at 427,700 hours, broken down by firm type and delivery activity. The Commission acknowledges that burdens vary by broker-dealer and introduces a standardized fee-schedule disclosure assumption for fees and charges."
+            },
+            {
+              "title": "(2) Disclosure of Fees",
+              "start_index": 362,
+              "end_index": 363,
+              "node_id": "0093",
+              "summary": "The text estimates the ongoing burdens of updating broker-dealer account disclosures for changes in capacity and service scope, including 41,100 hours for large firms, 380,800 hours to deliver amendments to 20% of retail accounts, and 427,700 hours overall across firm categories. It notes that burdens vary by firms' products and services. It then outlines fee-disclosure requirements based on standardized fee schedules provided at relationship inception or before recommendations and amended for material changes, treating the burden as an entity-level responsibility. Initial preparation is estimated at five internal hours for small broker-dealers and ten for large ones, plus one-time outside counsel costs of $2,360 and $4,720, respectively; the excerpt ends before stating the aggregate initial burden."
+            },
+            {
+              "title": "i. Initial Costs/Burdens",
+              "start_index": 363,
+              "end_index": 365,
+              "node_id": "0094",
+              "summary": "The text estimates the initial and ongoing burdens and costs for broker-dealers to create, review, update, and deliver fee schedules under Regulation Best Interest. It distinguishes small and large firms, quantifies internal hours and outside counsel costs for initial creation, estimates first-year customer-delivery burdens, and provides aggregate totals of 405,360 initial hours and $11.59 million. Annual updates are expected to require 1,604 hours for small firms and 8,220 for large firms, with no external update costs. Amendments after material changes would be delivered to an estimated 40% of retail accounts, although the excerpt does not state the resulting burden."
+            },
+            {
+              "title": "ii. Ongoing Costs/Burdens",
+              "start_index": 365,
+              "end_index": 366,
+              "node_id": "0095",
+              "summary": "The text estimates broker-dealers’ initial and recurring burdens and costs for maintaining and delivering standardized fee schedules, including annual review assumptions, firm-size-specific hours, the absence of expected external costs, and the substantial burden associated with delivering amendments after material changes. It notes that these burdens may vary by firm because fee schedules differ. It then describes Regulation Best Interest’s requirement to disclose material conflicts of interest, assumes broker-dealer entities will handle disclosures for their representatives, and anticipates that firms will generally use standardized conflict-disclosure documents delivered at relationship inception for new customers and before or when recommendations are made for existing customers."
+            },
+            {
+              "title": "(3) Disclosure of Material Conflicts of Interest",
+              "start_index": 366,
+              "end_index": 366,
+              "node_id": "0096",
+              "summary": "The text estimates the annual burden of updating standardized fee schedules and notes that costs vary by broker-dealer. It then describes Regulation Best Interest’s requirement that broker-dealers disclose all material conflicts related to recommendations, including the initial and ongoing burdens for entities and representatives. For analysis purposes, broker-dealer entities are assumed to make disclosures for their representatives, likely using standardized documents delivered at account inception for new customers and before or when recommendations are made for existing customers. The cited burden estimate is calculated from the number of affected retail accounts, time per disclosure, and number of broker-dealers."
+            },
+            {
+              "title": "i. Initial Costs and Burdens",
+              "start_index": 366,
+              "end_index": 368,
+              "node_id": "0097",
+              "summary": "The text estimates the compliance burdens and costs associated with standardized fee schedules and Regulation Best Interest’s material-conflict disclosure requirement. It provides initial counsel, delivery, and aggregate burden and cost estimates for small and large broker-dealers, assumes standardized annual disclosures delivered at specified customer relationship or recommendation milestones, acknowledges alternatives such as as-needed or layered disclosure, requests comment on those alternatives, and introduces ongoing annual updating obligations without specifying mandated disclosure intervals."
+            },
+            {
+              "title": "ii. Ongoing Costs and Burdens",
+              "start_index": 368,
+              "end_index": 370,
+              "node_id": "0098",
+              "summary": "The text estimates the initial and ongoing burdens and costs of creating, updating, and delivering standardized conflict disclosures under Regulation Best Interest. It provides broker-dealer and customer-account calculations for initial delivery, assumes annual in-house updates despite the rule's as-needed disclosure approach, and estimates recurring delivery burdens without outside professional costs. It also describes the Care Obligation and introduces related record-making and recordkeeping requirements intended to support compliance supervision, examinations, and investigations, including the requirement to record information collected from and provided to retail customers."
+            },
+            {
+              "title": "3. Care Obligation",
+              "start_index": 370,
+              "end_index": 370,
+              "node_id": "0099",
+              "summary": "The text estimates an annual ongoing burden of 761,600 hours, or 267 hours per broker-dealer, based on updating disclosures for a portion of retail accounts, with fee and conflict disclosures updated more often than service-related disclosures. It describes the proposed Regulation Best Interest Care Obligation, requiring reasonable efforts to assess recommendation risks, rewards, and potential customer benefit, while noting that its PRA burdens are covered under proposed Rule 17a-3(a)(25). It also introduces record-making and recordkeeping requirements under proposed Rules 17a-3(a)(25) and 17a-4(e)(5), intended to support internal supervision, compliance, examinations, and investigations, including a requirement to record information exchanged with retail customers."
+            },
+            {
+              "title": "4. Record-making and Recordkeeping Obligations",
+              "start_index": 370,
+              "end_index": 373,
+              "node_id": "0100",
+              "summary": "The text estimates disclosure-related burdens under Regulation Best Interest, explains the Care Obligation, and details proposed record-making and recordkeeping requirements. Broker-dealers would generally rely on existing customer records and systems but would need to document the associated person responsible for each relevant account, initially amend account disclosures, and enter this information for customer accounts. The estimated initial burdens include $378,544 for small firms, 4,110 hours for larger firms, and 3,808,000 hours for account-level data entry, with no expected ongoing burden for representative identification. Records such as Relationship Summaries, account disclosures, fee schedules, and conflict disclosures would generally have to be retained for at least six years, consistent with existing Rule 17a-4 practices."
+            },
+            {
+              "title": "b. Recordkeeping Obligations",
+              "start_index": 373,
+              "end_index": 375,
+              "node_id": "0101",
+              "summary": "The text explains proposed broker-dealer recordkeeping and retention obligations under Regulation Best Interest and amendments to Rules 17a-3 and 17a-4. It identifies the records to be retained for at least six years, expects firms to rely on existing systems, estimates initial and annual burdens of approximately 15.9 million and 3.17 million hours respectively, discusses assumed and potentially additional storage and compliance costs, states that the information collections are mandatory, and addresses confidentiality by noting that customer written disclosures would not be confidential."
+            },
+            {
+              "title": "C.Collection of Information is Mandatory",
+              "start_index": 375,
+              "end_index": 375,
+              "node_id": "0102",
+              "summary": "The text describes the estimated ongoing recordkeeping burden and costs of proposed amendments to Rules 17a-3 and 17a-4, including a projected 3.17 million annual burden hours and no expected change in retention-compliance costs. It seeks comments on record-update frequency and possible additional retention costs, states that the specified information collections are mandatory for broker-dealers, and explains that Regulation Best Interest written customer disclosures would not be confidential. The burden estimate is calculated from expected annual updates to specified records across 95.2 million retail accounts at two minutes per document."
+            },
+            {
+              "title": "D.Confidentiality",
+              "start_index": 375,
+              "end_index": 375,
+              "node_id": "0103",
+              "summary": "The text estimates a 3.17 million-hour annual ongoing recordkeeping burden under the proposed Rule 17a-4(e)(5) amendment, expects no increase in retention-compliance costs compared with current Rule 17a-4 costs, and seeks comment on record-update frequency and potential additional retention costs. It states that the related Regulation Best Interest, Rule 17a-3, and Rule 17a-4 information collections are mandatory for broker-dealers, that required written retail-customer disclosures are not confidential, and explains the burden estimate through projected document updates across 95.2 million accounts."
+            }
+          ],
+          "summary": "The section evaluates the training, disclosure, care, and recordkeeping requirements proposed under Regulation Best Interest. It quantifies the initial and recurring labor and dollar costs of developing and delivering training; preparing, updating, and distributing disclosures about broker-dealer capacity, services, fees, charges, and material conflicts; and maintaining related records. It explains the use of Relationship Summaries, standardized account disclosures, fee schedules, and conflict documents for standalone firms, dual registrants, new customers, and existing customers. It also describes the Care Obligation to assess recommendation risks, rewards, and customer benefit, together with record-making and six-year retention requirements designed to support supervision and regulatory examinations. Finally, it addresses mandatory information collections, confidentiality, existing systems, uncertain storage costs, and requests for comment on disclosure timing, updating frequency, alternative disclosure methods, and retention burdens."
+        },
+        {
+          "title": "D. Confidentiality",
+          "node_id": "0104",
+          "start_index": 375,
+          "end_index": 376,
+          "summary": "The text estimates 3.17 million annual burden hours for ongoing recordkeeping under the proposed Rule 17a-4(e)(5) amendment and expects no change in retention-compliance costs, while seeking input on record-update frequency and possible additional costs. It states that the relevant information collections are mandatory for broker-dealers, distinguishes nonconfidential retail-customer disclosures from generally confidential examination and investigation submissions, and requests broad public comment on burden estimates, affected persons and firms, unidentified costs, and related issues. The comments will help evaluate the collections’ necessity and practical utility, estimate accuracy, and opportunities to improve the collected information."
+        },
+        {
+          "title": "E. Request for Comment",
+          "node_id": "0105",
+          "start_index": 376,
+          "end_index": 377,
+          "summary": "The text addresses confidentiality of information provided during Commission examinations, requests public comment on the estimated reporting burdens and costs of Regulation Best Interest and related proposed recordkeeping amendments, and identifies specific estimates and collection issues on which feedback is sought under the Paperwork Reduction Act. It provides submission recipients, addresses, file references, and the 30-day timing recommendation for OMB comments. It then introduces SBREFA requirements, including the Commission’s obligation to advise OMB whether the proposal is a major rule, defined in part by an annual economic impact of $100 million or more."
+        }
+      ],
+      "summary": "The section analyzes the Paperwork Reduction Act implications of proposed Regulation Best Interest and related broker-dealer recordkeeping amendments. It identifies the affected broker-dealers and associated persons, explains the proposal’s disclosure, best-interest, conflict-mitigation, training, care, policy, and recordkeeping obligations, and estimates their labor, technology, training, and ongoing compliance burdens. It addresses mandatory collections, OMB review and control numbers, confidentiality, record retention, and examination information, while requesting detailed public comment on the estimates, practical utility, costs, disclosure and retention approaches, and possible omitted burdens. It also provides PRA submission information and introduces the proposal’s related SBREFA major-rule analysis, alongside questions seeking data on the economic analysis, customer and firm effects, market implications, and regulatory alternatives."
+    },
+    {
+      "title": "VI. SMALL BUSINESS REGULATORY ENFORCEMENT FAIRNESS ACT",
+      "node_id": "0106",
+      "start_index": 377,
+      "end_index": 378,
+      "summary": "The text addresses reducing the burden of Regulation Best Interest information collections and provides procedures, mailing addresses, file references, and timing for submitting comments and requesting OMB materials. It then explains SBREFA's requirements for identifying major rules, including the economic, cost, competition, investment, and innovation thresholds, the potential 60-day Congressional-review delay, and the Commission's request for supporting comments on Regulation Best Interest and a proposed Rule 17a-4(e)(5) amendment. Finally, it introduces the Initial Regulatory Flexibility Act Analysis, describing the Commission's obligation to assess effects on small entities, citing the relevant statutes, and noting the Commission's authority to define small entities for its rulemaking."
+    },
+    {
+      "title": "VII. INITIAL REGULATORY FLEXIBILITY ACT ANALYSIS",
+      "node_id": "0107",
+      "start_index": 378,
+      "end_index": 403,
+      "nodes": [
+        {
+          "title": "A. Reasons for and Objectives of the Proposed Action",
+          "node_id": "0108",
+          "start_index": 379,
+          "end_index": 381,
+          "summary": "The text explains the RFA framework and presents the Commission's proposal for Regulation Best Interest. The proposal would require broker-dealers and associated persons making retail recommendations to put customers' interests first through disclosures, careful recommendations, and policies addressing ordinary and incentive-based conflicts. Its goals are to improve advice, reduce conflicts and investor confusion, harmonize regulation, align duties with expectations, and preserve affordable investment choices. It would also create specified record-making and six-year retention duties. The proposal is based on Dodd-Frank and several Exchange Act provisions, and it identifies small broker-dealers for RFA purposes using a $500,000 total-capital threshold."
+        },
+        {
+          "title": "B. Legal Basis",
+          "node_id": "0109",
+          "start_index": 381,
+          "end_index": 381,
+          "summary": "The text describes proposed Regulation Best Interest-related record-making and six-year record-retention requirements for broker-dealers, including customer information and responsible associated-person identities. It states the statutory authority for the proposed rules and begins defining which broker-dealers qualify as small entities under the Regulatory Flexibility Act based on having less than $500,000 in total capital."
+        },
+        {
+          "title": "C. Small Entities Subject to the Proposed Rule",
+          "node_id": "0110",
+          "start_index": 381,
+          "end_index": 382,
+          "summary": "The text explains that the proposed Regulation Best Interest amendments would impose new record-making and six-year record-retention duties on broker-dealers, identifies the statutory authority for the proposals, defines which broker-dealers qualify as small entities under the RFA, estimates that 2,857 retail broker-dealers—including about 802 small entities—would be affected, and introduces the required discussion of projected compliance obligations for small entities."
+        },
+        {
+          "title": "D. Projected Compliance Requirements of the Proposed Rule for Small Entities",
+          "node_id": "0111",
+          "start_index": 382,
+          "end_index": 397,
+          "nodes": [
+            {
+              "title": "1. Conflict of Interest Obligations",
+              "start_index": 383,
+              "end_index": 383,
+              "node_id": "0112",
+              "summary": "The text addresses the small-entity impacts of proposed Regulation Best Interest and related amendments to Rules 17a-3(a)(25) and 17a-4(e)(5), including affected entities, required professional skills, and compliance costs. It focuses on Conflict of Interest Obligations requiring updated written policies and procedures, material-conflict identification, and compliance training. Initial implementation is expected to involve 40 hours of outside counsel work costing $18,880 per entity, or $15.1 million in total, plus 10 hours of in-house legal review per entity, totaling 8,020 hours, followed by ongoing costs and burdens."
+            },
+            {
+              "title": "a. Written Policies and Procedures",
+              "start_index": 383,
+              "end_index": 384,
+              "node_id": "0113",
+              "summary": "The text outlines the estimated compliance costs and burdens for small entities under proposed Regulation Best Interest and related amendments to Rules 17a-3(a)(25) and 17a-4(e)(5). It focuses on conflict-of-interest obligations, including updating policies and procedures, identifying material conflicts, and developing compliance training. It provides estimated outside-counsel, consulting, programming, and internal staff costs and hours for initial and ongoing compliance, including aggregate totals for all affected small entities."
+            },
+            {
+              "title": "b. Identification of Material Conflicts of Interest",
+              "start_index": 384,
+              "end_index": 385,
+              "node_id": "0114",
+              "summary": "The text estimates the costs and burdens for small entities under proposed Regulation Best Interest. Annual policy and procedure updates would cost about $3,850 per entity, or $3.08 million collectively, plus 4,010 internal hours. Identifying and assessing material conflicts would require technology modifications costing about $5,400 per entity and $4.33 million in total, along with 4,010 hours for coordination and another 4,010 hours to assess materiality. Ongoing annual conflict reviews would add 8,020 hours across 802 entities. The text then introduces training requirements under which small entities would develop programs to promote compliance and maintain and enforce written policies and procedures."
+            },
+            {
+              "title": "c. Training",
+              "start_index": 385,
+              "end_index": 386,
+              "node_id": "0115",
+              "summary": "The text estimates the costs and labor burdens small entities would incur under proposed Regulation Best Interest for technology modifications and conflict-of-interest reviews, as well as compliance training. Technology changes would cost $4.33 million and require 4,010 hours, materiality determinations another 4,010 hours, and annual conflicts reviews 8,020 hours. Developing computerized training modules would cost $21,600 per entity, or $17.32 million in total, with 3,208 hours for management and legal approval. Initial and recurring annual training of registered representatives would each require 4,236 hours."
+            },
+            {
+              "title": "2. Disclosure Obligations",
+              "start_index": 387,
+              "end_index": 387,
+              "node_id": "0116",
+              "summary": "The text describes proposed Regulation Best Interest disclosure obligations for small entities: written disclosure of the relationship’s material terms, including capacity, fees, charges, service types and scope, and written disclosure of material recommendation-related conflicts. It then estimates that each dually registered small entity would require 10 internal hours and $4,720 in outside-counsel costs to prepare standardized capacity-disclosure language; across 41 entities with retail business, this totals 410 hours and $193,520. Footnotes provide the calculation, data and cross-references supporting these estimates."
+            },
+            {
+              "title": "a. Disclosure of Capacity, Type and Scope of Services",
+              "start_index": 387,
+              "end_index": 390,
+              "node_id": "0117",
+              "summary": "The text explains the written disclosure and conflict-of-interest obligations proposed by Regulation Best Interest and estimates related burdens for small entities. It provides initial drafting, legal-review, delivery, and ongoing-update costs and hours for disclosures concerning capacity and service types and scope, including separate estimates for dually registered and standalone broker-dealers. It also estimates the initial internal and external costs of preparing fee schedules and begins estimating their delivery burden, based on 802 entities and approximately 7,845 retail accounts."
+            },
+            {
+              "title": "b. Disclosure of Fees",
+              "start_index": 390,
+              "end_index": 391,
+              "node_id": "0118",
+              "summary": "The text estimates small-entity burdens and costs under Regulation Best Interest for disclosure delivery and fee schedules. It provides aggregate and per-entity hours for an initial disclosure, estimates fee-schedule creation at 4,010 hours and $1.89 million including outside counsel, calculates initial and amended delivery burdens using 7,845 accounts and 802 entities, projects 1,604 recurring annual update hours with no external update costs, and begins estimating counsel time for standardized material-conflict disclosures."
+            },
+            {
+              "title": "c. Disclosure of Material Conflicts of Interest",
+              "start_index": 391,
+              "end_index": 393,
+              "node_id": "0119",
+              "summary": "The text estimates the paperwork burdens and costs for small entities associated with standardized fee schedules and material-conflict disclosures. Fee-schedule activities include an initial burden of 156.9 hours, annual updates totaling 1,604 hours, no expected external update costs, and 62.76 annual hours for delivering amendments to 40% of accounts. Conflict-disclosure development would require 4,010 initial burden hours and $1.89 million in aggregate external costs, with delivery to new and existing customers adding 156.9 initial hours. Annual updates would total 802 hours with no expected external costs, while delivery of amended disclosures to 40% of accounts would add 62.76 hours annually; per-entity burdens and calculation assumptions are provided throughout."
+            },
+            {
+              "title": "3. Obligation to Exercise Reasonable Diligence, Care, Skill and Prudence",
+              "start_index": 394,
+              "end_index": 394,
+              "node_id": "0120",
+              "summary": "The text states that small entities are not expected to incur additional costs from the reasonable diligence, care, skill, and prudence obligation. It then addresses proposed record-making and recordkeeping requirements under Rules 17a-3(a)(25) and 17a-4(e)(5), explaining that small entities already record relevant customer information and therefore would generally face no new record-making burden from information collection. However, they would have to record specified information for each retail customer receiving a securities recommendation, including the customer-related identities described in the incomplete text, while ensuring their analysis and recommendations meet Regulation Best Interest’s enhanced standard."
+            },
+            {
+              "title": "4. Record-making and Recordkeeping Obligations",
+              "start_index": 394,
+              "end_index": 394,
+              "node_id": "0121",
+              "summary": "The text addresses small entities’ obligations under Proposed Regulation Best Interest, concluding that the reasonable diligence, care, skill, and prudence obligation should not add costs or burdens or require additional customer information. It then discusses proposed record-making and recordkeeping amendments, explaining that existing records of customer investment profiles should prevent additional burdens for information collection, while noting a proposed requirement to record specified identities for each retail customer receiving a securities recommendation. The excerpt also references related discussions of costs, burdens, and monetized impacts and ends mid-requirement."
+            },
+            {
+              "title": "a. Record-making Obligations",
+              "start_index": 394,
+              "end_index": 396,
+              "node_id": "0122",
+              "summary": "The text evaluates the costs and burdens for small entities under Regulation Best Interest. It concludes that the reasonable-diligence, care, skill, and prudence obligation should not create additional costs beyond existing information-collection practices. Proposed record-making requirements would require documenting the associated person responsible for each account, likely through amended account disclosure documents, at an estimated aggregate initial cost of $378,544 and 313.8 personnel hours, with no ongoing burden expected. Required records—including Relationship Summaries, account disclosures, fee schedules, and conflict disclosures—would be retained for six years using existing systems, requiring an estimated 1,307.5 initial hours but no anticipated uploading or filing costs."
+            },
+            {
+              "title": "b. Recordkeeping Obligations",
+              "start_index": 396,
+              "end_index": 397,
+              "node_id": "0123",
+              "summary": "The text discusses record-making and recordkeeping burdens for small entities under proposed amendments to Rules 17a-3(a)(25) and 17a-4(e)(5). It identifies four records subject to six-year retention, estimates initial and annual burdens, explains that existing systems would be used and no significant costs are expected, provides the calculation assumptions and requests comment on them, and concludes that Regulation Best Interest would not conflict with and is generally consistent with the DOL Fiduciary Rule and related exemptions."
+            }
+          ],
+          "summary": "This section evaluates the projected reporting, disclosure, record-making, recordkeeping, and other compliance requirements and costs of proposed Regulation Best Interest and related amendments for approximately 802 small retail broker-dealers. It estimates the burdens of conflict-of-interest policies, material-conflict identification, technology changes, compliance training, relationship and fee disclosures, fee schedules, and conflict disclosures, including initial and recurring legal, consulting, technology, delivery, and staff costs. It also explains that the reasonable-care obligation is not expected to create material new costs, while proposed account documentation and six-year retention requirements would generally rely on existing systems, with limited initial record-making and recordkeeping burdens. The section includes calculation assumptions, aggregate and per-entity estimates, relevant professional-skill requirements, and a conclusion that the proposals are consistent with the DOL Fiduciary Rule and related exemptions."
+        },
+        {
+          "title": "E. Duplicative, Overlapping, or Conflicting Federal Rules",
+          "node_id": "0124",
+          "start_index": 397,
+          "end_index": 397,
+          "summary": "The text estimates a 261.5-hour annual ongoing burden for small entities from the proposed Rule 17a-4(e)(5) amendment, with no expected increase over current Rule 17a-4 compliance costs. It addresses the RFA requirement to identify duplicative, overlapping, or conflicting federal rules, noting the DOL Fiduciary Rule and related BIC and Principal Transactions Exemptions, which are viewed as generally consistent with and not conflicting with Regulation Best Interest. The burden calculation and the agency’s requests for comment on record-update frequency and retention-related costs are also provided."
+        },
+        {
+          "title": "F. Significant Alternatives",
+          "node_id": "0125",
+          "start_index": 398,
+          "end_index": 403,
+          "nodes": [
+            {
+              "title": "1. Disclosure-only alternative",
+              "start_index": 401,
+              "end_index": 402,
+              "node_id": "0126",
+              "summary": "The text evaluates three alternatives to proposed Regulation Best Interest: a disclosure-only regime, a flexible principles-based conduct standard, and fiduciary requirements modeled on the DOL’s BIC Exemption. It compares their compliance costs, flexibility, liability implications, and effectiveness in protecting retail customers, concluding that the first two would provide weaker protection and that the BIC-like approach could be costly despite potential savings for firms with existing infrastructure."
+            },
+            {
+              "title": "3. Enhanced Standards Akin to BIC Exemption",
+              "start_index": 402,
+              "end_index": 403,
+              "node_id": "0127",
+              "summary": "The Commission compares Regulation Best Interest with two alternatives: a less prescriptive principles-based standard, which could provide flexibility and lower compliance costs but might weaken retail protection, reduce clarity, and increase liability; and a fiduciary regime modeled on the DOL’s BIC Exemption, which could benefit firms with existing infrastructure but might raise advice costs, price customers out of the market, and impose significant burdens and market effects. It preliminarily favors the proposed approach, believes it may significantly affect many small entities, and requests comments and empirical data on those impacts and compliance burdens before introducing the statutory authority and proposed rule text section."
+            }
+          ],
+          "summary": "This section explains the RFA's required consideration of alternatives for reducing small-entity impacts, rejects exemptions, size-based requirements, and entity-specific simplification because they could weaken investor protection and regulatory consistency, but highlights flexible, performance-based compliance and disclosure options. It then compares disclosure-only, principles-based, fiduciary, and BIC-like alternatives in terms of protection, costs, flexibility, liability, clarity, and market effects, preliminarily favoring Regulation Best Interest while requesting data and comments on its impacts and burdens, particularly for small entities."
+        },
+        {
+          "title": "G. General Request for Comment",
+          "node_id": "0128",
+          "start_index": 403,
+          "end_index": 403,
+          "summary": "The Commission explains that imposing a fiduciary standard and BIC-like requirements on broker-dealers could raise costs, reduce retail access to investment advice, affect the advice market, and conflict with its regulatory approach. It preliminarily concludes that Regulation Best Interest may significantly affect many small entities and solicits data-driven comments on affected entities, potential impacts, compliance burdens, and effects on smaller firms, followed by the statutory-authority section and related footnotes."
+        }
+      ],
+      "summary": "The Initial Regulatory Flexibility Act Analysis explains the RFA framework and legal authority for evaluating Regulation Best Interest and the proposed Rule 17a-4(e)(5) amendment, identifies approximately 802 affected small retail broker-dealers, and describes the proposals' investor-protection objectives, including customer-focused recommendations, disclosures, conflict management, and record retention. It estimates small-entity reporting, disclosure, technology, training, legal, consulting, record-making, and recordkeeping burdens; compares the proposals with existing DOL requirements; evaluates alternatives intended to reduce small-firm impacts; and preliminarily supports Regulation Best Interest while seeking comment on exemptions, flexible compliance, costs, burdens, and market effects. The Commission also requests empirical data concerning impacts on the economy, consumers, industries, competition, investment, innovation, advice access, and smaller firms, and notes the potential Congressional-review delay for major rules."
+    },
+    {
+      "title": "VIII. STATUTORY AUTHORITY AND TEXT OF PROPOSED RULE",
+      "node_id": "0129",
+      "start_index": 403,
+      "end_index": 404,
+      "key_items": [
+        "List of Subjects 17 CFR Part 240",
+        "Text of the Proposed Rules"
+      ],
+      "summary": "The Commission discusses the potential costs and market effects of imposing a fiduciary standard and BIC-like requirements on broker-dealers, including possible reduced access to advice for retail customers and disproportionate burdens on small entities. It seeks Regulatory Flexibility Act comments and supporting data on affected entities, impacts, and compliance burdens. The text then states the statutory authority for Regulation Best Interest and related recordkeeping amendments, identifies the affected CFR provisions and subject areas, and provides the continuing and newly added legal authority citations for proposed Part 240 rules."
+    },
+    {
+      "title": "PART 240 – GENERAL RULES AND REGULATIONS, SECURITIES EXCHANGE ACT OF 1934",
+      "node_id": "0130",
+      "start_index": 404,
+      "end_index": 408,
+      "summary": "The text presents the SEC's 2018 proposed Regulation Best Interest under Dodd-Frank and the Exchange Act. It would require broker-dealers and associated persons making securities recommendations to retail customers to act in the customer's best interest through written conflict disclosures, reasonable care, and conflict-management policies; defines retail customers and investment profiles; and establishes related customer-record creation and six-year preservation requirements, along with the proposal's statutory authorities, subject classifications, and formal regulatory amendments."
+    }
+  ],
+  "has_abstract_or_references_section": true
+}

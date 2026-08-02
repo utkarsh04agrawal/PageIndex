@@ -1,0 +1,193 @@
+{
+  "doc_name": "q1-fy25-earnings.pdf",
+  "doc_title": "THE WALT DISNEY COMPANY REPORTS FIRST QUARTER EARNINGS FOR FISCAL 2025",
+  "structure": [
+    {
+      "title": "Financial Results for the Quarter:",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "Disney reported strong first-quarter fiscal 2025 results for the period ended December 28, 2024, with increases in revenue, pretax income, diluted EPS, segment operating income, and adjusted EPS. Entertainment benefited from higher direct-to-consumer and content results, especially Moana 2, although Disney+ subscribers declined slightly and overall direct-to-consumer advertising revenue fell because of Disney+ Hotstar comparisons. Sports improved through higher operating income and domestic ESPN advertising. Experiences remained broadly flat as hurricanes and Disney Treasure pre-opening costs offset performance, with domestic operations down and international operations up. The release also explains the use of non-GAAP measures and provides Disney+ Hotstar advertising comparisons."
+    },
+    {
+      "title": "Key Points:",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "Disney reported strong fiscal Q1 2025 results, with higher revenue, pretax income, diluted EPS, segment operating income, and adjusted EPS. Entertainment growth was driven by improved direct-to-consumer results and Moana 2, despite overall advertising and Disney+ subscriber declines; Sports benefited from stronger ESPN advertising; and Experiences remained broadly stable, with international parks growth offset by hurricane effects and Disney Treasure launch costs affecting domestic operations. The release also explains the use of non-GAAP measures and provides the related Disney+ Hotstar advertising figures."
+    },
+    {
+      "title": "Guidance and Outlook:",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 2,
+      "summary": "Disney's guidance projects fiscal 2025 growth across Entertainment, Sports, and Experiences, strong operating cash flow, and high-single-digit adjusted EPS growth, while outlining Q2 pressures from subscriber trends, sports scheduling and the Venu exit, and Disney Cruise Line pre-opening costs. The company explains the impact of Star India's deconsolidation and expected India joint venture losses, and expects a substantial increase in Entertainment DTC operating income. CEO Robert Iger highlighted strong studio performance, improved streaming profitability, ESPN's Disney+ integration, and continued Experiences investment as evidence of strategic progress. Footnotes clarify the Star India reporting-period change, the India JV accounting treatment, the Disney+ Hotstar comparison, and the non-GAAP nature of adjusted EPS."
+    },
+    {
+      "title": "Message From Our CEO:",
+      "node_id": "0003",
+      "start_index": 2,
+      "end_index": 2,
+      "summary": "Disney forecasts fiscal 2025 growth despite the Star India deconsolidation, with lower India-related segment contributions, a purchase-accounting-driven India JV equity loss, and specified Q2 headwinds from DTC subscribers, sports costs, Venu Sports, and Disney Cruise Line pre-opening expenses. Full-year expectations include high-single-digit adjusted EPS growth, $15 billion in operating cash flow, strong Entertainment DTC and segment growth, 13% Sports growth, 6%–8% Experiences growth, and about $200 million in Cruise Line pre-opening costs. CEO Robert Iger highlighted strong films, improving streaming profitability, ESPN's Disney+ integration, and Experiences investment as evidence of Disney's strategic and financial momentum. The notes explain Star India's partial-period treatment, the shift to equity accounting for the India JV, the non-GAAP nature of adjusted EPS, and the prior-year Disney+ Hotstar comparison."
+    },
+    {
+      "title": "SUMMARIZED FINANCIAL RESULTS",
+      "node_id": "0004",
+      "start_index": 3,
+      "end_index": 3,
+      "summary": "The text reports Disney’s first-quarter fiscal 2025 consolidated and segment results compared with fiscal 2024. Revenue, pretax income, segment operating income, EPS, adjusted EPS, and operating cash flow increased, while free cash flow declined. Entertainment posted strong revenue and operating-income growth, Sports revenue was flat but operating income improved from a loss to a profit, and Experiences was broadly stable. It also explains segment eliminations and identifies the non-GAAP measures and their corresponding GAAP comparisons."
+    },
+    {
+      "title": "SUMMARIZED SEGMENT FINANCIAL RESULTS",
+      "node_id": "0005",
+      "start_index": 3,
+      "end_index": 3,
+      "summary": "First-quarter fiscal 2025 results showed 5% revenue growth and substantial increases in pretax income, segment operating income, EPS, adjusted EPS, and operating cash flow, although free cash flow declined. Entertainment led segment operating-income growth, Sports improved from a loss to profit, and Experiences remained stable; segment revenues generally increased or were flat. The text also explains the relevant non-GAAP measures, their GAAP equivalents, and the nature of intersegment eliminations."
+    },
+    {
+      "title": "DISCUSSION OF FIRST QUARTER SEGMENT RESULTS",
+      "node_id": "0006",
+      "start_index": 4,
+      "end_index": 9,
+      "nodes": [
+        {
+          "title": "Star India",
+          "node_id": "0007",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "The text explains the November 2024 Star India joint venture with RIL, its ownership and accounting treatment, and compares Entertainment segment results for the quarters ended December 28, 2024 and December 30, 2023. Revenue rose 9% to $10.872 billion, driven by higher Direct-to-Consumer and Content Sales/Licensing and Other revenue, while Linear Networks declined. Operating income nearly doubled to $1.703 billion due to improved Direct-to-Consumer and Content Sales/Licensing and Other results, partly offset by lower Linear Networks income."
+        },
+        {
+          "title": "Entertainment",
+          "node_id": "0008",
+          "start_index": 4,
+          "end_index": 7,
+          "summary": "The text discusses Disney’s first-quarter fiscal 2025 segment results, including the November 2024 Star India joint venture with Reliance and the resulting equity-accounting treatment. Entertainment revenue rose 9% and operating income nearly doubled, driven by improved Direct-to-Consumer and Content Sales/Licensing results, partly offset by weaker Linear Networks performance. It details domestic and international Linear Networks trends, A+E investee results, DTC revenue and cost drivers, subscriber and average-revenue metrics for Disney+ and Hulu, and the effects of pricing, promotions, advertising, sports programming, and the Star India transition. Content Sales/Licensing benefited from strong theatrical performance led by Moana 2. Sports revenue was broadly flat, while operating income improved substantially because of stronger ESPN international results, despite declines in ESPN domestic and Star India results."
+        },
+        {
+          "title": "Sports",
+          "node_id": "0009",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "The text reports subscriber monetization trends for Disney+, Hulu, and ESPN+, quarterly Content Sales/Licensing and Sports results, and the factors driving changes. Disney+ and Hulu Live TV monetization increased, while Hulu SVOD Only was stable. Content Sales/Licensing and Other shifted to substantial operating income on stronger theatrical results, especially Moana 2. Sports revenue was broadly flat, but operating results improved overall: domestic ESPN declined due to higher college-football costs despite stronger advertising and sublicensing revenue, international ESPN's loss narrowed, and Star India improved because the prior-year period included the Cricket World Cup. ESPN+ subscribers declined sequentially, but revenue per subscriber increased from pricing and advertising improvements."
+        },
+        {
+          "title": "Experiences",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "For the quarter ended December 28, 2024, Experiences revenue rose 3% to $9.415 billion and operating income increased 1% to $3.110 billion. Domestic results declined because of hurricane-related attendance reductions, a Walt Disney World closure, a canceled cruise itinerary, and higher costs, despite increased guest spending. International results improved due to stronger spending and attendance, partly offset by costs for new offerings. Consumer Products revenue fell 2% while operating income rose 1%. Corporate shared expenses rose $152 million due mainly to a legal settlement, and the Company recognized a $143 million loss related to the Star India Transaction."
+        }
+      ],
+      "summary": "The section reviews Disney’s first-quarter fiscal 2025 segment performance and the November 2024 Star India joint venture with Reliance, including its ownership and equity-accounting treatment. Entertainment revenue rose 9% to $10.872 billion and operating income nearly doubled to $1.703 billion as Direct-to-Consumer and Content Sales/Licensing improved, including strong theatrical results from Moana 2, while Linear Networks weakened; it also covers domestic and international network trends, A+E investees, Disney+ and Hulu monetization, subscribers, pricing, promotions, advertising, sports programming, and the Star India transition. Sports revenue was broadly flat but operating income improved through stronger international ESPN performance and reduced losses, despite domestic ESPN cost pressures, lower ESPN+ subscribers, and weaker Star India results. Experiences revenue increased 3% to $9.415 billion and operating income 1% to $3.110 billion, with domestic pressures from weather, closures, a canceled cruise, and costs offset by stronger international performance. The section also covers Consumer Products, corporate shared expenses, the legal settlement, and the Star India transaction loss."
+    },
+    {
+      "title": "OTHER FINANCIAL INFORMATION",
+      "node_id": "0011",
+      "start_index": 9,
+      "end_index": 12,
+      "nodes": [
+        {
+          "title": "Corporate and Unallocated Shared Expenses",
+          "node_id": "0012",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "For the quarter ended December 28, 2024, Experiences revenue rose 3% to $9.415 billion, while operating income was essentially unchanged at $3.110 billion. Domestic parks and experiences revenue increased modestly but operating income declined due to hurricane-related attendance impacts, higher costs from cruise fleet expansion and inflation, partly offset by higher guest spending. International parks and experiences delivered strong revenue and operating income growth from increased attendance and guest spending, partly offset by costs for new offerings. Consumer Products revenue declined slightly while operating income increased marginally. Corporate shared expenses rose due to a legal settlement, and the Company recognized a $143 million loss related to the Star India Transaction."
+        },
+        {
+          "title": "Restructuring and Impairment Charges",
+          "node_id": "0013",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "In the quarter ended December 28, 2024, Experiences revenue increased 3% to $9.415 billion, while operating income was essentially flat at $3.110 billion. Domestic revenue rose modestly but operating income declined due to hurricane-related attendance disruptions, higher costs from cruise fleet expansion and inflation, and other factors, while international operating income grew on higher spending and attendance despite costs for new offerings. Consumer Products revenue fell 2% but operating income increased 1%. Corporate shared expenses rose $152 million due mainly to a legal settlement, and the Company recognized a $143 million loss from the Star India Transaction."
+        },
+        {
+          "title": "Interest Expense, net",
+          "node_id": "0014",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "The text reports quarterly changes in net interest expense, equity income from investees, and income taxes. Net interest expense fell because of lower interest expense and reduced interest and investment income. Equity income declined due to lower A+E earnings and losses from the India joint venture, with segment and amortization details provided. Income taxes and the effective tax rate increased, mainly because of a non-cash Star India Transaction tax charge, partly offset by prior-year tax comparisons, favorable prior-year adjustments, and a lower foreign tax rate."
+        },
+        {
+          "title": "Equity in the Income of Investees",
+          "node_id": "0015",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "For the quarter ended December 28, 2024, net interest expense increased 49% to $367 million as lower interest expense was more than offset by reduced interest and investment income. Equity income from investees fell 49% to $92 million because of lower A+E income and losses from the India joint venture, with Entertainment, Sports, India joint venture, and TFCF intangible-asset amortization contributions detailed. Income before taxes rose to $3.660 billion, but tax expense increased to $1.016 billion and the effective tax rate rose to 27.8%, mainly due to a non-cash Star India Transaction tax charge, partly offset by favorable comparisons involving share-based awards, prior-year adjustments, and foreign taxes."
+        },
+        {
+          "title": "Income Taxes",
+          "node_id": "0016",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "For the quarter ended December 28, 2024, net interest expense fell to $367 million as lower interest expense was partly offset by substantially lower interest and investment income. Equity income from investees declined to $92 million because of lower A+E income and India joint-venture losses, with segment contributions and related amortization also disclosed. Income before taxes rose to $3.660 billion, but tax expense and the effective tax rate increased to $1.016 billion and 27.8%, mainly because of a non-cash Star India Transaction tax charge, partly offset by favorable comparisons involving share-based awards, prior-year adjustments, and foreign taxes."
+        },
+        {
+          "title": "Noncontrolling Interests",
+          "node_id": "0017",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "The text discusses noncontrolling-interest income and operating cash flow for the quarters ended December 28, 2024 and December 30, 2023. Noncontrolling-interest income improved from $(240) million to $(90) million, primarily because the prior-year period included accretion of NBCUniversal's Hulu interest, and is calculated after applicable royalties, management fees, financing costs, and taxes. Operating cash flow rose by $1.0 billion to $3.2 billion, while property investment increased by $1.167 billion and free cash flow declined by $147 million to $739 million. The cash-flow increase was driven by lower tax payments, higher Entertainment operating income, and changes in production spending and sports-rights payment timing; free cash flow is a non-GAAP measure."
+        },
+        {
+          "title": "Cash from Operations",
+          "node_id": "0018",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "The text reports a decline in net income attributable to noncontrolling interests, primarily due to the prior-year accretion of NBCUniversal's Hulu interest, and explains how that income is determined. It also presents quarterly cash-flow results: operating cash flow rose by $1.020 billion, property investment increased, and free cash flow fell by $147 million. The operating cash-flow improvement reflected lower tax payments, higher Entertainment operating income, and increased production spending and sports-rights payment timing; free cash flow is identified as a non-GAAP measure."
+        },
+        {
+          "title": "Capital Expenditures",
+          "node_id": "0019",
+          "start_index": 12,
+          "end_index": 12,
+          "summary": "The text compares capital expenditures and depreciation expense for the quarters ended December 28, 2024 and December 30, 2023. Capital expenditures totaled approximately $2.5 billion versus $1.3 billion, driven by increased cruise ship fleet expansion spending in Experiences, while total depreciation expense was $909 million versus $823 million. Both tables provide detailed amounts by business and property category."
+        },
+        {
+          "title": "Depreciation Expense",
+          "node_id": "0020",
+          "start_index": 12,
+          "end_index": 12,
+          "summary": "The text presents quarterly capital expenditures and depreciation expense by business category for late 2024 and late 2023. Capital expenditures rose from $1.299 billion to $2.466 billion, driven by cruise fleet expansion in Experiences, while total depreciation expense increased from $823 million to $909 million, with amounts detailed for Entertainment, Sports, Experiences, and Corporate."
+        }
+      ],
+      "summary": "The section reviews quarterly financial performance and other financial information for the period ended December 28, 2024, including Experiences, Consumer Products, and corporate results; legal and Star India Transaction impacts; net interest expense, equity income, income taxes, and noncontrolling interests; and operating cash flow, property investment, free cash flow, capital expenditures, and depreciation. It explains the principal drivers of changes, including attendance and guest spending, hurricanes, inflation, cruise fleet expansion, new offerings, tax items, investee performance, production and sports-rights payment timing, and the Hulu interest accretion comparison, with detailed business-category amounts and identification of free cash flow as a non-GAAP measure."
+    },
+    {
+      "title": "THE WALT DISNEY COMPANY CONDENSED CONSOLIDATED STATEMENTS OF INCOME (unaudited; $ in millions, except per share data)",
+      "node_id": "0021",
+      "start_index": 13,
+      "end_index": 13,
+      "summary": "The text presents unaudited quarterly consolidated income statement results for Disney for the quarters ended December 28, 2024 and December 30, 2023, covering revenues, expenses, restructuring and impairment charges, interest, investee income, pretax income, taxes, net income, noncontrolling interests, Disney-attributable net income, earnings per share, and weighted-average shares outstanding."
+    },
+    {
+      "title": "THE WALT DISNEY COMPANY CONDENSED CONSOLIDATED BALANCE SHEETS (unaudited; $ in millions, except per share data)",
+      "node_id": "0022",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "The text presents unaudited comparative condensed consolidated balance sheets for Disney at December 28, 2024 and September 28, 2024, detailing all major asset, liability, equity, share, treasury-stock, noncontrolling-interest, and total-balance figures. It also presents comparative quarterly cash-flow statements for December 28, 2024 and December 30, 2023, covering operating, investing, financing, foreign-exchange, and cash-balance changes, including the listed cash-flow line-item categories and ending cash, cash equivalents, and restricted cash."
+    },
+    {
+      "title": "DTC PRODUCT DESCRIPTIONS AND KEY DEFINITIONS",
+      "node_id": "0023",
+      "start_index": 16,
+      "end_index": 16,
+      "summary": "The text defines Disney's DTC product offerings, geographic availability, purchasing channels, paid-subscriber counting rules, International Disney+, and average monthly revenue per paid subscriber. It explains how subscribers in bundles, extra-member arrangements, failed-payment or canceled accounts, and wholesale arrangements are treated; how Hulu, ESPN+, and Disney+ subscriber averages are calculated; which revenue categories are included or excluded; and how advertising, discounts, bundled-service revenue, and wholesale arrangements affect revenue allocation and average revenue per subscriber."
+    },
+    {
+      "title": "NON-GAAP FINANCIAL MEASURES",
+      "node_id": "0024",
+      "start_index": 17,
+      "end_index": 20,
+      "summary": "The text explains the Company's non-GAAP adjusted diluted EPS, total segment operating income, and free cash flow measures, their purposes, limitations, GAAP reconciliations, and the absence of forward-looking adjusted-EPS guidance. It provides detailed quarterly adjusted-EPS reconciliations and item explanations, reports the segment-income reconciliation and year-over-year results, and summarizes consolidated cash flows and free cash flow for the quarters ended December 28, 2024 and December 30, 2023."
+    },
+    {
+      "title": "FORWARD-LOOKING STATEMENTS",
+      "node_id": "0025",
+      "start_index": 21,
+      "end_index": 22,
+      "summary": "The text provides the earnings release’s forward-looking-statement disclaimer, explaining the covered forecasts and expectations, their management assumptions and non-update policy, and the internal and external risks that could cause materially different results. It describes potential effects on Disney’s businesses and refers readers to additional SEC filing risk disclosures, defines the Company-related terms, and gives information about Disney’s prepared remarks, February 5, 2025 conference call webcast and replay, investor website, and communications and investor-relations contacts."
+    }
+  ],
+  "has_abstract_or_references_section": false
+}

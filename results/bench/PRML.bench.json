@@ -1,0 +1,138 @@
+{
+  "doc": "PRML.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 758,
+  "raw_tree": {
+    "nodes": 430,
+    "leaves": 349,
+    "max_depth": 6,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 6.3,
+    "layout_outline": 5.8,
+    "merge": 0.02,
+    "expand": 116.8,
+    "summary_optimized": 67.5,
+    "total_optimize": 196.3,
+    "thin": 0.0,
+    "summary_baseline": 75.4,
+    "total_baseline": 87.5
+  },
+  "optimize": {
+    "merges": 10,
+    "expands": 3,
+    "before": {
+      "total_pages": 758,
+      "frontier_nodes": 413,
+      "worst_case_search_complexity": 15,
+      "average_search_complexity": 9.028,
+      "normalized_worst_case_complexity": 0.0198,
+      "max_depth": 6,
+      "mean_depth": 4.19,
+      "probability_mass": 1.3879
+    },
+    "after": {
+      "total_pages": 758,
+      "frontier_nodes": 454,
+      "worst_case_search_complexity": 15,
+      "average_search_complexity": 9.342,
+      "normalized_worst_case_complexity": 0.0198,
+      "max_depth": 7,
+      "mean_depth": 4.19,
+      "probability_mass": 1.4512
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 34,
+      "errors": 0,
+      "empty": 0,
+      "in": 154086,
+      "cached": 153984,
+      "out": 13113,
+      "reasoning": 8334,
+      "llm_wall": 116.7,
+      "slowest_call": 20.2
+    },
+    "summary_opt_leaf": {
+      "calls": 398,
+      "errors": 1,
+      "empty": 0,
+      "in": 633457,
+      "cached": 487952,
+      "out": 274876,
+      "reasoning": 31687,
+      "llm_wall": 2192.7,
+      "slowest_call": 13.8
+    },
+    "summary_opt_parent": {
+      "calls": 74,
+      "errors": 0,
+      "empty": 0,
+      "in": 138290,
+      "cached": 0,
+      "out": 45612,
+      "reasoning": 4613,
+      "llm_wall": 361.4,
+      "slowest_call": 10.5
+    },
+    "summary_opt": {
+      "calls": 472,
+      "errors": 1,
+      "empty": 0,
+      "in": 771747,
+      "cached": 487952,
+      "out": 320488,
+      "reasoning": 36300,
+      "llm_wall": 2554.1,
+      "slowest_call": 13.8
+    },
+    "summary_baseline": {
+      "calls": 431,
+      "errors": 1,
+      "empty": 0,
+      "in": 729000,
+      "cached": 470014,
+      "out": 290086,
+      "reasoning": 30959,
+      "llm_wall": 2413.8,
+      "slowest_call": 21.3
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 471,
+      "leaves": 397,
+      "max_depth": 7,
+      "key_items": 13
+    },
+    "baseline": {
+      "nodes": 430,
+      "leaves": 349,
+      "max_depth": 6,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.22016824991442263
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.22590574994683266
+    }
+  ],
+  "wall": 271.7,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}

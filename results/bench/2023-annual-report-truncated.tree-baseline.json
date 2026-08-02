@@ -1,0 +1,358 @@
+{
+  "doc_name": "2023-annual-report-truncated.pdf",
+  "doc_title": "Annual Report of the Board of Governors of the Federal Reserve System",
+  "structure": [
+    {
+      "title": "About the Federal Reserve",
+      "node_id": "0000",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "iii\nAbout the Federal Reserve\nThe Federal Reserve was created by an act of Congress on December 23, 1913, to provide the nation with a safer, more flexible, and more stable monetary and financial system. In establishing the Federal Reserve System, the United States was divided geographically into 12 Districts, each with a separately incorporated Reserve Bank.\nFor more information about the Federal Reserve Board and the Federal Reserve System, visit the Board’s website at https://www.federalreserve.gov/aboutthefed/default.htm. Online versions of the Board’s annual report are available at https://www.federalreserve.gov/publications/annual- report/default.htm."
+    },
+    {
+      "title": "1 Overview",
+      "node_id": "0001",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The 110th Annual Report describes the Federal Reserve’s 2023 activities across monetary policy, financial stability, supervision and regulation, payment-system safety and efficiency, and consumer protection and community development. It also presents the System’s structure of 12 Reserve Banks and a seven-member Board of Governors, and directs readers to appendixes covering leadership, FOMC meeting minutes, audited finances and oversight reviews, budgets and currency costs, Board policy actions, litigation, and historical operational statistics."
+    },
+    {
+      "title": "2 Monetary Policy and Economic Developments",
+      "node_id": "0002",
+      "start_index": 9,
+      "end_index": 20,
+      "nodes": [
+        {
+          "title": "March 2024 Summary",
+          "node_id": "0003",
+          "start_index": 9,
+          "end_index": 14,
+          "nodes": [
+            {
+              "title": "Recent Economic and Financial Developments",
+              "node_id": "0004",
+              "start_index": 10,
+              "end_index": 12,
+              "summary": "The text reviews recent U.S. and international economic and financial developments. U.S. inflation has fallen markedly but remains above the 2% goal, while longer-term expectations remain anchored. The labor market is still tight despite easing demand, with stronger labor supply and moderating but elevated wage growth. Economic growth was robust in 2023, driven by consumers and a recovering housing sector, although business investment and manufacturing weakened. Financial conditions tightened after further FOMC rate increases, credit became more expensive, and bank lending slowed. The banking system remains resilient, but elevated asset valuations, financial-sector leverage, asset-value losses, and rising funding costs pose risks. Foreign growth and inflation weakened, with many central banks pausing hikes and markets anticipating rate cuts. The FOMC has held the federal funds rate at 5.25%–5.5% since July and is awaiting stronger evidence of sustainably declining inflation before reducing rates."
+            },
+            {
+              "title": "Monetary Policy",
+              "node_id": "0005",
+              "start_index": 12,
+              "end_index": 13,
+              "summary": "The excerpt reviews financial stability, international economic and inflation developments, and U.S. monetary policy. It finds the banking system resilient but notes risks from elevated asset valuations, financial-sector leverage, asset-value declines, and funding costs. Global growth weakened after early 2023, inflation continued to fall unevenly, and foreign central banks largely paused tightening, with expected or initiated easing. The FOMC has held rates at 5¼–5½ percent while awaiting sustained progress toward 2 percent inflation, and the Federal Reserve has continued its predictable balance-sheet runoff, reducing securities holdings by roughly $1.4 trillion since inception. The excerpt also highlights labor-market gains for disadvantaged groups, including historically narrow employment and wage gaps, and includes an interest-rate chart and a balance-sheet policy footnote."
+            },
+            {
+              "title": "Special Topics",
+              "node_id": "0006",
+              "start_index": 13,
+              "end_index": 14,
+              "summary": "The text reviews interest-rate developments, the Federal Reserve's 2 percent policy objective and data-dependent rate decisions, and its ongoing balance-sheet runoff under an ample-reserves framework. It then covers special topics: improved but still unequal employment and earnings outcomes across demographic groups; the effects of higher mortgage rates, limited existing-home supply, and shifting single- and multifamily housing activity; balance-sheet and money-market developments; and monetary policy rules, whose recommended rates have recently moved close to the current federal funds target range."
+            }
+          ],
+          "summary": "The section summarizes the Federal Reserve’s March 2024 assessment of monetary policy and economic conditions. Inflation has fallen markedly but remains above 2 percent, while employment, wages, consumer spending, and GDP remain strong despite some labor-market easing and weakness in business investment and manufacturing. It reviews tighter U.S. financial conditions, bank lending, financial-stability risks, resilient banks, and weakening global growth and inflation. The FOMC has maintained a 5.25–5.5 percent federal funds rate since July 2023 and awaits sustained evidence of lower inflation before easing, while continuing balance-sheet reduction. The section also discusses the dual mandate, international developments, policy rules, labor-market disparities, housing and mortgage conditions, money markets, and balance-sheet operations."
+        },
+        {
+          "title": "June 2023 Summary",
+          "node_id": "0007",
+          "start_index": 15,
+          "end_index": 20,
+          "nodes": [
+            {
+              "title": "Recent Economic and Financial Developments",
+              "node_id": "0008",
+              "start_index": 15,
+              "end_index": 17,
+              "summary": "The June 2023 report describes an economy with inflation declining but still substantially above the FOMC's 2 percent target, a historically tight labor market with some easing in wage growth and vacancies, and modest economic growth constrained by tighter financial conditions. Consumer spending remained resilient, while business investment, manufacturing, and housing weakened. To combat inflation, the FOMC raised the federal funds rate to 5 to 5¼ percent, slowed the pace of increases because of cumulative tightening and policy lags, and continued reducing its securities holdings by about $420 billion. Financial conditions tightened, credit growth slowed, and household delinquencies showed mixed trends. The banking system remained resilient despite three bank failures, although real-estate valuations, hedge-fund leverage, and certain nonbank funding risks remained vulnerabilities. Foreign activity recovered early in the year but later slowed, with global inflation easing mainly through lower energy prices while food and core inflation stayed elevated. The FOMC emphasized that further policy actions would depend on incoming data and remained firmly committed to returning inflation to 2 percent."
+            },
+            {
+              "title": "Monetary Policy",
+              "node_id": "0009",
+              "start_index": 17,
+              "end_index": 18,
+              "summary": "The text reviews financial, international, and U.S. monetary developments. Real estate, household, business, banking, and nonbank financial vulnerabilities are assessed, including the failure of three banks despite broader-sector resilience. Foreign growth rebounded but later softened in China, European activity remained resilient, and inflation declined mainly through lower energy prices while food and core inflation stayed high. Major foreign central banks continued tightening, and the dollar edged lower. The FOMC raised the federal funds rate to 5–5¼ percent, slowed tightening because of policy lags and uncertainty, and continued reducing its securities holdings by about $420 billion, partly offset by banking-sector liquidity support. The text also describes narrowed but persistent demographic employment and wage disparities, tighter bank lending and expected further tightening, potential uneven effects on economic activity, and the Federal Reserve’s March lending support through the discount window, BTFP, and other facilities, which increased total assets."
+            },
+            {
+              "title": "Special Topics",
+              "node_id": "0010",
+              "start_index": 18,
+              "end_index": 20,
+              "summary": "The text reviews Federal Reserve balance-sheet reduction and its partial offset by emergency banking liquidity, noting a roughly $420 billion decline in securities holdings. It discusses improved but still substantial employment and wage disparities across demographic and education groups; tighter bank lending, expected further tightening, and potentially uneven economic effects; and the March 2023 use of the discount window and creation of the BTFP, which increased total Fed assets. It also describes elevated ON RRP usage and its role in implementing monetary policy, and explains that monetary policy rules called for high federal funds rates amid above-target inflation and tight labor markets. References are provided to a balance-sheet press release and relevant June 2023 Monetary Policy Report boxes."
+            }
+          ],
+          "summary": "The June 2023 summary covers U.S. economic, financial, international, and monetary developments. Inflation was easing but remained well above target, the labor market was tight with some moderation in wages and vacancies, and modest growth reflected resilient consumer spending alongside weakness in investment, manufacturing, and housing. The FOMC raised rates to 5–5¼ percent, slowed tightening because of cumulative effects and policy lags, reduced securities holdings by about $420 billion, and reaffirmed its 2 percent inflation objective. Financial conditions and lending tightened, while the banking system remained resilient after three failures despite real-estate, leverage, nonbank funding, and delinquency risks. The report describes March emergency lending facilities, their effect on the Fed balance sheet, elevated ON RRP usage, and policy-rule implications. It also reviews narrowing but persistent demographic and education-related employment disparities, foreign growth and inflation trends, continued foreign rate increases, and a slightly weaker dollar, with references to related Federal Reserve materials."
+        }
+      ],
+      "summary": "The section reviews the Federal Reserve’s June 2023 and March 2024 evaluations of U.S. economic, financial, international, and monetary conditions. Inflation had eased substantially but remained above the 2 percent target, while employment, wages, consumer spending, and GDP were broadly resilient despite moderating labor conditions and weakness in investment, manufacturing, and housing. It traces the FOMC’s rate increases to 5–5.25 percent in June 2023, its subsequent maintenance of a 5.25–5.5 percent range, and continued balance-sheet reduction, explaining the roles of policy lags, policy rules, the dual mandate, and the need for further disinflation before easing. The section also covers tighter financial conditions and lending, banking resilience and financial-stability risks, emergency lending facilities and their balance-sheet effects, ON RRP usage and money markets, housing and mortgages, labor-market disparities, and international growth, inflation, interest rates, and exchange-rate developments."
+    },
+    {
+      "title": "3 Financial Stability",
+      "node_id": "0011",
+      "start_index": 21,
+      "end_index": 30,
+      "nodes": [
+        {
+          "title": "Monitoring Financial Vulnerabilities",
+          "node_id": "0012",
+          "start_index": 22,
+          "end_index": 28,
+          "nodes": [
+            {
+              "title": "Asset Valuation Pressures",
+              "node_id": "0013",
+              "start_index": 23,
+              "end_index": 24,
+              "summary": "The text explains the Federal Reserve’s financial-stability framework, distinguishing unpredictable shocks from accumulating vulnerabilities and describing quarterly monitoring of valuations, borrowing, financial-sector leverage, and funding risk. The results guide supervisory, regulatory, monetary-policy, and interagency efforts, and are communicated through the Financial Stability Report. It then discusses 2023 asset-valuation pressures: equities and real estate remained expensive relative to fundamentals, corporate spreads were comparatively contained, residential valuations stayed historically high amid rising prices and limited supply, commercial real estate prices remained elevated despite market weakness and low transactions, and farmland prices rose. It also introduces household and business borrowing as a key vulnerability because indebted borrowers may cut spending after income or asset shocks, worsening financial stress, and includes supporting valuation and spread figures with methodological notes and sources."
+            },
+            {
+              "title": "Borrowing by Households and Businesses",
+              "node_id": "0014",
+              "start_index": 24,
+              "end_index": 26,
+              "summary": "The text assesses financial stability in 2023, covering elevated equity, residential real estate, commercial real estate, and farmland valuations; relatively contained corporate-credit spreads; and the risks that excessive borrowing can create feedback loops between households, businesses, and financial institutions. Aggregate household and business debt declined relative to GDP, while business leverage remained somewhat high but debt-service capacity was strong, credit quality weakened only slightly, and private credit expanded amid opacity concerns. Household finances stayed generally resilient despite modestly higher auto and credit-card delinquencies, with student-loan policies limiting repayment stress. Banks remained broadly well capitalized, but the SVB-related bank runs exposed vulnerabilities from fair-value losses and fragile funding, while commercial real estate exposures and smaller-bank concentration remained risks."
+            },
+            {
+              "title": "Leverage in the Financial System",
+              "node_id": "0015",
+              "start_index": 26,
+              "end_index": 27,
+              "summary": "The text reviews financial stability in 2023, covering rapidly expanding but opaque private credit, resilient yet somewhat stressed household borrowing, and a generally sound banking sector tested by the SVB-related runs. It discusses bank capital, fair-value and commercial real estate risks, leverage among insurers and hedge funds, ample but slightly reduced bank liquidity, persistent interest-rate exposure, and the end of the BTFP. It also covers continued growth in money market and other cash-management funds and related SEC reforms. Two figures document bank capital ratios and liquid-asset levels from 2001–23, with category definitions, methodology, recession periods, and data sources."
+            },
+            {
+              "title": "Funding Risk",
+              "node_id": "0016",
+              "start_index": 27,
+              "end_index": 28,
+              "summary": "The text reviews financial-stability vulnerabilities and cooperation efforts in 2023. Life insurers and hedge funds showed elevated risk exposures, while banks retained ample but somewhat reduced liquidity and continued to face historically high interest-rate risk; the BTFP addressed March 2023 funding stress before ending in March 2024. Money market and related cash-management funds grew, new SEC rules targeted money market fund weaknesses, bond mutual funds experienced orderly redemptions, and sizable stablecoin holdings posed potential funding-market and crypto-contagion risks. It then describes Federal Reserve coordination through the FSOC, its systemic-risk mandate, 2023 priorities, and monitoring initiatives for hedge funds and nonbank mortgage servicers, along with the accompanying bank-liquid-assets chart and definitions."
+            }
+          ],
+          "summary": "The section explains how the Federal Reserve monitors financial stability through quarterly assessments of asset valuations, household and business borrowing, financial-sector leverage, and funding risk, emphasizing the interconnectedness of financial institutions and the real economy and the consequences of instability after shocks. It reviews 2023 conditions: elevated valuations across major asset markets but contained corporate spreads; generally manageable household and business debt and resilient households, alongside private-credit opacity and modestly worsening consumer delinquencies; and a broadly sound but tested banking system facing fair-value, interest-rate, commercial-real-estate, concentration, and funding risks. It also covers leverage and liquidity among banks, insurers, hedge funds, funds, and stablecoins; the SVB-related stress and BTFP response; SEC money-market reforms; and Federal Reserve and FSOC coordination on systemic risks. Figures and notes provide supporting data, definitions, methods, recession periods, and sources."
+        },
+        {
+          "title": "Domestic and International Cooperation and Coordination",
+          "node_id": "0017",
+          "start_index": 28,
+          "end_index": 30,
+          "nodes": [
+            {
+              "title": "Financial Stability Oversight Council Activities",
+              "node_id": "0018",
+              "start_index": 28,
+              "end_index": 30,
+              "summary": "The text reviews 2023 financial-stability developments and cooperation. Corporate bond mutual funds faced orderly redemptions and reached their lowest holdings in a decade, while sizable, lightly regulated stablecoins posed run, funding-market, and crypto-contagion risks. It describes Federal Reserve collaboration through the FSOC, including the council's structure, systemic-risk responsibilities, four priorities, work on nonbanks, Treasury markets, climate risks, digital assets, new designation and analytical guidance, and its annual risk assessment. It also explains the Federal Reserve's participation in the FSB and the FSB's 2023 efforts to address liquidity mismatches, crypto intermediaries, and nonbank financial-intermediation resilience."
+            },
+            {
+              "title": "Financial Stability Board Activities",
+              "node_id": "0019",
+              "start_index": 30,
+              "end_index": 30,
+              "summary": "24 110th Annual Report | 2023\ntive reference rates, speed of financial transactions and information transmission, and quantum computing.\nFinancial Stability Board Activities\nIn light of the interconnected global financial system and the global activities of large U.S. finan- cial institutions, the Federal Reserve participates in international bodies, such as the FSB. The FSB monitors the global financial system and promotes international financial stability by coordi- nating with national financial authorities and international standard-setting bodies on information exchanges and work focused on developing strong global financial-sector policies.\nIn 2023, the FSB engaged in many issues related to global financial stability. Specific work included addressing structural vulnerabilities from liquidity mismatch in open-end funds, assessing the financial stability implications of multifunction crypto-asset intermediaries, and enhancing the resilience of nonbank financial intermediation."
+            }
+          ],
+          "summary": "The section surveys domestic and international cooperation on financial stability, covering 2023 risks involving corporate bond funds, stablecoins, nonbanks, Treasury markets, climate change, and digital assets; the FSOC’s oversight, priorities, guidance, and risk assessment; and the Federal Reserve’s participation in the FSB, whose 2023 initiatives addressed open-end-fund liquidity vulnerabilities, crypto-asset intermediaries, and nonbank financial-intermediation resilience."
+        }
+      ],
+      "summary": "The section describes how the Federal Reserve monitors financial vulnerabilities, uses its analyses to shape stress tests and other policy tools, and promotes resilience through supervision and regulation, domestic coordination, and international engagement. It reviews 2023 conditions and risks across asset markets, household and business debt, banks and nonbanks, leverage, liquidity, funding, commercial real estate, stablecoins, Treasury markets, climate change, digital assets, and financial-sector interconnectedness; discusses the Silicon Valley Bank stress, the Bank Term Funding Program, and money-market reforms; and explains the systemic perspective applied to large, complex institutions. It also covers cooperation through the FSOC and Financial Stability Board, including initiatives on nonbank resilience, open-end funds, and crypto-asset intermediaries, while referencing supporting data and related coverage elsewhere in the report."
+    },
+    {
+      "title": "4 Supervision and Regulation",
+      "node_id": "0020",
+      "start_index": 31,
+      "end_index": 31,
+      "summary": "The text explains that the Federal Reserve supports U.S. economic stability by supervising financial institutions, developing regulatory policies and acting on banking applications, and monitoring banking-sector trends through data collection and analysis. It refers readers to the semiannual Supervision and Regulation Report for banking-sector conditions and lists the main types and numbers of entities overseen by the Federal Reserve, including bank holding companies, state member banks, savings and loan holding companies, foreign banking organizations and branches, Edge Act and agreement corporations, and designated financial market utilities; Edge Act and agreement corporations facilitate international banking and financial activities."
+    },
+    {
+      "title": "Supervised and Regulated Institutions",
+      "node_id": "0021",
+      "start_index": 32,
+      "end_index": 35,
+      "nodes": [
+        {
+          "title": "State Member Banks",
+          "node_id": "0022",
+          "start_index": 32,
+          "end_index": 32,
+          "summary": "The text describes the Federal Reserve’s supervision portfolios and provides year-end 2023 statistics on state member banks. It reports the number and share of Federal Reserve member and state-chartered banks, their branches and industry assets, and summarizes table 4.1’s portfolio definitions, institution counts, and total assets for LISCC, LFBO, RBO, CBO, and insurance or commercial SLHC organizations, including relevant state-member-bank subsets and footnote qualifications."
+        },
+        {
+          "title": "Bank Holding Companies",
+          "node_id": "0023",
+          "start_index": 33,
+          "end_index": 33,
+          "summary": "The text reports year-end 2023 statistics on U.S. bank holding companies, including their number, structure, controlled banks, asset share, and financial holding company status by asset size. It describes savings and loan holding companies, their ownership, activities, assets, federal regulation, and the Federal Reserve’s supervision of insurance-focused SLHCs. It also outlines the Federal Reserve’s risk-based insurance supervisory framework and 2023 implementation progress, and introduces financial market utilities as multilateral systems for transferring, clearing, and settling financial transactions."
+        },
+        {
+          "title": "Savings and Loan Holding Companies",
+          "node_id": "0024",
+          "start_index": 33,
+          "end_index": 33,
+          "summary": "The text reports 2023 data on U.S. bank holding companies, financial holding companies, savings and loan holding companies, and Federal Reserve-supervised insurance organizations, including their numbers, assets, activities, regulatory oversight, and supervisory framework. It concludes by introducing financial market utilities as operators of multilateral systems for transferring, clearing, and settling financial transactions."
+        },
+        {
+          "title": "Financial Market Utilities",
+          "node_id": "0025",
+          "start_index": 33,
+          "end_index": 34,
+          "summary": "The text reports 2023 statistics on U.S. bank holding companies, financial holding companies, savings and loan holding companies, and foreign banking organizations, including their numbers, ownership, asset sizes, activities, and regulation. It describes Federal Reserve supervision of insurance-focused SLHCs and the risk-based insurance supervisory framework implemented in 2023. It explains the role and regulation of financial market utilities, including the systemic importance designations under Dodd-Frank, Regulation HH requirements, and coordination with other regulators. It also summarizes U.S. banks' foreign branches, Edge Act and agreement corporations, and the U.S. operations and market share of foreign banks."
+        },
+        {
+          "title": "International Activities",
+          "node_id": "0026",
+          "start_index": 34,
+          "end_index": 35,
+          "summary": "The text describes Federal Reserve oversight of systemically important financial market utilities, including its supervisory coordination, Title VIII responsibilities, and Regulation HH requirements. It reports 2023 international banking activity involving U.S. banks, Edge Act corporations, and foreign banks, including branch, ownership, asset-share, representative-office, and examination figures. It also explains the Federal Reserve’s risk-based supervisory approach, priorities for addressing weaknesses and emerging risks, and its response to the 2023 failures of Silicon Valley Bank and Signature Bank, including the SVB review and efforts to strengthen supervisory speed, intensity, remediation, and forward-looking analysis. Finally, it provides 2023 examination and inspection totals for state member banks and holding companies."
+        }
+      ],
+      "summary": "The section reviews the Federal Reserve’s supervised and regulated institutions and financial market infrastructures, presenting 2023 statistics and portfolio classifications for state member banks, bank holding companies, savings and loan holding companies, insurance organizations, and foreign banking operations. It explains their ownership, activities, assets, regulation, and supervision; describes the risk-based framework for insurance-focused SLHCs; and outlines the role, systemic designations, Regulation HH requirements, and oversight coordination applicable to financial market utilities. It also covers U.S. banks’ international activities, the Federal Reserve’s supervisory priorities and response to the Silicon Valley Bank and Signature Bank failures, and 2023 examination and inspection activity."
+    },
+    {
+      "title": "Supervisory Developments",
+      "node_id": "0027",
+      "start_index": 35,
+      "end_index": 50,
+      "nodes": [
+        {
+          "title": "Supervisory and Regulatory Initiatives",
+          "node_id": "0028",
+          "start_index": 35,
+          "end_index": 50,
+          "nodes": [
+            {
+              "title": "Specialized Examinations",
+              "node_id": "0029",
+              "start_index": 37,
+              "end_index": 38,
+              "summary": "The text describes the Federal Reserve’s specialized supervisory examinations and related regulation. It covers the stress capital buffer framework, 2023 stress-test findings and capital requirements, exploratory and global market shocks, and associated publications; reports examination totals for fiduciary, transfer-agent, government-securities, and municipal-securities activities; explains Regulation U oversight and examinations of securities-credit lenders; and emphasizes operational resilience, information technology, cybersecurity, and third-party risk, for which the Federal Reserve provides supervisory guidance and resources."
+            },
+            {
+              "title": "Operational Resilience, Information Technology, and Cybersecurity",
+              "node_id": "0030",
+              "start_index": 38,
+              "end_index": 40,
+              "summary": "The text reports Federal Reserve examinations in fiduciary activities, transfer-agent operations, government and municipal securities, and securities-credit lending during 2023. It then describes the Federal Reserve’s operational-resilience, IT, cybersecurity, and third-party-risk guidance, supervisory assessments, technology-provider examinations, domestic and international coordination, and related regulatory publications. Finally, it introduces the Novel Activities Supervision Program for crypto-assets, distributed ledger technology, and technology-driven nonbank partnerships, and summarizes the major crypto-sector risks identified in a joint January 2023 agency statement."
+            },
+            {
+              "title": "Crypto-Asset Supervision",
+              "node_id": "0031",
+              "start_index": 40,
+              "end_index": 41,
+              "summary": "The text discusses Federal Reserve supervision of emerging operational, crypto-asset, and climate-related risks in 2023. It notes related Financial Stability Board publications, introduces the Federal Reserve's Novel Activities Supervision Program and its focus areas, summarizes interagency crypto-risk statements and the dollar-token supervisory nonobjection process, describes the exploratory climate scenario analysis exercise and finalized climate-risk management principles for large institutions, and introduces the Federal Reserve's enforcement authority over unsafe practices and violations."
+            },
+            {
+              "title": "Climate-Related Financial Risks",
+              "node_id": "0032",
+              "start_index": 41,
+              "end_index": 41,
+              "summary": "The text describes Federal Reserve supervisory developments concerning crypto-asset activities and climate-related financial risks, followed by an overview of enforcement authority. It covers agencies’ attention to crypto-related liquidity volatility; the 2023 process for state member banks to obtain supervisory nonobjection before engaging in certain dollar-token activities and the risks considered; the Board’s exploratory climate scenario analysis exercise; final climate-risk management principles for institutions with at least $100 billion in assets; and the Federal Reserve’s authority to take enforcement actions, including cease-and-desist orders, against unsafe practices or legal and regulatory violations."
+            },
+            {
+              "title": "Enforcement Actions",
+              "node_id": "0033",
+              "start_index": 41,
+              "end_index": 42,
+              "summary": "The text describes Federal Reserve supervisory developments involving crypto-asset liquidity and dollar-token activities, including a procedural supervisory nonobjection process and its related risk areas. It covers the 2023 climate scenario analysis pilot and final climate-risk management principles for large institutions. It also explains Federal Reserve enforcement authority, the formal and informal actions completed in 2023, civil penalties and public disclosure of orders, state member bank financial-disclosure requirements, and the two-level internal appeals process for material supervisory determinations."
+            },
+            {
+              "title": "Internal Appeals of Material Super visory Determinations",
+              "node_id": "0034",
+              "start_index": 42,
+              "end_index": 43,
+              "summary": "The text reviews the Federal Reserve’s 2023 supervision and regulation activities, including formal and informal enforcement actions, civil money penalties, public enforcement disclosures, state member bank financial reporting requirements, and the two-level internal appeals process for material supervisory determinations. It reports the number and value of enforcement actions, the 2023 MSD appeals and extension, and supervision assessments collected from large bank holding companies, savings and loan holding companies, and designated nonbank financial companies for transfer to the Treasury. It also describes training, technical assistance, and outreach for foreign supervisors and minority-owned depository institutions, including 20 international training seminars attended by about 900 supervisors and collaboration with the IMF, World Bank, and other partners."
+            },
+            {
+              "title": "Assessments for Supervision and Regulation",
+              "node_id": "0035",
+              "start_index": 43,
+              "end_index": 43,
+              "summary": "The text describes the Federal Reserve’s MSD appeals process and 2023 appeal activity; supervision and regulation assessments imposed on large holding companies and designated nonbank financial companies, including the $771.1 million transferred to the Treasury from 53 institutions; and the Federal Reserve’s training, technical assistance, and outreach activities. In 2023, it conducted 20 international and domestic seminars attended by about 900 foreign supervisors and partnered with the IMF, World Bank, and other organizations on training for senior supervisory officials."
+            },
+            {
+              "title": "Training and Technical Assistance",
+              "node_id": "0036",
+              "start_index": 43,
+              "end_index": 45,
+              "nodes": [
+                {
+                  "title": "International Training and Technical Assistance",
+                  "node_id": "0037",
+                  "start_index": 43,
+                  "end_index": 44,
+                  "summary": "The text describes the Federal Reserve’s MSD appeals process and 2023 appeal activity; supervision and regulation assessments collected from large banking organizations and designated nonbank companies and transferred to the Treasury; international supervisory training and technical assistance provided in 2023; and efforts to support minority-owned depository institutions through the Partnership for Progress, technical assistance, outreach, and MDI-focused conferences and forums. It also notes the relevant statutory reporting and minority-ownership preservation requirements and provides links to related Federal Reserve resources."
+                },
+                {
+                  "title": "Efforts to Support Minority-Owned Depository Institutions",
+                  "node_id": "0038",
+                  "start_index": 44,
+                  "end_index": 45,
+                  "summary": "The text describes the Federal Reserve’s 2023 support for minority depository institutions through its Partnership for Progress program, including its statutory basis, technical assistance, 16-bank MDI portfolio, outreach events, conferences, webinars, and the ECIP’s nearly $9 billion capitalization effort. It also outlines the Federal Reserve’s international supervisory engagement through the Financial Stability Board, highlighting 2023 priorities involving cross-border payments, crypto-assets and stablecoins, open-ended funds, and third-party risk, and lists representative FSB publications on decentralized finance, commodities markets, and crypto-asset regulation."
+                }
+              ],
+              "summary": "The section covers the Federal Reserve’s MSD appeals process and 2023 activity, regulatory assessments submitted to the Treasury, and international supervisory training and technical assistance. It details support for minority-owned depository institutions through the Partnership for Progress, technical assistance, outreach, MDI-focused events, a 16-bank portfolio, and the nearly $9 billion ECIP capitalization effort. It also describes international engagement through the Financial Stability Board, including 2023 work on cross-border payments, crypto-assets and stablecoins, open-ended funds, and third-party risk, as well as related publications, statutory requirements, and Federal Reserve resources."
+            },
+            {
+              "title": "International Engagement",
+              "node_id": "0039",
+              "start_index": 45,
+              "end_index": 49,
+              "nodes": [
+                {
+                  "title": "Financial Stability Board",
+                  "node_id": "0040",
+                  "start_index": 45,
+                  "end_index": 46,
+                  "summary": "The text describes Federal Reserve supervisory outreach to MDIs and CDFIs through a bankers’ conference and webinars on the Bank Term Funding Program and ECIP, including ECIP’s purpose and nearly $9 billion in Treasury funding. It then outlines the Federal Reserve’s international engagement through the FSB and BCBS, highlighting 2023 priorities, major FSB publications, BCBS initiatives and publications, and the BCBS’s membership and supervisory cooperation role."
+                },
+                {
+                  "title": "Basel Committee on Banking Supervision",
+                  "node_id": "0041",
+                  "start_index": 46,
+                  "end_index": 47,
+                  "summary": "The text reviews the Federal Reserve’s 2023 involvement in international financial-stability, banking-supervision, and payments bodies. It lists major FSB publications on non-bank leverage, cross-border payments, third-party risk, and open-ended-fund liquidity mismatch; describes BCBS priorities and final and consultative publications on Basel III, banking turmoil, climate and crypto risks, data, and supervision; and explains CPMI’s work with the FSB and IOSCO to improve cross-border payments, financial-market infrastructure, CCP loss and margining practices, and implementation of infrastructure principles. It also notes relevant publication websites and provides background on BCBS membership."
+                },
+                {
+                  "title": "Committee on Payments and Market Infrastructures",
+                  "node_id": "0042",
+                  "start_index": 47,
+                  "end_index": 48,
+                  "summary": "The text reviews the Federal Reserve’s 2023 international supervision and regulation activities, covering BCBS publications and consultations on banking risks, disclosures, cryptoassets, interest-rate shocks, and supervisory principles; CPMI work with the FSB and IOSCO to improve cross-border payments, financial market infrastructure, clearing, margining, and related standards, along with its 2023 publications and consultation; and IAIS standard-setting for insurance, including capital comparability, insurance principles, climate risk, and policyholder protection schemes. Links to comprehensive BCBS and CPMI publication lists are also provided."
+                },
+                {
+                  "title": "International Association of Insurance Supervisors",
+                  "node_id": "0043",
+                  "start_index": 48,
+                  "end_index": 49,
+                  "summary": "The text catalogs major 2023 CPMI publications and one consultative document on cross-border payments, payment systems, clearing, data standards, and stablecoins, with links to comprehensive publication resources. It then describes Federal Reserve participation in IAIS insurance standard-setting, IAIS progress on capital standards, climate risk, and related supervisory principles, and lists representative IAIS publications and consultations. It also covers the Federal Reserve’s Insurance Policy Advisory Committee, including its advice on the ICS, assessment of life-insurer liquidity risks, and creation of a climate working group. Finally, it explains the purpose, governance, schedule, and review frequency of the interagency Shared National Credit program and links to information on its 2023 review."
+                }
+              ],
+              "summary": "The section describes Federal Reserve outreach to MDIs and CDFIs and explains its 2023 international engagement through the FSB, BCBS, CPMI, and IAIS. It covers these bodies’ priorities, publications, consultations, and standards concerning financial stability, Basel III, banking and non-bank risks, climate and crypto risks, cross-border payments, financial-market infrastructure, clearing and margining, data, and insurance capital and supervision, while noting membership, supervisory cooperation, and links to publication resources. It also covers the Insurance Policy Advisory Committee’s work on capital standards, liquidity, and climate issues, and explains the interagency Shared National Credit program and its 2023 review."
+            },
+            {
+              "title": "Shared National Credit Program",
+              "node_id": "0044",
+              "start_index": 49,
+              "end_index": 49,
+              "summary": "The text lists key 2023 IAIS consultations and explanatory guidance on insurance capital standards, aggregation-method comparability, valuation, capital adequacy, and climate risk, along with a link to all IAIS publications. It describes the Federal Reserve’s IPAC, its statutory role, 2023 activities concerning the ICS, life-insurer liquidity amid rising rates, and creation of a climate working group. It also explains the interagency Shared National Credit program, its participating agencies, review schedule, and frequency for large and other agent banks, with links to further information."
+            },
+            {
+              "title": "Bank Secrecy Act and Anti-Money-Laundering Compliance",
+              "node_id": "0045",
+              "start_index": 50,
+              "end_index": 50,
+              "summary": "In 2023, the Federal Reserve continued supervising BSA/AML compliance, helping update the FFIEC examination manual, implementing the AML Act of 2020, and participating in the Treasury-led BSA Advisory Group. It also coordinated internationally on sanctions, AML, and counter-terrorism financing, monitored sanctions related to Russia’s invasion of Ukraine, contributed to Financial Action Task Force standards, and supported Financial Stability Board work on the G20 cross-border-payments roadmap and its 2023 progress report."
+            },
+            {
+              "title": "International Coordination on Sanctions, Anti-Money-Laundering, and Counter-Terrorism Financing",
+              "node_id": "0046",
+              "start_index": 50,
+              "end_index": 50,
+              "summary": "In 2023, the Federal Reserve continued supervising BSA/AML compliance, helping update the FFIEC examination manual, implementing the AML Act of 2020 with partner agencies, and participating in the Treasury-led BSA Advisory Group. It also coordinated internationally on sanctions, money laundering, and terrorism financing, monitored sanctions related to Russia’s invasion of Ukraine, contributed to Financial Action Task Force standards, and supported Financial Stability Board work resulting in the 2023 G20 cross-border payments progress report."
+            }
+          ],
+          "summary": "The section reviews the Federal Reserve’s 2023 supervisory and regulatory initiatives, including risk-based examinations, inspections, foreign-bank oversight, supervisory priorities, and lessons and responses following the failures of Silicon Valley Bank and Signature Bank. It covers specialized examinations, stress testing and capital requirements, operational and cyber resilience, information technology, third-party risk, crypto-asset and novel-activity supervision, stablecoin-related safeguards, and climate-risk analysis and management principles. It also explains enforcement actions, penalties, disclosures, financial reporting, internal appeals, and supervisory assessments. Further topics include training and technical assistance for foreign supervisors and minority-owned and community development institutions; international cooperation through major financial and insurance standard-setting bodies; insurance policy work; the Shared National Credit program; and BSA/AML, sanctions, and counter-terrorism-financing compliance and coordination."
+        }
+      ],
+      "summary": "The section reviews the Federal Reserve’s 2023 supervisory and regulatory work, covering examinations, inspections, foreign-bank oversight, supervisory priorities, and responses to the Silicon Valley Bank and Signature Bank failures. It addresses specialized supervision, stress testing, capital, operational and cyber resilience, information technology, third-party risk, crypto-assets and novel activities, stablecoins, and climate risk. It also covers enforcement, penalties, disclosures, reporting, appeals, assessments, supervisory training and technical assistance, international and insurance-related cooperation, the Shared National Credit program, and BSA/AML, sanctions, and counter-terrorism-financing compliance."
+    }
+  ],
+  "has_abstract_or_references_section": false
+}

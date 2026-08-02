@@ -1,0 +1,153 @@
+{
+  "doc_name": "earthmover.pdf",
+  "doc_title": "Earth Mover’s Distance based Similarity Search at Scale",
+  "structure": [
+    {
+      "title": "ABSTRACT",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "This paper addresses the high cost of EMD-based k-nearest-neighbor search over large collections of multidimensional histograms. EMD offers robust and discriminative similarity measurement across several application areas but requires expensive minimum-cost-flow computation, making exact refinement the bottleneck even when effective lower-bound filters remove most objects. The authors therefore adapt the incremental SIA flow algorithm to avoid constructing the full bipartite graph, introduce dynamic bounds for early termination, and use dynamic, concurrent candidate refinement to avoid needless EMD calculations. These methods complement existing filtering techniques and are intended to make large-scale EMD queries substantially faster."
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "This paper addresses the high refinement cost of EMD-based k-nearest-neighbor histogram search. It defines EMD as a constrained minimum-cost flow distance, explains its advantages and applications, and describes why exact computation and complete flow graphs do not scale. Within the standard lower-bound filter-and-refinement framework, it introduces SIA, an incremental min-cost-flow EMD algorithm, plus progressive bounding for early termination and dynamic refinement ordering for concurrent candidate processing. These techniques integrate with existing filters and reportedly accelerate large-scale EMD queries by one to two orders of magnitude. The text also provides a four-genre music recommendation example yielding distance 2.5, illustrates its flow network, and previews the paper’s remaining sections and experimental evaluation."
+    },
+    {
+      "title": "2. PRELIMINARIES",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 4,
+      "nodes": [
+        {
+          "title": "2.1 Computing the EMD",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 3,
+          "summary": "The text explains EMD computation as a bipartite minimum-cost flow problem and details the SSP algorithm, including network construction, capacities, feasible forward and reverse edges, edge costs, shortest-path augmentation, flow updates, and time complexity. It then presents a filter-and-refinement framework for k-nearest-neighbor histogram search, using progressively more accurate lower-bound filters to prune candidates before exact EMD computation."
+        },
+        {
+          "title": "2.2 Filter-and-Refinement Framework",
+          "node_id": "0004",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The text explains EMD computation as a bipartite minimum-cost flow problem, defining capacities, feasible forward and reverse residual edges, their costs, and the SSP algorithm for repeatedly finding and augmenting minimum-cost paths. It gives SSP’s augmentation rules, an illustrative flow-cancellation example, and its O(F|E|log|V|) complexity. It then describes a filter-and-refinement framework for k-NN histogram search: indexed candidates are processed with progressively accurate lower bounds, pruned against the current k-th-neighbor threshold, or evaluated exactly by EMD algorithms, while a heap maintains the best results. Finally, it introduces SIA, which incrementally constructs a partial graph to avoid the quadratic complete graph, uses distance-bound checking to guarantee equivalence with full-graph SSP, expands the graph as needed, augments valid shortest paths, and employs vertex potentials to enable Dijkstra despite negative reverse-edge costs."
+        }
+      ],
+      "summary": "This section defines EMD as the minimum transportation cost between normalized histograms, explains its constraints, properties, and music-distribution example, and formulates its computation as a bipartite minimum-cost flow problem solved by the SSP algorithm. It then presents the filter-and-refinement approach for EMD-based k-nearest-neighbor search and introduces SIA, an optimized, incrementally expanded SSP implementation that reduces graph and shortest-path computation while preserving exactness."
+    },
+    {
+      "title": "3. SCALING UP SSP",
+      "node_id": "0005",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "The text describes a filter-and-refinement k-NN framework for EMD similarity search, where index lower bounds and progressively stronger filters prune candidates before exact computation, while a heap maintains the current k nearest objects and threshold. It then introduces SIA, an incremental alternative to complete-graph SSP EMD computation that expands a partial flow graph only when a distance-bound test requires it, using shortest feasible paths, flow augmentation, and vertex potentials for Dijkstra. Finally, it motivates query-level refinement optimization through progressive bounding and dynamic refinement ordering. Because late SIA iterations dominate runtime, progressive bounding maintains a tighter lower bound combining accumulated flow cost with an estimate of remaining flow, allowing noncompetitive EMD calculations to terminate early."
+    },
+    {
+      "title": "4. BOOSTING THE REFINEMENT PHASE",
+      "node_id": "0006",
+      "start_index": 5,
+      "end_index": 8,
+      "nodes": [
+        {
+          "title": "4.1 Analysis of EMD Calculation",
+          "node_id": "0007",
+          "start_index": 5,
+          "end_index": 5,
+          "summary": "The text explains why SIA is used for exact EMD calculations in similarity-search refinement, while noting that optimizing individual EMD computations does not minimize the total query cost. It introduces progressive bounding and dynamic refinement ordering as techniques that handle refinements progressively. The analysis shows that refinement can remain a bottleneck on large datasets, and that SIA's runtime is heavily concentrated in its final iterations because its graph and shortest-path searches grow more expensive. Progressive bounding addresses this by maintaining a monotonically increasing lower bound during SIA and terminating computations when the bound reaches the current pruning threshold. A simple accumulated-cost bound can enable early termination but is loose because it ignores remaining flow; the proposed emd− bound adds an estimate of the remaining-flow cost, producing a tighter bound and earlier stopping. Figures 6–8 illustrate SIA's iterations, runtime and cost progression, and the construction of the running lower bound."
+        },
+        {
+          "title": "4.2 Progressive Bounding",
+          "node_id": "0008",
+          "start_index": 5,
+          "end_index": 6,
+          "summary": "The text motivates optimizing the EMD refinement phase beyond using SIA as a fast individual EMD solver. It presents progressive bounding, which exploits SIA's expensive late iterations by maintaining a provably valid, monotone lower bound emd− based on accumulated flow costs and estimated costs of remaining flows, allowing early termination when the pruning threshold is reached. The text proves path-cost monotonicity and the correctness of this bound, gives a numerical example, and notes that updates cost O(1). It then explains that total k-NN performance also depends on refinement order: refined candidates can lower the k-th best-so-far EMD threshold, but access order may not match true EMD values, motivating dynamic refinement ordering. Figures provide running SIA examples and empirical illustrations of runtime, bounds, and ordering effects."
+        },
+        {
+          "title": "4.3 Sensitivity to Refinement Order",
+          "node_id": "0009",
+          "start_index": 6,
+          "end_index": 7,
+          "summary": "The text introduces progressive bounding (PB) for early termination of EMD calculations and dynamic refinement ordering (DRO) for improving candidate access order in EMD-based k-NN search. It proves that feasible-path and shortest-path costs are monotonically non-decreasing, defines emd− as a valid, tightening lower bound combining completed and estimated remaining flow costs, and demonstrates its computation on a four-path example. emd− can be updated in constant time and enables pruning before all SIA augmentations are performed. The text then explains why refinement order affects filtering, threshold reduction, and total computation, motivating DRO. DRO concurrently manages a priority layer of filtered candidates, refines the candidate with the smallest lower bound, maintains lower and upper EMD bounds, updates the top-k threshold, prunes candidates, replaces them with newly filtered objects, and continues until no candidates remain; Algorithm 3 gives the procedure and Figure 10 illustrates it."
+        },
+        {
+          "title": "4.4 Dynamic Refinement Ordering",
+          "node_id": "0010",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "The text motivates improving candidate access order in EMD k-NN search and introduces Dynamic Refinement Ordering (DRO), which concurrently and adaptively refines a priority layer of filtered candidates, favoring those with the smallest lower bounds. Progressive shortest-path augmentations update lower and running upper bounds, enable early result and threshold updates, replace pruned candidates, and remove candidates exceeding the threshold. The pseudocode and an example demonstrate the process, while the discussion explains its pruning benefits and the performance-memory tradeoff controlled by layer size, including a memory-limit safeguard. The text then defines a running upper EMD bound for partially computed flows and presents GreedyUB, an O(|E|) greedy maximum-flow approximation exploiting the complete bipartite EMD graph, with incremental O(f) maintenance after augmentations. Finally, it introduces an experimental evaluation comparing the proposed framework with state-of-the-art methods."
+        },
+        {
+          "title": "4.5 Running Upper Bound",
+          "node_id": "0011",
+          "start_index": 8,
+          "end_index": 8,
+          "summary": "The text explains DRO's concurrent candidate-refinement process, including how lower and upper EMD bounds guide refinement, top-k updates, pruning, and threshold selection. It discusses the performance-memory tradeoff controlled by the priority-list size b, reports WORLD memory usage, and presents a safeguard for oversized candidate lists. It then defines the running upper bound emd+ as current flow cost plus the cost of a maximum flow over residual capacities, introduces the cheaper GreedyUB method based on the complete bipartite EMD graph and static cost orderings, and gives its O(|E|) complexity and O(f) incremental maintenance cost. Finally, it introduces the experimental evaluation setup and hardware."
+        }
+      ],
+      "summary": "This section improves EMD-based k-NN refinement by analyzing SIA's costly late iterations and introducing Progressive Bounding, whose tightening lower bound emd− estimates remaining flow costs and enables correct early termination. It shows why refinement order matters and presents Dynamic Refinement Ordering, which prioritizes candidates by lower bounds, adaptively updates bounds and the top-k threshold, prunes candidates, and balances pruning performance against memory through priority-layer sizing. It also defines a running upper bound emd+ and the efficient GreedyUB residual-flow approximation with incremental updates, then outlines experimental comparisons, evaluation conditions, hardware, and memory-performance results."
+    },
+    {
+      "title": "5. EXPERIMENTAL EVALUATION",
+      "node_id": "0012",
+      "start_index": 8,
+      "end_index": 11,
+      "nodes": [
+        {
+          "title": "5.1 Performance Improvement",
+          "node_id": "0013",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "The text describes evaluation of EMD-based k-NN search on six real image-histogram datasets, including their sizes, dimensions, sources, and histogram construction. Using Euclidean ground distance and standard filtering, it compares six EMD solvers and shows that the proposed SIA is consistently fastest, while filtering costs are negligible. Progressive bounding further accelerates SIA, and dynamic refinement ordering provides an additional 40%–60% gain, making DRO several times to two orders of magnitude faster than existing methods. Comparisons with ideal oracle methods show DRO is near-optimal in refinement count, leaving little room for refinement-stage improvement but more opportunity in filtering. Scalability tests demonstrate that PB and DRO remain nearly insensitive to database cardinality, with query cost driven mainly by k."
+        },
+        {
+          "title": "5.2 Scalability Experiments",
+          "node_id": "0014",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "The text experimentally validates EMD query-processing methods, especially the dynamic-reordering method DRO. Across five datasets and varying k, DRO substantially outperforms PB and approaches the optimal oracle in query time and refinement count; its complete refinements are nearly limited to the true k nearest neighbors, leaving little room for improvement with current filters. Scalability tests show that PB and DRO are robust to increasing dataset size and histogram dimensionality, unlike SIA, because their costs depend mainly on complete refinements and benefit from stronger pruning. Parameter studies show that larger concurrent-refinement lists improve DRO performance at a memory cost, while prioritization must account for bound tightness through a weighted current/estimated-cost function rather than relying solely on lower or upper bounds. The related-work discussion positions EMD as a widely useful but expensive perceptual distance, reviews database filter-and-refinement and lower-bound techniques, highlights that prior work underemphasizes refinement cost, and distinguishes specialized EMD approximation methods that do not apply to the general setting."
+        },
+        {
+          "title": "5.3 Parameter Tuning in DRO",
+          "node_id": "0015",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "The text reports scalability experiments showing that SIA is more affected by refinement counts, while PB and DRO scale better with dataset size and histogram dimensionality; DRO's advantage over PB remains stable. It then tunes DRO, finding that larger concurrent-refinement capacity improves query time at a proportional memory cost, and that prioritization must account for bound tightness rather than relying only on lower or upper bounds. The text concludes with related work on EMD, its applications and perceptual advantages, database filter-and-refinement methods and their limitations, and approximation techniques that typically depend on restrictive assumptions."
+        }
+      ],
+      "summary": "This section experimentally evaluates the proposed EMD similarity-search framework and explains the mechanisms behind DRO, including dynamic concurrent refinement, running upper bounds, greedy upper-bound maintenance, threshold updates, and memory controls. It reports experiments on real image-histogram datasets comparing EMD solvers and filtering/refinement strategies, demonstrating that SIA is efficient, while progressive bounding and especially DRO deliver substantial speedups and near-optimal refinement behavior. PB and DRO scale well with database size and histogram dimensionality, and parameter studies expose the tradeoffs among refinement-list size, memory, bound tightness, and prioritization. The section concludes by positioning the approach against prior EMD applications, filter-and-refinement methods, lower bounds, and assumption-dependent approximation techniques."
+    },
+    {
+      "title": "6. RELATED WORK",
+      "node_id": "0016",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "The text reports scalability and parameter-tuning experiments for EMD similarity search, showing that PB and DRO scale better than SIA with dataset size and histogram dimensionality, while DRO benefits from greater concurrent refinement at a memory cost. Its bound-aware prioritization function outperforms simple lower- or upper-bound ordering. The related-work discussion situates EMD as a broadly useful perceptual distance, reviews database filtering/indexing and approximation methods, and explains their limitations. The paper concludes that SIA adaptation, progressive refinement, and DRO substantially accelerate EMD queries—by up to two orders of magnitude—while supporting varied histogram forms and range queries; it also notes future work on other expensive distances, acknowledges funding and assistance, and provides an extensive bibliography."
+    },
+    {
+      "title": "7. CONCLUSION",
+      "node_id": "0017",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "The text discusses limitations of existing EMD approximation and acceleration methods, especially their application-dependent ground distances, lack of filtering and indexing support, and poor scalability. It concludes a paper introducing SIA-based EMD computation, progressive lower-bound refinement, and dynamic concurrent candidate refinement with upper bounds, reporting up to two orders of magnitude improvement over prior state of the art. The methods support non-normalized histograms, differing bin counts and locations, and range queries, for which DRO is not needed. Future work concerns other costly distances such as dynamic time warping. The text also provides acknowledgments and a bibliography of EMD-related theoretical, algorithmic, indexing, and application research."
+    },
+    {
+      "title": "8. ACKNOWLEDGMENT",
+      "node_id": "0018",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "The text concludes a study on scalable EMD similarity queries by introducing efficient SIA-based computation, progressive lower-bound refinement, and dynamic candidate reordering with upper bounds, achieving up to two orders of magnitude improvement over prior work. It contrasts these methods with approximation approaches that lack indexing and filtering support, discusses ground-distance dependence and prior L1 acceleration, and explains support for unnormalized or differently structured histograms and range queries. Future work targets other costly distance measures. The text also provides funding and collaboration acknowledgments and a bibliography spanning EMD theory, algorithms, indexing, optimization, and diverse applications."
+    },
+    {
+      "title": "9. REFERENCES",
+      "node_id": "0019",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "The text contrasts the proposed EMD techniques with prior approximation methods, noting their lack of restrictive assumptions but also the scalability problem caused by the absence of filtering and indexing structures, and cites prior Manhattan-network acceleration using L1 distance. It concludes that adapting SIA, progressive lower-bound refinement, and the DRO strategy for concurrent candidate refinement substantially improves EMD similarity-query performance, achieving up to two orders of magnitude lower cost. The framework handles non-normalized histograms, differing bin counts and locations, and range queries, with DRO unnecessary for fixed thresholds. Future work targets other costly distances such as dynamic time warping. The text also provides funding and acknowledgments and a bibliography spanning EMD foundations, algorithms, indexing, theory, and diverse applications."
+    }
+  ],
+  "has_abstract_or_references_section": true
+}

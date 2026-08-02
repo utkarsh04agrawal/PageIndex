@@ -1,0 +1,122 @@
+{
+  "doc_name": "cognitive-load",
+  "doc_description": "A comprehensive guide on minimizing cognitive load in software development, addressing common pitfalls, practical solutions, and the importance of simplicity and maintainability in code and architecture.",
+  "structure": [
+    {
+      "title": "Cognitive Load is what matters",
+      "node_id": "0000",
+      "prefix_summary": "# Cognitive Load is what matters\n\n[Readable version](https://minds.md/zakirullin/cognitive) | [Chinese translation](https://github.com/zakirullin/cognitive-load/blob/main/README.zh-cn.md) | [Korean translation](README.ko.md) | [Turkish translation](README.tr.md)\n\n*It is a living document, last update: **August 2025**. Your contributions are welcome!*",
+      "line_num": 1,
+      "nodes": [
+        {
+          "title": "Introduction",
+          "node_id": "0001",
+          "summary": "## Introduction\nThere are so many buzzwords and best practices out there, but most of them have failed. We need something more fundamental, something that can't be wrong.   \n\nSometimes we feel confusion going through the code. Confusion costs time and money. Confusion is caused by high *cognitive load*. It's not some fancy abstract concept, but rather **a fundamental human constraint**. It's not imagined, it's there and we can feel it.  \n\nSince we spend far more time reading and understanding code than writing it, we should constantly ask ourselves whether we are embedding excessive cognitive load into our code.",
+          "line_num": 7
+        },
+        {
+          "title": "Cognitive load",
+          "node_id": "0002",
+          "summary": "The partial document discusses the concept of cognitive load, which refers to the mental effort required by developers to complete tasks, such as understanding code. It highlights that the average person can hold about four chunks of information in working memory, and exceeding this limit makes comprehension difficult. The document uses an example of working on an unfamiliar project with complex architectures and technologies, emphasizing how such scenarios increase cognitive load. It advocates for reducing cognitive load in projects to improve understanding and efficiency. Additionally, it briefly mentions the impact of interruptions on cognitive load.",
+          "line_num": 14
+        },
+        {
+          "title": "Types of cognitive load",
+          "node_id": "0003",
+          "summary": "The partial document discusses two types of cognitive load: **Intrinsic**, which is inherent to the difficulty of a task and cannot be reduced, and **Extraneous**, which is caused by how information is presented and can be minimized. The focus is on reducing extraneous cognitive load, with practical examples to follow. It introduces a simple model to represent cognitive load levels using symbols (`🧠`, `🧠++`, `🤯`) to indicate varying levels of working memory usage and cognitive overload.",
+          "line_num": 32
+        },
+        {
+          "title": "Complex conditionals",
+          "node_id": "0004",
+          "summary": "## Complex conditionals \n```go\nif val > someConstant // 🧠+\n    && (condition2 || condition3) // 🧠+++, prev cond should be true, one of c2 or c3 has be true\n    && (condition4 && !condition5) { // 🤯, we are messed up by this point\n    ...\n}\n```\n\nIntroduce intermediate variables with meaningful names:\n```go\nisValid = val > someConstant\nisAllowed = condition2 || condition3\nisSecure = condition4 && !condition5 \n// 🧠, we don't need to remember the conditions, there are descriptive variables\nif isValid && isAllowed && isSecure {\n    ...\n}\n```",
+          "line_num": 52
+        },
+        {
+          "title": "Nested ifs",
+          "node_id": "0005",
+          "summary": "## Nested ifs\n```go\nif isValid { // 🧠+, okay nested code applies to valid input only\n    if isSecure { // 🧠++, we do stuff for valid and secure input only\n        stuff // 🧠+++\n    }\n} \n```\n\nCompare it with the early returns:\n```go\nif !isValid\n    return\n \nif !isSecure\n    return\n\n// 🧠, we don't really care about earlier returns, if we are here then all good\n\nstuff // 🧠+\n```\n\nWe can focus on the happy path only, thus freeing our working memory from all sorts of preconditions.",
+          "line_num": 72
+        },
+        {
+          "title": "Inheritance nightmare",
+          "node_id": "0006",
+          "summary": "## Inheritance nightmare\nWe are asked to change a few things for our admin users: `🧠`\n\n`AdminController extends UserController extends GuestController extends BaseController`\n\nOhh, part of the functionality is in `BaseController`, let's have a look: `🧠+`  \nBasic role mechanics got introduced in `GuestController`: `🧠++`  \nThings got partially altered in `UserController`: `🧠+++`  \nFinally we are here, `AdminController`, let's code stuff! `🧠++++`  \n\nOh, wait, there's `SuperuserController` which extends `AdminController`. By modifying `AdminController` we can break things in the inherited class, so let's dive in `SuperuserController` first: `🤯`\n\nPrefer composition over inheritance. We won't go into detail - there's [plenty of material](https://www.youtube.com/watch?v=hxGOiiR9ZKg) out there.",
+          "line_num": 96
+        },
+        {
+          "title": "Too many small methods, classes or modules",
+          "node_id": "0007",
+          "summary": "The partial document discusses the drawbacks of having too many small, shallow methods, classes, or modules in software design. It contrasts shallow modules, which have complex interfaces but limited functionality, with deep modules, which provide powerful functionality through simple interfaces. The document highlights the cognitive burden of managing numerous shallow modules due to their intricate interactions, as opposed to the simplicity and maintainability of fewer deep modules. It uses examples, such as UNIX I/O, to illustrate how deep modules can hide complexity while remaining easy to use. The text references John K. Ousterhout's book *A Philosophy of Software Design* and other related readings to emphasize the importance of designing components that balance simplicity and functionality without promoting bloated, overly complex objects.",
+          "line_num": 110
+        },
+        {
+          "title": "Responsible for one thing",
+          "node_id": "0008",
+          "summary": "The partial document critiques the misinterpretation of the Single Responsibility Principle (SRP) in software design, emphasizing that it is not about limiting a module to one vague \"thing\" but about ensuring a module is responsible to a single user or stakeholder. It highlights the cognitive burden caused by shallow abstractions and stresses the importance of minimizing mental load and understanding the impact of changes across business streams, rather than adhering rigidly to abstract principles.",
+          "line_num": 149
+        },
+        {
+          "title": "Too many shallow microservices",
+          "node_id": "0009",
+          "summary": "The partial document discusses the drawbacks of having too many shallow microservices in software architecture, emphasizing the challenges of overly granular separation, such as increased complexity, high cognitive load, and delayed project timelines. It critiques the premature adoption of microservices without sufficient understanding of logical boundaries, highlighting the importance of delaying architectural decisions until more information is available. The document contrasts microservices with monolithic architectures, arguing that a well-designed monolith with isolated modules can often be more flexible and easier to maintain. It references the Tanenbaum-Torvalds debate to illustrate the practical dominance of monolithic designs over theoretically superior alternatives, advocating for microservices only when separate deployments become essential.",
+          "line_num": 160
+        },
+        {
+          "title": "Feature-rich languages",
+          "node_id": "0010",
+          "summary": "The partial document discusses the challenges and cognitive load associated with feature-rich programming languages, using C++ as a primary example. It highlights how an abundance of features can lead to increased complexity, requiring developers to spend significant time understanding and rethinking code. The document emphasizes the difficulty of managing legacy features, the growing cognitive burden due to historical and extraneous complexities, and the need for simplicity in language design. It includes insights from experienced developers, such as Rob Pike and a C++ engineer, who share their perspectives on the trade-offs of feature-rich languages and the mental toll they can take.",
+          "line_num": 171
+        },
+        {
+          "title": "Business logic and HTTP status codes",
+          "node_id": "0011",
+          "summary": "The partial document discusses the challenges of using numeric HTTP status codes (e.g., `401`, `403`, `418`) to represent business logic in backend systems. It highlights the cognitive load this creates for frontend and QA engineers, who must remember or map these codes to their meanings. The document advocates for using self-descriptive strings (e.g., `\"jwt_has_expired\"`) in API responses to reduce cognitive load and improve clarity. It also emphasizes the importance of abstracting business details from technical protocols and suggests using simpler terms like \"login\" and \"permissions\" instead of \"authentication\" and \"authorization\" to further reduce mental effort.",
+          "line_num": 200
+        },
+        {
+          "title": "Abusing DRY principle",
+          "node_id": "0012",
+          "summary": "The partial document discusses the potential pitfalls of overusing the DRY (Don't Repeat Yourself) principle in software engineering. It highlights how excessive adherence to DRY can lead to increased cognitive load, tight coupling between unrelated components, and unintended consequences when changes are made. It also warns against premature abstraction within a single module, which can create unnecessary complexity. The document emphasizes the importance of balancing code reuse with simplicity, quoting Rob Pike's advice that a little copying is better than adding dependencies. It also critiques the tendency to rely on heavy libraries for simple functions, stressing that all dependencies effectively become part of your code and can complicate debugging.",
+          "line_num": 233
+        },
+        {
+          "title": "Tight coupling with a framework",
+          "node_id": "0013",
+          "summary": "The partial document discusses the drawbacks of tightly coupling code with a framework, emphasizing the challenges it creates for new developers who must first learn the framework's complexities. It highlights how frameworks, while useful for rapid MVP development, can lead to long-term issues such as increased cognitive load, unnecessary complexity, and constraints when adapting to new requirements. The document advocates for a framework-agnostic approach, where business logic is kept separate from the framework, treating the framework as a tool rather than embedding it into core logic. This approach simplifies onboarding for new contributors and reduces dependency on the framework's intricacies.",
+          "line_num": 249
+        },
+        {
+          "title": "Layered architecture",
+          "node_id": "0014",
+          "summary": "The partial document critiques the use of layered architectures, such as Hexagonal/Onion Architecture, highlighting their drawbacks in practical applications. It discusses how these architectures often lead to increased complexity, higher cognitive load, and excessive glue code, making debugging and adapting to changing requirements more tedious. The author argues that the promised benefits, such as easier component replacement (e.g., databases), rarely materialize, as the real challenges lie in data model incompatibilities, communication protocols, and distributed systems issues. Instead, the document advocates for adhering to fundamental principles like dependency inversion, single source of truth, and information hiding, while avoiding unnecessary abstractions unless justified by practical needs. It emphasizes focusing on core business logic without overcomplicating with additional layers of abstraction.",
+          "line_num": 260
+        },
+        {
+          "title": "Domain-driven design",
+          "node_id": "0015",
+          "summary": "The partial document discusses domain-driven design (DDD), emphasizing its focus on the problem space rather than the solution space. It highlights key concepts like ubiquitous language, domain, bounded context, aggregate, and event storming, which aim to improve communication and understanding between developers, domain experts, and business stakeholders. The document critiques the misinterpretation of DDD as a coding methodology and warns against creating cognitive overload through subjective interpretations. It contrasts DDD with Team Topologies, which is presented as a clearer framework for distributing cognitive load and fostering shared mental models among teams, avoiding unnecessary debates.",
+          "line_num": 296
+        },
+        {
+          "title": "Cognitive load in familiar projects",
+          "node_id": "0016",
+          "summary": "The partial document discusses the concept of cognitive load in familiar projects, emphasizing that familiarity with code does not equate to simplicity. It highlights how non-idiomatic or overly complex code increases the learning burden for others, making it difficult to recognize simplifications in familiar code. The document explains how code complexity often accumulates incrementally and stresses the importance of deliberate efforts to simplify code, as there is no natural force driving simplification. It suggests involving new team members to critique code before they become accustomed to its complexity. The text also underscores the impact of mental models on cognitive load, noting that a higher number of mental models increases onboarding time for new developers. It recommends measuring new developers' confusion during onboarding (e.g., through pair programming) and maintaining low cognitive load to enable quicker contributions to the codebase.",
+          "line_num": 305
+        },
+        {
+          "title": "Examples",
+          "node_id": "0017",
+          "summary": "The partial document discusses examples of simple and effective software architectures, including a standard CRUD app, Instagram's scaling with minimal resources, and insights from tech startup code audits. It emphasizes the importance of simplicity in architecture for ease of understanding, suggests involving junior developers in architecture reviews to identify complex areas, and highlights the challenges of maintaining software while advocating for saving mental effort.",
+          "line_num": 329
+        },
+        {
+          "title": "Conclusion",
+          "node_id": "0018",
+          "summary": "The partial document focuses on the concept of reducing unnecessary cognitive load in software development. It critiques practices that create shallow modules and unnecessary complexity, emphasizing the importance of simplicity and maintainability in code. The document highlights the challenges of balancing complexity and usability, particularly in large systems like browsers, and advocates for deeper modules, straightforward solutions, and avoiding excessive abstractions. It includes commentary from notable figures in the tech industry, who share insights on managing complexity, design sacrifices, and the importance of maintainable, understandable code.",
+          "line_num": 341
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "doc": "four-lectures.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 53,
+  "raw_tree": {
+    "nodes": 43,
+    "leaves": 39,
+    "max_depth": 2,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 1.2,
+    "layout_outline": 0.5,
+    "merge": 0.0,
+    "expand": 5.4,
+    "summary_optimized": 14.2,
+    "total_optimize": 21.3,
+    "thin": 0.0,
+    "summary_baseline": 15.0,
+    "total_baseline": 16.7
+  },
+  "optimize": {
+    "merges": 0,
+    "expands": 1,
+    "before": {
+      "total_pages": 53,
+      "frontier_nodes": 40,
+      "worst_case_search_complexity": 10,
+      "average_search_complexity": 5.943,
+      "normalized_worst_case_complexity": 0.1887,
+      "max_depth": 2,
+      "mean_depth": 1.95,
+      "probability_mass": 1.5283
+    },
+    "after": {
+      "total_pages": 53,
+      "frontier_nodes": 49,
+      "worst_case_search_complexity": 7,
+      "average_search_complexity": 6.019,
+      "normalized_worst_case_complexity": 0.1321,
+      "max_depth": 2,
+      "mean_depth": 1.98,
+      "probability_mass": 1.6792
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 3,
+      "errors": 2,
+      "empty": 0,
+      "in": 2155,
+      "cached": 0,
+      "out": 325,
+      "reasoning": 215,
+      "llm_wall": 3.4,
+      "slowest_call": 3.4
+    },
+    "summary_opt_leaf": {
+      "calls": 45,
+      "errors": 1,
+      "empty": 0,
+      "in": 43147,
+      "cached": 0,
+      "out": 23460,
+      "reasoning": 3333,
+      "llm_wall": 231.5,
+      "slowest_call": 8.3
+    },
+    "summary_opt_parent": {
+      "calls": 5,
+      "errors": 0,
+      "empty": 0,
+      "in": 6948,
+      "cached": 0,
+      "out": 3098,
+      "reasoning": 250,
+      "llm_wall": 29.3,
+      "slowest_call": 7.0
+    },
+    "summary_opt": {
+      "calls": 50,
+      "errors": 1,
+      "empty": 0,
+      "in": 50095,
+      "cached": 0,
+      "out": 26558,
+      "reasoning": 3583,
+      "llm_wall": 260.8,
+      "slowest_call": 8.3
+    },
+    "summary_baseline": {
+      "calls": 47,
+      "errors": 5,
+      "empty": 0,
+      "in": 46755,
+      "cached": 27040,
+      "out": 23857,
+      "reasoning": 2743,
+      "llm_wall": 241.0,
+      "slowest_call": 8.3
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 53,
+      "leaves": 48,
+      "max_depth": 2,
+      "key_items": 0
+    },
+    "baseline": {
+      "nodes": 43,
+      "leaves": 39,
+      "max_depth": 2,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "optimize",
+      "kind": "expand",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.0008560830028727651
+    },
+    {
+      "stage": "optimize",
+      "kind": "expand",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.0035004999954253435
+    },
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.038015499943867326
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.05605254205875099
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.05279745801817626
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.05098058294970542
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.03765037504490465
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.039761874941177666
+    }
+  ],
+  "wall": 36.3,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}

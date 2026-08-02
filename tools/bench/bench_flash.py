@@ -207,8 +207,7 @@ def run_one(pdf, model, variant, out_dir, save_trees):
             "merge": round(t_merge, 2), "expand": round(t_opt - t_merge, 1),
             "summary_optimized": round(t_sum_a, 1),
             "total_optimize": round(t_extract + t_opt + t_sum_a, 1)})
-        rec["optimize"] = {"merges": info["merges"], "expands": info["expands"],
-                           "before": info["before"], "after": info["after"]}
+        rec["optimize"] = info
 
     if variant in ("both", "baseline"):
         struct_b = copy.deepcopy(base)

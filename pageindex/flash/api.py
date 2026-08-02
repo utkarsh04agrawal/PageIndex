@@ -95,6 +95,9 @@ def _optimize(structure, page_texts, do_expand, model):
                                    do_expand=do_expand,
                                    page_count=len(page_texts)))
     return {"merges": outcome["merges"], "expands": outcome["expands"],
+            "same_page_merges": outcome["same_page_merges"],
+            "same_page_dropped": outcome["same_page_dropped"],
+            "kept_collapsed": outcome["kept_collapsed"],
             "before": outcome["before"], "after": outcome["after"]}
 
 
@@ -122,6 +125,9 @@ def page_index_flash(pdf, summary=True, summary_model=None,
                                concurrency=summary_concurrency))
     else:
         result.pop("page_texts", None)
+        if structure:
+            from ..utils import strip_internal_keys
+            strip_internal_keys(structure)   # summarize_tree does this on its way out
     return result
 
 

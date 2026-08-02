@@ -1,0 +1,159 @@
+{
+  "doc": "q1-fy25-earnings.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 22,
+  "raw_tree": {
+    "nodes": 28,
+    "leaves": 25,
+    "max_depth": 2,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 0.5,
+    "layout_outline": 0.2,
+    "merge": 0.0,
+    "expand": 0.0,
+    "summary_optimized": 17.9,
+    "total_optimize": 18.6,
+    "thin": 0.0,
+    "summary_baseline": 23.0,
+    "total_baseline": 23.7
+  },
+  "optimize": {
+    "merges": 1,
+    "expands": 0,
+    "same_page_merges": 8,
+    "same_page_dropped": 9,
+    "kept_collapsed": 0,
+    "before": {
+      "total_pages": 22,
+      "frontier_nodes": 26,
+      "worst_case_search_complexity": 6,
+      "average_search_complexity": 4.636,
+      "normalized_worst_case_complexity": 0.2727,
+      "max_depth": 2,
+      "mean_depth": 1.62,
+      "probability_mass": 1.5455
+    },
+    "after": {
+      "total_pages": 22,
+      "frontier_nodes": 16,
+      "worst_case_search_complexity": 6,
+      "average_search_complexity": 3.5,
+      "normalized_worst_case_complexity": 0.2727,
+      "max_depth": 2,
+      "mean_depth": 1.5,
+      "probability_mass": 1.1364
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 0,
+      "errors": 0,
+      "empty": 0,
+      "in": 0,
+      "cached": 0,
+      "out": 0,
+      "reasoning": 0,
+      "llm_wall": 0,
+      "slowest_call": 0
+    },
+    "summary_opt_leaf": {
+      "calls": 16,
+      "errors": 0,
+      "empty": 0,
+      "in": 13677,
+      "cached": 0,
+      "out": 16238,
+      "reasoning": 6686,
+      "llm_wall": 118.3,
+      "slowest_call": 16.0
+    },
+    "summary_opt_parent": {
+      "calls": 2,
+      "errors": 0,
+      "empty": 0,
+      "in": 1315,
+      "cached": 0,
+      "out": 1024,
+      "reasoning": 86,
+      "llm_wall": 7.9,
+      "slowest_call": 4.2
+    },
+    "summary_opt": {
+      "calls": 18,
+      "errors": 0,
+      "empty": 0,
+      "in": 14992,
+      "cached": 0,
+      "out": 17262,
+      "reasoning": 6772,
+      "llm_wall": 126.3,
+      "slowest_call": 16.0
+    },
+    "summary_baseline": {
+      "calls": 31,
+      "errors": 5,
+      "empty": 0,
+      "in": 20366,
+      "cached": 5865,
+      "out": 26753,
+      "reasoning": 10597,
+      "llm_wall": 188.9,
+      "slowest_call": 23.0
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 18,
+      "leaves": 16,
+      "max_depth": 2,
+      "key_items": 18
+    },
+    "baseline": {
+      "nodes": 26,
+      "leaves": 24,
+      "max_depth": 2,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.035175417084246874
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.03309345804154873
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.031580292037688196
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.024752208031713963
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.029071209020912647
+    }
+  ],
+  "wall": 41.6,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}

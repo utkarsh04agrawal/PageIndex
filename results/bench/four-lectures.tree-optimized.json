@@ -1,0 +1,388 @@
+{
+  "doc_name": "four-lectures.pdf",
+  "doc_title": "Four Lectures on Standard ML",
+  "structure": [
+    {
+      "title": "1 ML at a Glance",
+      "node_id": "0000",
+      "start_index": 2,
+      "end_index": 9,
+      "nodes": [
+        {
+          "title": "1.1 An ML session",
+          "node_id": "0001",
+          "start_index": 2,
+          "end_index": 3,
+          "summary": "The text presents ML's place among programming languages, contrasting its concise, statically typed, functional, expression-based, recursion-oriented style with COBOL and Pascal, and discussing its relationship to LISP and Ada. It explains interactive ML sessions and introduces binary heaps as a motivating example, including their definition, applications, and heap sort. It then demonstrates ML declarations for integer items, comparison functions, recursive tree datatypes, a sample heap, and a root-access function, concluding with an exercise to define another heap."
+        },
+        {
+          "title": "1.2 Types and Values",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The text explains the heap data structure, its ordering property, efficiency, origins in priority queues, and use in heap sort. It then introduces ML declarations for integer items, comparison operators, recursive tree datatypes, heap construction, constructors, values, and pattern matching. Recursive functions for tree depth and heap validation are demonstrated, with exercises for constructing another heap, counting items, and finding a maximum. Finally, it explains exceptions and recursive heap construction with initHeap, including raise, exception propagation, and let-expression scope."
+        },
+        {
+          "title": "1.3 Recursive Functions",
+          "node_id": "0003",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "The text introduces pattern matching for functions over trees, illustrating top and its evaluation, then presents recursive functions depth and isHeap along with exercises for size and maxItem. It next explains ML exceptions and defines initHeap, which rejects invalid depths by raising InitHeap and recursively builds valid heaps, while also describing the evaluation and scope of a let expression."
+        },
+        {
+          "title": "1.4 Raising Exceptions",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 5,
+          "summary": "The text explains ML pattern matching for tree functions, including top, and introduces recursive tree functions depth and isHeap, with exercises for size and maxItem. It describes raising and handling exceptions through initHeap, explains local let bindings and scope, and asks for subtree-access functions. It then defines immutable heap replacement and recursive insertion that preserves heap order, discusses comments, expression evaluation, and the persistence of old values, and introduces structures as containers for related heap declarations."
+        },
+        {
+          "title": "1.5 Structures",
+          "node_id": "0005",
+          "start_index": 5,
+          "end_index": 6,
+          "summary": "The text completes heap operations by specifying subtree accessors and a replace/insert procedure that preserves the heap invariant, illustrates its use, explains comments, expression evaluation, and immutable bindings, and poses exercises about heap validity and resulting values. It then introduces ML structures for encapsulating declarations and accessing them through qualified names, followed by signatures as interfaces specifying types, exceptions, and value types. The Heap structure is shown to match the HEAP signature, and coercive signature matching is introduced as a way to hide unnecessary implementation details such as internal values and constructors."
+        },
+        {
+          "title": "1.6 Signatures",
+          "node_id": "0006",
+          "start_index": 6,
+          "end_index": 6,
+          "summary": "The text defines an integer-based Heap structure and demonstrates qualified access to its members, then introduces signatures as abstract specifications of structures. It presents a HEAP signature, explains how Heap matches it, and begins discussing coercive signature matching to hide unnecessary implementation details such as internal values and constructors."
+        },
+        {
+          "title": "1.7 Coersive Signature Matching",
+          "node_id": "0007",
+          "start_index": 6,
+          "end_index": 7,
+          "summary": "The text develops an ML Heap structure, demonstrates qualified access to its components, introduces signatures as structure interfaces, and explains full versus pruned signatures, structure matching, and signature constraints that hide implementation details while retaining type identity. It then motivates functors for constructing heaps over arbitrary item types and defines the ITEM signature specifying the required item type, comparison operation, and initial value."
+        },
+        {
+          "title": "1.8 Functor Declaration",
+          "node_id": "0008",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "The text explains ML signatures, signature constraints, type visibility, and functors through a heap implementation. It presents the HEAP and ITEM interfaces, shows how constraining a structure hides unspecified components while preserving known type identities, defines a generic Heap functor parameterized by item comparison and initialization operations, outlines its tree-based heap algorithms, poses exercises for a Pair functor and a max-related type error, and introduces applying functors to create specialized heaps such as string heaps or heaps of heaps."
+        },
+        {
+          "title": "1.9 Functor Application",
+          "node_id": "0009",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "The text presents an ML Heap functor that abstracts over an ordered item structure and implements tree-based heaps, including construction, ordering checks, depth, insertion, and replacement. It explains functor parameters, result signatures, and type-checking considerations, then introduces functor application through string heaps and proposes exercises involving pair structures, integer heaps, maximal heaps, and heaps of heaps. It concludes by defining module terminology and summarizing the core and modules portions of ML."
+        },
+        {
+          "title": "1.10 Summary",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "The text demonstrates parameterizing a heap with a StringItem structure ordered by the first character's ASCII value, performs string-heap initialization and replacements, explains ord and its Ord exception, poses exercises on integer heaps and heaps of heaps, clarifies ML module terminology, and summarizes the core and modules languages of ML."
+        }
+      ],
+      "summary": "This section introduces ML through interactive programming and a binary-heap case study, covering its functional, statically typed, expression-based style; ML types, values, datatypes, constructors, pattern matching, recursion, expressions, immutable bindings, and exceptions; and heap construction, validation, access, replacement, insertion, persistence, and sorting-related uses. It then develops ML's module system through structures, qualified names, signatures, signature matching and constraints, abstraction and type visibility, and functors. A generic heap functor parameterized by an ITEM interface is defined and applied to strings, integers, pairs, maximal heaps, and heaps of heaps, with related exercises, type-checking issues, and module terminology concluding the section."
+    },
+    {
+      "title": "2 Programming with ML Modules",
+      "node_id": "0011",
+      "start_index": 10,
+      "end_index": 19,
+      "nodes": [
+        {
+          "title": "2.1 Introduction",
+          "node_id": "0012",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "The text introduces ML's module system as a way to structure large programs through relatively independent units, while preserving compile-time consistency via module-level type checking. It explains the trade-off between unified small- and large-scale language constructs and ML's stratified separation of core and module languages, defines structures, signatures, and functors, and emphasizes functors as module parameterization powerful enough to assemble complete systems. Using a parser project and symbol tables as motivation, it presents an opaque OTable signature with abstract symbol, value, table, lookup, and update components, explains its free structure identifiers and long type identifiers, and outlines possible implementations such as association lists and hash tables supported by symbol hashing and integer maps."
+        },
+        {
+          "title": "2.2 Signatures",
+          "node_id": "0013",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "The text explains ML modules, structures, signatures, and functors, emphasizing how even simple structure-to-structure functors support modular system construction. It develops a symbol-table example for a parser: an opaque signature abstracts symbol and value types and defines table operations; alternative implementations include association lists and a hash table backed by an integer map; and a concrete structure implements lookup and exception handling. Signature constraints control visibility by hiding representation details, while multiple constrained bindings allow different parts of a program to view the same structure at different abstraction levels."
+        },
+        {
+          "title": "2.3 Structures",
+          "node_id": "0014",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "The text explains ML signatures, structures, signature constraints, multiple abstract views, sharing of structure components, and functors. It defines a table interface and implements a hash-based symbol table, showing how signatures hide representation details, how one structure can be exposed under different signatures while retaining shared runtime components and compatible static types, and how functors parameterize such structures over their otherwise-free dependencies."
+        },
+        {
+          "title": "2.4 Functors",
+          "node_id": "0015",
+          "start_index": 13,
+          "end_index": 14,
+          "summary": "The text explains symbol-table lookup and type sharing between structure aliases, then introduces ML functors to abstract symbol tables over IntMap, value, and symbol implementations. It presents the SymTblFct interface and body, asks for the supporting signatures and update operation, demonstrates instantiation as MyTbl with concrete structures, describes result-signature substitution, delayed per-application evaluation, and argument-signature checking, and begins discussing substructures and the challenge of writing functors that accept all resulting symbol-table implementations."
+        },
+        {
+          "title": "2.5 Substructures",
+          "node_id": "0016",
+          "start_index": 14,
+          "end_index": 15,
+          "summary": "The text explains how parameterized symbol-table functors use formal structures and signatures, how to declare the required IntMapSig, ValSig, and SymSig interfaces, and how to complete the functor with update. It describes applying the functor to concrete structures, deriving the resulting signature by type substitution, and checking actual arguments dynamically at application time. It then solves the problem of varying result types by defining SymTblSig with Val and Sym as explicit substructures, presents the corresponding SymTblFct implementation and lookup behavior, explains substructures generally, and gives LexSig as an example of a signature containing a symbol substructure before introducing sharing."
+        },
+        {
+          "title": "2.6 Sharing",
+          "node_id": "0017",
+          "start_index": 15,
+          "end_index": 16,
+          "summary": "The text explains how to make symbol-table signatures explicitly depend on nested Val and Sym structures, how SymTblFct binds those structures and implements symbol-table operations, and how lexical analyzers expose a Sym substructure. It then introduces sharing specifications, showing that a parser combining a symbol table and lexer needs explicit structure sharing so their symbol types are identical, and may also require type sharing such as SymTbl.Val.value = string. Finally, it notes that the system has been specified entirely with signatures and functors and assigns the construction of nullary implementation functors for Val, Sym, and IntMap."
+        },
+        {
+          "title": "2.7 Building the System",
+          "node_id": "0018",
+          "start_index": 16,
+          "end_index": 17,
+          "summary": "The text explains why the initial ParseFct functor fails type checking: SymTbl.Sym.sym and Lex.Sym.sym are distinct unless their sharing is explicitly declared. It introduces structure and type sharing specifications, gives corrected ParseFct declarations including required type equality, and then shows how to build the full parser system from nullary and parameterized functors. It also discusses separate compilation, loading shared signatures with use, compiler verification of sharing constraints, and an incorrect construction whose fresh SymFct instance violates the parser's required sharing."
+        },
+        {
+          "title": "2.8 Separate Compilation",
+          "node_id": "0019",
+          "start_index": 17,
+          "end_index": 17,
+          "summary": "The text shows how to assemble an ML system using ValFct, SymFct, SymTblFct, LexFct, and ParseFct, then discusses separate compilation through persistent compiled declarations or, alternatively, reusable signature and functor files loaded with use. It notes that the compiler checks functor sharing constraints and gives an erroneous parser construction in which independently created symbol structures fail to satisfy the required sharing."
+        },
+        {
+          "title": "2.9 Good Style",
+          "node_id": "0020",
+          "start_index": 18,
+          "end_index": 18,
+          "summary": "The text recommends small, focused signatures and using `include` to build richer signatures incrementally, illustrated with `SmallTbl` and `BigTbl`. It then criticizes the use of free identifiers and superficial structure declarations to suggest dependencies, explaining that such declarations can omit dependencies, make types and implementations difficult to trace, hide side effects, and reduce modular organization to cosmetic structure. It finally begins discussing the misuse of `open`, which brings all bindings from a structure into scope."
+        },
+        {
+          "title": "2.10 Bad Style",
+          "node_id": "0021",
+          "start_index": 18,
+          "end_index": 19,
+          "summary": "The text contrasts good and bad module-programming style. It recommends small, focused signatures and using `include` to extend them, illustrated with `SmallTbl` and `BigTbl`. It criticizes structures that rely on free identifiers or merely list presumed dependencies, because omitted dependencies remain undetected, type lookup becomes difficult, and side effects are obscured. It gives `open` as a particularly harmful case when many structures are opened, making identifier resolution guesswork, while noting its usefulness for a single common structure. An exercise asks whether these criticisms still apply when using only signatures and functors."
+        }
+      ],
+      "summary": "This section presents ML's module system for structuring large, type-safe programs through signatures, structures, and especially parameterized functors. A progressively developed parser symbol-table example covers abstraction, alternative implementations, nested substructures, functor parameterization and instantiation, result types, sharing constraints, and construction of lexer, symbol-table, and parser components. It explains how explicit structure and type sharing enables type checking, how complete systems are assembled and separately compiled, and how incorrect independently instantiated components fail. The section concludes with module-design guidance favoring focused, compositional signatures and explicit dependencies, and criticizes free identifiers, cosmetic declarations, and indiscriminate use of open."
+    },
+    {
+      "title": "3 The Static Semantics of Modules",
+      "node_id": "0022",
+      "start_index": 20,
+      "end_index": 29,
+      "nodes": [
+        {
+          "title": "3.1 Elaboration",
+          "node_id": "0023",
+          "start_index": 20,
+          "end_index": 20,
+          "summary": "This section explains elaboration as the static process by which ML signature expressions, structure expressions, and functor declarations acquire semantic meanings. It distinguishes syntax from meaning, shows how context and free identifiers affect signature equality, introduces principal signatures and their instances, and explains that semantic objects are represented by decorating expressions with names distinct from identifiers."
+        },
+        {
+          "title": "3.2 Names",
+          "node_id": "0024",
+          "start_index": 21,
+          "end_index": 21,
+          "summary": "The text introduces structure and type names for determining sharing, illustrates valid and invalid sharing equations using Stack aliases and separately declared datatypes, and explains decoration of programs. It establishes that struct...end expressions and datatype declarations are generative, producing fresh structure and type names, respectively, and gives decorated examples. Full component decoration is possible but normally omitted, especially because functor applications do not reveal their resulting components."
+        },
+        {
+          "title": "3.3 Decorating Structures",
+          "node_id": "0025",
+          "start_index": 21,
+          "end_index": 21,
+          "summary": "The text explains structure and type names through Stack examples, identifies which sharing equations hold or fail, and presents name decoration as a method for deciding sharing. It establishes that struct expressions and datatype declarations are generative and receive fresh names, illustrates the resulting decorations, and notes that full decoration would include all components and subcomponents, though these are usually omitted, especially when functor applications obscure them."
+        },
+        {
+          "title": "3.4 Decorating Signatures",
+          "node_id": "0026",
+          "start_index": 22,
+          "end_index": 23,
+          "summary": "The text explains how signatures are decorated with names for structures and components, distinguishes bound placeholder names from free names, and gives exercises on counting names and decorating several interrelated signatures. It emphasizes that shared structures must have consistently shared decorations for all visible subcomponents. It then introduces signature instantiation: a structure is an instance of a signature when its decoration is obtained by realizing the signature through substitution of names for bound names, with free names preserved."
+        },
+        {
+          "title": "3.5 Signature Instantiation",
+          "node_id": "0027",
+          "start_index": 23,
+          "end_index": 24,
+          "summary": "The text explains how to decorate signatures and shared structures, then defines signature instantiation through realisation of bound names. It demonstrates valid instantiation with Stack and StackSigA/StackSigB, an invalid case with OddStr and WrongSig, and introduces signature matching as instantiation plus forgetting unneeded components or polymorphism, illustrated by Tree and TreeSig."
+        },
+        {
+          "title": "3.6 Signature Matching",
+          "node_id": "0028",
+          "start_index": 24,
+          "end_index": 25,
+          "summary": "The text explains signature instantiation and matching in a module system, illustrating them with stack, odd-value, and polymorphic tree structures. Matching permits forgetting unneeded components and polymorphism, while explicit signature constraints expose only the instantiated signature view but preserve existing type sharing. It also introduces exercises on datatype-versus-type matching, implementing symbol conversion, and determining valid expressions for structures with different type sharing."
+        },
+        {
+          "title": "3.7 Signature Constraints",
+          "node_id": "0029",
+          "start_index": 25,
+          "end_index": 25,
+          "summary": "The text discusses when datatype and type declarations can satisfy signature specifications, then explains explicit signature constraints: they expose precisely the instantiated signature, hide unlisted components, may remove polymorphism, and preserve existing type sharing through realization. It presents the SymSig/Sym example with abstract shared types and symbol operations, followed by exercises to complete convert, define an alternative NewSym whose symbol type shares with string, and determine the validity of two expressions."
+        },
+        {
+          "title": "3.8 Decorating Functors",
+          "node_id": "0030",
+          "start_index": 26,
+          "end_index": 26,
+          "summary": "The text explains functor evaluation and decoration: every application independently evaluates the body and creates fresh generative names, ensuring that separate StackFct applications share neither mutable references nor types. It describes how generative names are recorded and replaced with fresh names for nullary applications, presents the Stack1/Stack2 example and related decoration exercise, and introduces external sharing through identifiers free in a functor and originating in its surrounding context."
+        },
+        {
+          "title": "3.9 External Sharing",
+          "node_id": "0031",
+          "start_index": 26,
+          "end_index": 27,
+          "summary": "The text explains how functor evaluation and name decoration work, emphasizing that each application generates fresh references, structure names, and types. It introduces generative names for nullary functors and contrasts them with externally shared names, which remain unchanged across applications. It also explains decoration of functors with arguments through formal parameter signatures, illustrated by a symbolic-direction functor applied to a concrete structure, and includes exercises on completing decorations and determining sharing equations."
+        },
+        {
+          "title": "3.10 Functors with Arguments",
+          "node_id": "0032",
+          "start_index": 27,
+          "end_index": 28,
+          "summary": "The text discusses ML structure and functor name generation, sharing, and type identity. It first presents a zero-argument stack functor and asks which identities hold between two applications. It then introduces argument-taking functors, explains how formal parameters are decorated using only their stated signatures, illustrates fresh result names, and examines sharing between argument and result types through exercises. A three-step procedure is given for decorating functor applications. Finally, explicit result signatures are described as restricted views of decorated functor bodies that preserve sharing while hiding unspecified components and polymorphism, followed by an incomplete exercise about the limitations of obtaining such result signatures."
+        },
+        {
+          "title": "3.11 Sharing Between Argument and Result",
+          "node_id": "0033",
+          "start_index": 28,
+          "end_index": 28,
+          "summary": "The text explains how functor application decorates fresh result names and preserves type sharing between formal arguments, functor bodies, actual arguments, and actual results. It presents the SymSig/SymDir and Actual/Result example, poses exercises about Result's decoration and the legality of a typed function expression under different SymDir definitions, and gives the three-step procedure for fully decorating a one-argument functor application. It then describes explicit result signatures: decorate the functor and signature separately, accept the signature only when it can be obtained from the body by hiding components and polymorphism, propagate sharing on application, and expose only the declared result components and polymorphism; a final exercise questions why this extraction is not always possible."
+        },
+        {
+          "title": "3.12 Explicit Result Signatures",
+          "node_id": "0034",
+          "start_index": 28,
+          "end_index": 29,
+          "summary": "The text explains how functor application decorates fresh result structures and propagates type sharing from formal arguments through actual arguments into results. It illustrates this with SymSig, SymDir, Actual, and Result, and poses exercises about completing decorations and checking type legality. It then gives a three-step procedure for decorating one-argument functor applications. Finally, it describes how explicit functor result signatures are checked and used: they may hide components and polymorphism while preserving sharing, and the text asks when this sealed-result form is equivalent to applying an unsealed functor and ascribing the result signature afterward."
+        }
+      ],
+      "summary": "This section presents the static semantics of ML modules through elaboration and name-based decoration. It explains how structures, types, signatures, and functors acquire semantic identities; how generative declarations and functor applications create fresh names; how free names preserve external sharing; and how decoration determines structure and type sharing. It develops signature instantiation and matching, including the effects of hiding components and polymorphism, then explains explicit signature constraints and result signatures, which expose restricted views while preserving existing sharing. Functor applications with and without arguments are described through formal-parameter and result decoration, fresh result identities, argument-result sharing, and a systematic decoration procedure. Numerous Stack, tree, symbol, and direction examples and exercises test name generation, valid sharing, signature compatibility, implementation legality, and the limits of explicit result-signature extraction."
+    },
+    {
+      "title": "4 Implementing an Interpreter in ML",
+      "node_id": "0035",
+      "start_index": 30,
+      "end_index": 43,
+      "nodes": [
+        {
+          "title": "4.1 VERSION 1: The bare Typechecker (Appendix A)",
+          "node_id": "0036",
+          "start_index": 32,
+          "end_index": 33,
+          "summary": "The text introduces a modular Version 1 Mini ML typechecker for integer constants and addition, explaining abstract type representations, the TYPE interface, unTypeInt, functor-based abstraction, system construction, and an exercise to add booleans and multiplication. It then presents Version 2, which adds polymorphic list typing and unification: empty lists receive type-variable-based types that can be specialized by context, as illustrated by equality and nested-list examples, including the initial step of inferring 'a1 list."
+        },
+        {
+          "title": "4.2 VERSION 2: Adding lists and polymorphism",
+          "node_id": "0037",
+          "start_index": 33,
+          "end_index": 37,
+          "summary": "The text presents Version 2 of an interpreter, extending type inference with polymorphic lists and unification. It explains contextual typing of empty lists, demonstrates successful and failed nested-list unifications, and specifies the TYPE and UNIFY interfaces along with corresponding typechecker and Type-functor implementations using functional substitutions. It assigns an exercise to add equality handling, then introduces Version 3, which represents type variables as references and performs substitutions through assignments, beginning with its ImpType definition."
+        },
+        {
+          "title": "4.3 VERSION 3: A di erent implementation of types",
+          "node_id": "0038",
+          "start_index": 37,
+          "end_index": 39,
+          "summary": "The text describes functional substitutions in Version 2, an exercise to add equality, and Version 3's alternative imperative type representation using mutable references. It compares functional and imperative performance, notes the imperative approach's easier substitution composition, and emphasizes abstraction and correct system design over premature optimization. Version 4 then introduces type environments, let expressions, identifiers, polymorphic type schemes, generalization, and fresh instantiation, illustrating these mechanisms with a polymorphic list example."
+        },
+        {
+          "title": "4.4 VERSION 4: Introducing variables and let",
+          "node_id": "0039",
+          "start_index": 39,
+          "end_index": 43,
+          "summary": "The text contrasts imperative and applicative substitution implementations, emphasizing that composition and sound abstraction matter more than premature performance optimization. It then presents Version 4 of Mini ML, adding identifiers, let expressions, type environments, polymorphic type schemes, generalization, fresh instantiation, and a corresponding TypeChecker and Type implementation using unification. The implementation supports basic literals, arithmetic, lists, cons, let, and identifiers while leaving several constructs unfinished. It concludes with exercises for conditionals and for extending the system with functions, arrow types, environment-aware generalization, substitution propagation and composition, and function unification, followed by an acknowledgement of Nick Rothwell's contributions."
+        },
+        {
+          "title": "4.5 Acknowledgement",
+          "node_id": "0040",
+          "start_index": 43,
+          "end_index": 43,
+          "summary": "The text defines type-scheme closure by quantifying a type's free variables, describes rebuilding the system with a matching Environment functor, and presents exercises to add conditional expressions and, optionally, lambda abstraction and application. The latter requires arrow types, environment-aware closure, fresh-variable parameter schemes, substitution-producing type checking with progressively specialized environments, substitution composition in the type interface and implementation, and arrow-type unification. It concludes by crediting Nick Rothwell for the parser, evaluator, and associated signatures."
+        }
+      ],
+      "summary": "This section presents the stepwise construction of a modular Mini ML interpreter in ML. It introduces the language, parser, abstract syntax, interpreter architecture, and independent typechecker/evaluator components, then develops the typechecker through successive versions: basic integer typing, polymorphic lists and functional unification, imperative reference-based types, and finally variables, let bindings, environments, polymorphic schemes, generalization, and instantiation. It compares substitution strategies, specifies the relevant signatures and functors, illustrates typing behavior, identifies unfinished constructs, and gives exercises for adding booleans, multiplication, equality, conditionals, functions, arrow types, and related unification and environment machinery, with implementation resources and acknowledgements."
+    },
+    {
+      "title": "Appendix A: The bare Interpreter",
+      "node_id": "0041",
+      "start_index": 44,
+      "end_index": 52,
+      "nodes": [
+        {
+          "title": "syntax",
+          "start_index": 44,
+          "end_index": 44,
+          "node_id": "0042",
+          "summary": "Appendix A: The bare Interpreter\n(* interp1.sml : VERSION 1: the bare interpreter *)\nsignature INTERPRETER= sig val interpret: string -> string val eval: bool ref and tc : bool ref end;\n(* syntax *)\nsignature EXPRESSION = sig datatype Expression =\nSUMexpr of Expression * Expression | DIFFexpr of Expression * Expression | PRODexpr of Expression * Expression | BOOLexpr of bool | EQexpr of Expression * Expression | CONDexpr of Expression * Expression * Expression | CONSexpr of Expression * Expression | LISTexpr of Expression list | DECLexpr of string * Expression * Expression | RECDECLexpr of string * Expression * Expression | IDENTexpr of string | LAMBDAexpr of string * Expression | APPLexpr of Expression * Expression | NUMBERexpr of int\nend\n(* parsing *)\nsignature PARSER = sig\nstructure E: EXPRESSION\nexception Lexical of string exception Syntax of string\n43"
+        },
+        {
+          "title": "parsing",
+          "start_index": 44,
+          "end_index": 45,
+          "node_id": "0043",
+          "summary": "The excerpt specifies the interfaces for a bare interpreter: interpreting input, representing expressions, parsing with lexical and syntax errors, managing environments and bindings, and representing and manipulating runtime values. It also begins the evaluator interface, though its definition is truncated."
+        },
+        {
+          "title": "environments",
+          "start_index": 45,
+          "end_index": 45,
+          "node_id": "0044",
+          "summary": "val parse: string -> E.Expression\nend\n(* environments *)\nsignature ENVIRONMENT = sig type 'object Environment\nexception Retrieve of string\nval emptyEnv: 'object Environment val declare: string * 'object * 'object Environment -> 'object Environment val retrieve: string * 'object Environment -> 'object\nend\n(* evaluation *)\nsignature VALUE = sig\ntype Value exception Value\nval mkValueNumber: int -> Value and unValueNumber: Value -> int\nval mkValueBool: bool -> Value and unValueBool: Value -> bool\nval ValueNil: Value val mkValueCons: Value * Value -> Value and unValueHead: Value -> Value and unValueTail: Value -> Value\nval eqValue: Value * Value -> bool val printValue: Value -> string\nend\nsignature EVALUATOR = sig\n44"
+        },
+        {
+          "title": "evaluation",
+          "start_index": 45,
+          "end_index": 46,
+          "node_id": "0045",
+          "summary": "The text specifies interfaces for parsing, environments, runtime values, evaluation, and static type checking, including their abstract types, exceptions, constructors, accessors, and core operations. It then declares an Interpreter functor that combines these components while enforcing shared expression and type representations."
+        },
+        {
+          "title": "type checking",
+          "start_index": 46,
+          "end_index": 46,
+          "node_id": "0046",
+          "summary": "structure Exp: EXPRESSION structure Val: VALUE exception Unimplemented val evaluate: Exp.Expression -> Val.Value\nend\n(* type checking *)\nsignature TYPE = sig\ntype Type\n(*constructors and decstructors*) exception Type val mkTypeInt: unit -> Type and unTypeInt: Type -> unit\nval mkTypeBool: unit -> Type and unTypeBool: Type -> unit\nval prType: Type->string\nend\nsignature TYPECHECKER = sig structure Exp: EXPRESSION structure Type: TYPE exception NotImplemented of string exception TypeError of Exp.Expression * string val typecheck: Exp.Expression -> Type.Type end;\n(* the interpreter*)\nfunctor Interpreter (structure Ty: TYPE structure Value : VALUE structure Parser: PARSER structure TyCh: TYPECHECKER structure Evaluator:EVALUATOR sharing Parser.E = TyCh.Exp = Evaluator.Exp and TyCh.Type = Ty\n45"
+        },
+        {
+          "title": "the interpreter",
+          "start_index": 46,
+          "end_index": 47,
+          "node_id": "0047",
+          "summary": "The text specifies interfaces for evaluation, types, and type checking, then implements an Interpreter functor that parses input, optionally performs type checking and evaluation, formats results, and handles multiple error categories. It also begins an Evaluator functor whose initial behavior evaluates boolean expressions into boolean values."
+        },
+        {
+          "title": "the evaluator",
+          "start_index": 47,
+          "end_index": 48,
+          "node_id": "0048",
+          "summary": "The text defines an interpreter that parses expressions, optionally type-checks and evaluates them, formats the resulting value and type, and handles several categories of errors. It also implements a partial evaluator for Boolean and numeric literals and basic arithmetic, while leaving equality, control flow, lists, declarations, variables, functions, and applications unimplemented. A TypeChecker functor is introduced without further implementation shown."
+        },
+        {
+          "title": "the typechecker",
+          "start_index": 48,
+          "end_index": 49,
+          "node_id": "0049",
+          "summary": "The text defines a partial evaluator for numeric literals and arithmetic sum, difference, and product expressions, leaving all other expression forms unimplemented. It also defines a partial TypeChecker functor that recognizes integer literals and validates integer operands of sums, reports type errors for non-integer operands, and marks all other supported expression categories as not implemented."
+        },
+        {
+          "title": "the basics -- nullary functors",
+          "start_index": 50,
+          "end_index": 51,
+          "node_id": "0050",
+          "summary": "The text defines three nullary Standard ML functors: Type for integer and Boolean types with checked construction, extraction, and printing; Expression for a broad abstract syntax tree of arithmetic, Boolean, list, declaration, function, application, identifier, and literal expressions; and Value for integer, Boolean, nil, and cons values with constructors, checked accessors, equality, and list-aware pretty-printing."
+        },
+        {
+          "title": "Pretty-printing",
+          "start_index": 51,
+          "end_index": 52,
+          "node_id": "0051",
+          "summary": "The text defines an SML `Value` functor implementing a value representation for integers, booleans, nil, and recursive lists, along with constructors, type-safe accessors that signal errors via an exception, equality testing, and recursive pretty-printing in conventional syntax."
+        }
+      ],
+      "summary": "Appendix A presents the interfaces and partial Standard ML implementation of a bare interpreter: its expression syntax, parser, environments, runtime values, evaluator, type system, type checker, and integrating interpreter functor. The interpreter can parse input, optionally type-check and evaluate it, print values and types, and report lexical, syntax, retrieval, value, type, and implementation errors. The supplied implementation handles basic literals and integer arithmetic, while most advanced language constructs remain unimplemented; supporting functors provide abstract types, checked operations, list values, equality, and pretty-printing."
+    },
+    {
+      "title": "Appendix B: Files",
+      "node_id": "0052",
+      "start_index": 53,
+      "end_index": 53,
+      "summary": "Appendix B: Files\nThe following les are available in the directory /usr/cheops/mads/course\n\u000f interp1.sml Version 1 (as included in Appendix A). \u000f interp2.sml \u0001 \u0001 \u0001 interp4.sml The other versions. \u000f build1.sml the structure declarations needed to build Version 1. \u000f build2.sml \u0001 \u0001 \u0001 build4.sml Similarly for the other versions. \u000f parser.sml The parser functor.\nTo build Version 3, say, you type the following (assuming you have copied the les to your directory):\nuse \"interp3.sml\"; use \"parser.sml\"; use \"build3.sml\";\nSince the parser functor is completely closed, you dont have to include it more than once in every session, although you will probably want to build your system several times while you experiment with the extensions.\n52"
+    }
+  ],
+  "has_abstract_or_references_section": false
+}

@@ -1,0 +1,1589 @@
+{
+  "doc_name": "2023-annual-report.pdf",
+  "doc_title": "Annual Report of the Board of Governors of the Federal Reserve System",
+  "structure": [
+    {
+      "title": "About the Federal Reserve",
+      "node_id": "0000",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "iii\nAbout the Federal Reserve\nThe Federal Reserve was created by an act of Congress on December 23, 1913, to provide the nation with a safer, more flexible, and more stable monetary and financial system. In establishing the Federal Reserve System, the United States was divided geographically into 12 Districts, each with a separately incorporated Reserve Bank.\nFor more information about the Federal Reserve Board and the Federal Reserve System, visit the Board’s website at https://www.federalreserve.gov/aboutthefed/default.htm. Online versions of the Board’s annual report are available at https://www.federalreserve.gov/publications/annual- report/default.htm."
+    },
+    {
+      "title": "1 Overview",
+      "node_id": "0001",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The 2023 Annual Report describes the Federal Reserve’s operations across five core functions: monetary policy, financial stability, financial institution supervision and regulation, payment-system safety and efficiency, and consumer protection and community development. It also explains the System’s structure of 12 Reserve Banks and a seven-member Board of Governors, and provides appendixes covering leadership, FOMC meeting minutes, audited finances and oversight reviews, budgets and currency costs, policy actions, litigation, and historical statistics."
+    },
+    {
+      "title": "2 Monetary Policy and Economic Developments",
+      "node_id": "0002",
+      "start_index": 9,
+      "end_index": 20,
+      "nodes": [
+        {
+          "title": "March 2024 Summary",
+          "node_id": "0003",
+          "start_index": 9,
+          "end_index": 14,
+          "nodes": [
+            {
+              "title": "Recent Economic and Financial Developments",
+              "node_id": "0004",
+              "start_index": 10,
+              "end_index": 12,
+              "summary": "The text reviews recent U.S. and international economic and financial developments and monetary policy. U.S. inflation has fallen considerably but remains above target, while long-term expectations are stable. The labor market remains tight despite easing demand, with stronger labor supply and moderating but elevated wage growth. Economic growth was robust in 2023, led by consumers and recovering housing, while business investment and manufacturing weakened. Financial conditions tightened, borrowing costs remained high, and bank lending slowed. The banking system is resilient, but elevated asset valuations, leverage, unrealized asset losses, and funding risks warrant monitoring. Foreign growth weakened, inflation declined unevenly, and many central banks paused tightening or began easing. The FOMC kept its policy rate at 5.25%–5.50% and indicated that cuts would depend on greater confidence in sustainable disinflation."
+            },
+            {
+              "title": "Monetary Policy",
+              "node_id": "0005",
+              "start_index": 12,
+              "end_index": 13,
+              "summary": "The text reviews financial stability, international economic and inflation developments, and U.S. monetary policy. It describes a resilient banking system with continuing valuation, leverage, asset-loss, and funding risks; weaker foreign growth and easing but uneven inflation; broadly paused foreign rate hikes and expected 2024 easing; the FOMC’s continued 5.25–5.50 percent policy rate and data-dependent approach toward eventual cuts; ongoing balance-sheet runoff totaling about $1.4 trillion; and a special topic showing that tight labor-market conditions narrowed employment and wage disparities for historically disadvantaged groups, although the discussion is incomplete."
+            },
+            {
+              "title": "Special Topics",
+              "node_id": "0006",
+              "start_index": 13,
+              "end_index": 14,
+              "summary": "The text reviews interest-rate developments, the Federal Reserve's 2 percent inflation objective and data-dependent policy approach, and its ongoing balance-sheet runoff under an ample-reserves framework. It also discusses narrowing but persistent employment and earnings disparities, the effects of high mortgage rates and supply constraints on housing, balance-sheet and money-market developments, and monetary policy rules that now generally support federal funds rates close to the current target range."
+            }
+          ],
+          "summary": "This section reviews the Federal Reserve’s monetary policy and U.S. and international economic and financial developments through excerpts from its March 2024 and June 2023 reports. Inflation has fallen considerably but remains above 2 percent, while a still-tight labor market, strong 2023 economic growth, and easing but persistent wage and price pressures shape the outlook. It covers weaker business investment and manufacturing, tighter financial conditions, housing constraints, slower bank lending, banking-system resilience and vulnerabilities, and uneven foreign growth and disinflation. The FOMC has held the federal funds rate at 5.25–5.50 percent, continued balance-sheet runoff, and remains committed to returning inflation to 2 percent before reducing rates. Special topics address labor-market disparities, interest-rate and monetary-policy developments, the inflation objective, housing, balance-sheet and money-market conditions, and policy-rate rules."
+        },
+        {
+          "title": "June 2023 Summary",
+          "node_id": "0007",
+          "start_index": 15,
+          "end_index": 20,
+          "nodes": [
+            {
+              "title": "Recent Economic and Financial Developments",
+              "node_id": "0008",
+              "start_index": 15,
+              "end_index": 17,
+              "summary": "The June 2023 report describes an economy with moderating but still excessive inflation, a highly tight labor market, and modest growth weakened by tighter financial conditions. The FOMC raised the federal funds rate to 5–5¼ percent and continued balance-sheet reduction, while emphasizing data dependence, policy lags, and its commitment to 2 percent inflation. It reviews easing headline and goods inflation but persistent core services pressures, strong yet cooling employment, slowing consumer and business activity, weakening housing, and tighter credit conditions. Financial stability remained generally resilient despite three bank failures, elevated real-estate valuations, and vulnerabilities among banks and nonbank institutions. International activity recovered temporarily, foreign inflation eased mainly through lower energy prices, and major foreign central banks continued tightening cautiously."
+            },
+            {
+              "title": "Monetary Policy",
+              "node_id": "0009",
+              "start_index": 17,
+              "end_index": 18,
+              "summary": "The text reviews financial, international, and U.S. monetary developments. Real estate and debt vulnerabilities remained moderate but elevated, while failures of three banks exposed risks from uninsured deposits, falling long-duration asset values, and weak risk management; the wider banking system remained liquid and capable of absorbing losses, though nonbank leverage and funding risks persisted. Foreign growth rebounded early in 2023, led partly by China, Europe proved resilient, and headline inflation eased while food and core inflation stayed high. Major foreign central banks generally continued tightening, with some urging caution, and the dollar weakened slightly. The FOMC raised the federal funds target to 5–5¼ percent, slowed the pace of increases, and continued reducing securities holdings by about $420 billion, partly offset by bank liquidity support. Labor-market strength narrowed employment and wage disparities but did not eliminate them. Bank credit conditions tightened and were expected to tighten further, potentially weighing unevenly on economic activity, especially in commercial real estate and small businesses. In response to March banking stress, discount-window borrowing rose, the BTFP was introduced, and Federal Reserve lending caused total assets to increase despite ongoing SOMA reduction."
+            },
+            {
+              "title": "Special Topics",
+              "node_id": "0010",
+              "start_index": 18,
+              "end_index": 20,
+              "summary": "The text reviews Federal Reserve balance-sheet reduction and its partial offset by banking-system liquidity support, including the effects of the BTFP, discount-window lending, and ON RRP operations on money markets. It describes narrowing but persistent employment and wage disparities across demographic and educational groups, tightening bank credit and its potentially uneven effects—especially on commercial real estate and small businesses—and notes that monetary policy rules called for high policy rates amid above-target inflation and tight labor markets."
+            }
+          ],
+          "summary": "The June 2023 summary describes an economy with moderating but still excessive inflation, a highly tight yet cooling labor market, and modest growth constrained by tighter financial and credit conditions. It covers easing headline and goods inflation alongside persistent core services and food pressures; slowing consumption and business activity, weaker housing, and uneven effects on commercial real estate and small firms; and narrowing but continuing employment and wage disparities. The FOMC raised the federal funds rate to 5–5¼ percent, emphasized its 2 percent inflation commitment, data dependence, and policy lags, and continued balance-sheet reduction, while discount-window lending, the BTFP, and ON RRP operations provided liquidity and partly offset runoff. Financial stability remained broadly resilient after three bank failures exposed uninsured-deposit, duration, and risk-management vulnerabilities, though real-estate valuations, nonbank leverage, and funding risks remained. International activity briefly improved, foreign inflation eased mainly through lower energy prices, major central banks continued tightening cautiously, and the dollar weakened modestly; policy rules supported elevated rates under the prevailing inflation and labor-market conditions."
+        }
+      ],
+      "summary": "The section reviews Federal Reserve policy and U.S., international, and financial conditions in June 2023 and March 2024. Inflation had fallen substantially but remained above 2 percent, while economic growth was strong earlier and then moderated, labor markets stayed tight but cooled, and wage, service-price, and food pressures persisted. It covers weaker consumption, investment, manufacturing, housing, bank lending, commercial real estate, and small firms amid tighter financial conditions; banking resilience alongside vulnerabilities involving deposits, duration risk, risk management, real estate, nonbanks, and funding; and uneven foreign growth, disinflation, central-bank tightening, and dollar movements. The FOMC raised rates to 5–5¼ percent, later held them at 5.25–5.50 percent, continued balance-sheet runoff, used liquidity facilities and money-market operations, and maintained its commitment to 2 percent inflation while emphasizing data dependence and policy lags. Special topics address labor disparities, the inflation objective, housing, balance-sheet and money-market conditions, and policy-rate rules."
+    },
+    {
+      "title": "3 Financial Stability",
+      "node_id": "0011",
+      "start_index": 21,
+      "end_index": 30,
+      "nodes": [
+        {
+          "title": "Monitoring Financial Vulnerabilities",
+          "node_id": "0012",
+          "start_index": 22,
+          "end_index": 28,
+          "nodes": [
+            {
+              "title": "Asset Valuation Pressures",
+              "node_id": "0013",
+              "start_index": 23,
+              "end_index": 24,
+              "summary": "The text explains the Federal Reserve’s framework for monitoring financial stability, distinguishing unpredictable shocks from accumulating vulnerabilities and describing quarterly assessments that inform policy and coordination with other regulators. It discusses the Financial Stability Report and then focuses on asset valuation pressures and borrowing risks. In 2023, equity, residential and commercial real estate, and farmland valuations remained elevated in various ways, while corporate spreads were relatively moderate. It explains how leverage, opaque risks, limited transactions, and high indebtedness can magnify losses and financial shocks, and provides supporting figures, data definitions, and report citations."
+            },
+            {
+              "title": "Borrowing by Households and Businesses",
+              "node_id": "0014",
+              "start_index": 24,
+              "end_index": 26,
+              "summary": "The text assesses financial stability in 2023, finding elevated equity, residential real estate, commercial real estate, and farmland valuations, while corporate spreads were comparatively moderate. It explains how excessive household and business debt can amplify shocks, but notes that aggregate private credit relative to GDP fell to a two-decade low. Businesses generally maintained strong debt-servicing capacity despite high leverage and interest rates, although credit quality weakened slightly and opaque private credit grew rapidly. Household debt and GDP declined, balance sheets remained resilient, and modest increases in consumer delinquencies reflected the end of pandemic support more than looser lending. Banks remained well capitalized overall, but the SVB-related runs highlighted risks from unrealized asset losses and fragile funding; fair-value losses, commercial real estate exposure, and weaker diversification leave some smaller banks vulnerable."
+            },
+            {
+              "title": "Leverage in the Financial System",
+              "node_id": "0015",
+              "start_index": 26,
+              "end_index": 27,
+              "summary": "The text reviews financial stability in 2023, covering rapid but opaque private-credit growth; declining household leverage, debt composition, and modestly rising consumer delinquencies; the resilience and vulnerabilities of banks, insurers, and hedge funds; and banking liquidity and interest-rate risks. It describes how the SVB-related crisis was contained by emergency measures, notes remaining exposures to fair-value losses and commercial real estate, and reports that banks maintained strong capital and historically ample liquidity despite some deterioration. It also discusses the continued expansion of money market and other cash-management funds and related SEC reforms. Two figures document bank capital ratios and liquid-asset levels from 2001–23, including group definitions, measurement notes, recession periods, and Federal Reserve data sources."
+            },
+            {
+              "title": "Funding Risk",
+              "node_id": "0016",
+              "start_index": 27,
+              "end_index": 28,
+              "summary": "The text reviews financial stability risks outside and within the banking sector. Life insurers increased exposure to risky assets, hedge-fund leverage remained elevated amid growth in the Treasury basis trade, and banks retained ample though somewhat reduced liquidity while maintaining historically high liquid-asset levels and elevated interest-rate exposure; the BTFP ended in March 2024. It describes liquid-asset trends by bank category, expanding money market and other cash-management funds, SEC money market reforms, orderly mutual-fund bond redemptions, and the systemic risks posed by stablecoins. It then outlines Federal Reserve cooperation with domestic and international institutions and explains the FSOC’s structure, responsibilities, 2023 priorities, and monitoring efforts concerning hedge funds and nonbank mortgage servicers."
+            }
+          ],
+          "summary": "The section explains how the Federal Reserve monitors financial stability through quarterly assessments of four key vulnerabilities—asset valuations, household and business borrowing, financial-sector leverage, and funding risk—and how this work informs policy, research, regulatory coordination, and the Financial Stability Report. It describes the interdependence of financial institutions and the nonfinancial sector and the importance of a system’s ability to continue providing credit and payment services after shocks. For 2023, it evaluates elevated equity, real estate, and farmland valuations; moderate corporate spreads; household and business debt and credit quality; resilient but exposed household, business, and bank balance sheets; and risks from leverage, opaque private credit, commercial real estate, interest rates, unrealized losses, and limited diversification. It also reviews the SVB-related banking turmoil and emergency response, the resilience and vulnerabilities of banks, insurers, and hedge funds, liquidity and funding conditions, money market and cash-management funds, SEC reforms, mutual-fund redemptions, stablecoins, and nonbank financial risks. The section concludes with Federal Reserve and FSOC cooperation and oversight activities and provides supporting figures, definitions, historical data, measurement notes, sources, and citations."
+        },
+        {
+          "title": "Domestic and International Cooperation and Coordination",
+          "node_id": "0017",
+          "start_index": 28,
+          "end_index": 30,
+          "nodes": [
+            {
+              "title": "Financial Stability Oversight Council Activities",
+              "node_id": "0018",
+              "start_index": 28,
+              "end_index": 30,
+              "summary": "The text describes 2023 developments in financial stability and cooperation. Mutual funds reduced corporate-bond holdings amid orderly redemptions, while sizable and lightly regulated stablecoin markets remained a potential source of short-term funding stress and crypto-related spillovers. It explains the Federal Reserve’s domestic and international coordination, focusing on the FSOC’s mandate, membership, systemic-risk responsibilities, four 2023 priorities, monitoring of nonbanks, Treasury-market resilience, climate risks, digital assets, new risk-assessment and nonbank-designation frameworks, and its annual report’s findings and featured topics. It also describes the Federal Reserve’s participation in the FSB and the FSB’s 2023 work on open-end fund liquidity mismatches, crypto-asset intermediaries, and nonbank financial resilience."
+            },
+            {
+              "title": "Financial Stability Board Activities",
+              "node_id": "0019",
+              "start_index": 30,
+              "end_index": 30,
+              "summary": "24 110th Annual Report | 2023\ntive reference rates, speed of financial transactions and information transmission, and quantum computing.\nFinancial Stability Board Activities\nIn light of the interconnected global financial system and the global activities of large U.S. finan- cial institutions, the Federal Reserve participates in international bodies, such as the FSB. The FSB monitors the global financial system and promotes international financial stability by coordi- nating with national financial authorities and international standard-setting bodies on information exchanges and work focused on developing strong global financial-sector policies.\nIn 2023, the FSB engaged in many issues related to global financial stability. Specific work included addressing structural vulnerabilities from liquidity mismatch in open-end funds, assessing the financial stability implications of multifunction crypto-asset intermediaries, and enhancing the resilience of nonbank financial intermediation."
+            }
+          ],
+          "summary": "The section explains the Federal Reserve’s domestic and international cooperation on financial stability through the FSOC and FSB. It covers 2023 risks and developments involving mutual funds, stablecoins, nonbanks, Treasury markets, climate, and digital assets; the FSOC’s mandate, priorities, frameworks, and annual report; and the FSB’s global coordination and work on open-end fund liquidity, crypto-asset intermediaries, and nonbank financial resilience."
+        }
+      ],
+      "summary": "This section describes how the Federal Reserve monitors and addresses risks to financial stability through vulnerability assessments, stress-test and policy decisions, supervision, research, and cooperation with domestic and international authorities. It evaluates 2023 risks involving valuations, borrowing, leverage, funding, credit and balance sheets, commercial real estate, interest rates, unrealized losses, and financial-sector interconnectedness; discusses the SVB-related banking turmoil and emergency response; and reviews banks, insurers, hedge funds, funds, stablecoins, and other nonbanks, including liquidity and regulatory issues. It also covers FSOC and FSB coordination on systemic risks involving mutual funds, Treasury markets, climate, digital assets, crypto intermediaries, open-end-fund liquidity, and nonbank resilience, with supporting data and technical documentation."
+    },
+    {
+      "title": "4 Supervision and Regulation",
+      "node_id": "0020",
+      "start_index": 31,
+      "end_index": 58,
+      "nodes": [
+        {
+          "title": "Box 4.1. Banking Sector Conditions",
+          "node_id": "0021",
+          "start_index": 31,
+          "end_index": 31,
+          "summary": "This section describes the Federal Reserve’s supervision and regulation role in promoting a safe, sound, and efficient financial system that supports the U.S. economy. It supervises financial institutions, develops regulatory policies and handles banking-organization applications, and monitors banking trends through data collection and analysis. Banking-sector conditions are reported semiannually to Congress in the Supervision and Regulation Report. The section also identifies the principal types and numbers of entities supervised by the Federal Reserve, led by bank holding companies, and explains the purpose of Edge Act and agreement corporations."
+        },
+        {
+          "title": "Supervised and Regulated Institutions",
+          "node_id": "0022",
+          "start_index": 32,
+          "end_index": 35,
+          "nodes": [
+            {
+              "title": "State Member Banks",
+              "node_id": "0023",
+              "start_index": 32,
+              "end_index": 32,
+              "summary": "The text describes the Federal Reserve’s portfolio-based supervision framework and reports 2023 statistics on Federal Reserve member banks, emphasizing the number and share of state member banks, their branches, and their proportion of U.S. commercial banks and assets. Table 4.1 classifies institutions into LISCC, LFBO, RBO, CBO, and insurance/commercial SLHC portfolios, gives their definitions, institution counts, asset totals, SMB subsets, subgroup breakdowns, and footnote details on holding-company coverage."
+            },
+            {
+              "title": "Bank Holding Companies",
+              "node_id": "0024",
+              "start_index": 33,
+              "end_index": 33,
+              "summary": "The text reports 2023 statistics on U.S. bank holding companies, financial holding companies, and savings and loan holding companies, including their numbers, ownership, asset sizes, activities, and regulatory oversight. It also describes Federal Reserve supervision of insurance-focused SLHCs and implementation of a new risk-based insurance supervisory framework, and introduces financial market utilities as operators of multilateral systems for transferring, clearing, and settling financial transactions."
+            },
+            {
+              "title": "Savings and Loan Holding Companies",
+              "node_id": "0025",
+              "start_index": 33,
+              "end_index": 33,
+              "summary": "The text reports 2023 statistics on U.S. bank holding companies, financial holding companies, and savings and loan holding companies, including their numbers, ownership, asset levels, classifications, activities, and regulators. It also describes Federal Reserve supervision of insurance-focused SLHCs and implementation of a new risk-based insurance supervisory framework, and introduces financial market utilities as systems that facilitate the transfer, clearing, and settlement of financial transactions."
+            },
+            {
+              "title": "Financial Market Utilities",
+              "node_id": "0026",
+              "start_index": 33,
+              "end_index": 34,
+              "summary": "The text reports 2023 supervision and regulation statistics for U.S. BHCs, FHCs, SLHCs, insurance-focused holding companies, FMUs, and international banking operations. It describes their numbers, assets, ownership and regulatory classifications; explains the Federal Reserve’s insurance supervisory framework and implementation; outlines FMU supervision, systemic designations, Regulation HH requirements, and interagency coordination; and details foreign branches of U.S. banks, Edge Act and agreement corporations, and U.S. operations and market share of foreign banks."
+            },
+            {
+              "title": "International Activities",
+              "node_id": "0027",
+              "start_index": 34,
+              "end_index": 35,
+              "summary": "The text describes Federal Reserve oversight of designated and other financial market utilities, including Dodd-Frank responsibilities and Regulation HH requirements, followed by 2023 international banking activities and examination statistics. It outlines risk-based supervisory methods and priorities, discusses the Federal Reserve’s response to the failures of Silicon Valley Bank and Signature Bank and the resulting push for faster, more agile, forward-looking supervision, and reports examination and inspection totals for domestic banking organizations."
+            }
+          ],
+          "summary": "The section surveys the institutions supervised and regulated by the Federal Reserve, covering state member banks, bank and savings and loan holding companies, insurance-focused organizations, financial market utilities, and international banking operations. It presents 2023 data on their numbers, assets, ownership, activities, classifications, branches, market shares, and regulatory coverage; explains portfolio-based bank supervision and the risk-based framework for insurance organizations; describes FMU systemic designations, Regulation HH requirements, Dodd-Frank responsibilities, and interagency coordination; and reviews international operations, examination and inspection activity, supervisory priorities, and reforms prompted by the failures of Silicon Valley Bank and Signature Bank."
+        },
+        {
+          "title": "Supervisory Developments",
+          "node_id": "0028",
+          "start_index": 35,
+          "end_index": 54,
+          "nodes": [
+            {
+              "title": "Supervisory and Regulatory Initiatives",
+              "node_id": "0029",
+              "start_index": 35,
+              "end_index": 51,
+              "nodes": [
+                {
+                  "title": "Specialized Examinations",
+                  "node_id": "0030",
+                  "start_index": 37,
+                  "end_index": 38,
+                  "summary": "The text describes the Federal Reserve’s specialized supervisory examinations and its capital-planning and stress-testing framework, including 2023 results, capital-buffer requirements, the exploratory market shock, related publications, and the scope of the global market shock. It reports 2023 examination totals for fiduciary activities, transfer agents, government securities, and municipal securities; explains oversight of securities-credit lenders under Regulation U; and emphasizes operational resilience, information technology, cybersecurity, and third-party risk management, for which the Federal Reserve provides supervisory guidance and resources."
+                },
+                {
+                  "title": "Operational Resilience, Information Technology, and Cybersecurity",
+                  "node_id": "0031",
+                  "start_index": 38,
+                  "end_index": 40,
+                  "summary": "The text reviews the Federal Reserve’s 2023 supervisory work involving fiduciary activities, transfer agents, government and municipal securities, and securities-credit lenders, including examination counts, regulatory responsibilities, and Regulation U oversight. It then describes operational-resilience, IT, cybersecurity, and third-party-risk supervision; interagency guidance and educational sessions; examinations of financial institutions and technology providers; domestic, private-sector, and international collaboration on cyber resilience, cloud adoption, and incident reporting; and resulting Financial Stability Board publications. Finally, it details the new Novel Activities Supervision Program for crypto-assets, distributed-ledger technology, and technology-driven nonbank partnerships, along with a joint regulatory statement identifying major risks associated with crypto-assets and crypto-sector participants."
+                },
+                {
+                  "title": "Crypto-Asset Supervision",
+                  "node_id": "0032",
+                  "start_index": 40,
+                  "end_index": 41,
+                  "summary": "The text reviews the Federal Reserve's 2023 supervisory initiatives concerning operational, crypto-asset, novel-technology, and climate-related risks. It describes related international risk-management and cyber-reporting publications; the launch and objectives of the Novel Activities Supervision Program; interagency warnings about crypto risks, liquidity volatility, and the process for state member banks to obtain supervisory nonobjection for certain dollar-token activities; the pilot climate scenario analysis exercise; and final climate-risk management principles for large institutions. It concludes by introducing the Federal Reserve's enforcement authority over supervised institutions and affiliated parties for unsafe practices and violations of law or regulation."
+                },
+                {
+                  "title": "Climate-Related Financial Risks",
+                  "node_id": "0033",
+                  "start_index": 41,
+                  "end_index": 41,
+                  "summary": "The text describes Federal Reserve supervisory developments involving crypto-asset activities, including liquidity-risk concerns and the process for state member banks to obtain supervisory nonobjection before engaging in certain dollar-token activities. It then discusses the Board’s exploratory 2023 climate scenario analysis exercise and finalized climate-related financial-risk management principles for institutions with at least $100 billion in assets, covering governance, planning, risk management, reporting, scenario analysis, and integration with traditional risk areas. Finally, it introduces the Federal Reserve’s enforcement authority over supervised institutions and affiliated parties for unsafe practices and legal or regulatory violations, including cease-and-desist orders."
+                },
+                {
+                  "title": "Enforcement Actions",
+                  "node_id": "0034",
+                  "start_index": 41,
+                  "end_index": 42,
+                  "summary": "The text covers Federal Reserve supervision and regulation of crypto-asset activities, including liquidity concerns and the supervisory nonobjection process for dollar-token activities; climate-related financial-risk scenario analysis and management principles for large institutions; enforcement authority, 2023 enforcement statistics, penalties, action types, and public disclosure; financial-reporting obligations of certain state member banks; and the Board’s two-level internal appeals process for material supervisory determinations, with the excerpt detailing the initial review."
+                },
+                {
+                  "title": "Internal Appeals of Material Super visory Determinations",
+                  "node_id": "0035",
+                  "start_index": 42,
+                  "end_index": 43,
+                  "summary": "The text reports the Federal Reserve’s 2023 enforcement, disclosure, supervisory appeals, assessment, and training activities. It details formal and informal enforcement actions, civil penalties and their disposition, public availability of enforcement orders, state member bank disclosure requirements, the two-stage appeals process and its 2023 cases, supervision and regulation assessments transferred to the Treasury, and international and minority-depository-institution training and technical assistance. It also notes 20 international training seminars, about 900 foreign participants, collaboration with the IMF and World Bank, and additional training partners, with the source ending before that list is completed."
+                },
+                {
+                  "title": "Assessments for Supervision and Regulation",
+                  "node_id": "0036",
+                  "start_index": 43,
+                  "end_index": 43,
+                  "summary": "The text describes the Federal Reserve’s MSD appeals process and reports one appeal and one filing extension in 2023. It explains supervision and regulation assessments for large banking organizations and FSOC-designated nonbank financial companies, including the transfer of $771.1 million collected from 53 institutions to the U.S. Treasury. It also covers the Federal Reserve’s training, technical assistance, and industry outreach, especially its 2023 international supervisory programs, which included 20 seminars for approximately 900 foreign supervisors and collaboration with the IMF, World Bank, and other partners."
+                },
+                {
+                  "title": "Training and Technical Assistance",
+                  "node_id": "0037",
+                  "start_index": 43,
+                  "end_index": 45,
+                  "nodes": [
+                    {
+                      "title": "International Training and Technical Assistance",
+                      "node_id": "0038",
+                      "start_index": 43,
+                      "end_index": 44,
+                      "summary": "The text describes the Federal Reserve’s MSD appeals process and 2023 appeal activity; supervision and regulation assessments, including eligibility, Treasury treatment, and 2023 collections; international supervisory training and technical assistance; and support for minority-owned depository institutions through the Partnership for Progress. It covers the program’s statutory basis, resources, staffing and MDI portfolio, 2023 training partnerships, outreach events, conferences, and related policy and statutory references."
+                    },
+                    {
+                      "title": "Efforts to Support Minority-Owned Depository Institutions",
+                      "node_id": "0039",
+                      "start_index": 44,
+                      "end_index": 45,
+                      "summary": "The text describes the Federal Reserve’s domestic and international supervisory work in 2023. Domestically, it explains the Partnership for Progress program and related legal requirements for supporting minority depository institutions, including technical assistance, resources, outreach events, webinars, conferences, the 16-bank MDI portfolio, and programs such as ECIP. Internationally, it outlines the Federal Reserve’s participation in the Financial Stability Board and other standard-setting organizations, highlighting 2023 priorities involving cross-border payments, crypto-assets, open-ended funds, and third-party risk, as well as selected FSB publications on these issues."
+                    }
+                  ],
+                  "summary": "The section covers the Federal Reserve’s MSD appeals process and 2023 activity; supervision and regulation assessments and collections; international supervisory training and technical assistance; and domestic and international efforts to support minority-owned depository institutions through the Partnership for Progress and related programs such as ECIP. It also describes the applicable statutory and legal requirements, program resources, staffing and MDI portfolio, 2023 partnerships and outreach activities, and the Federal Reserve’s participation in international standard-setting, including 2023 priorities and FSB publications on cross-border payments, crypto-assets, open-ended funds, and third-party risk."
+                },
+                {
+                  "title": "International Engagement",
+                  "node_id": "0040",
+                  "start_index": 45,
+                  "end_index": 49,
+                  "nodes": [
+                    {
+                      "title": "Financial Stability Board",
+                      "node_id": "0041",
+                      "start_index": 45,
+                      "end_index": 46,
+                      "summary": "The text describes Federal Reserve supervisory and regulatory outreach through PFP, including participation in the National Bankers Association conference, a Bank Term Funding Program webinar, and ECIP technical assistance for MDIs and CDFIs. It then reviews the Federal Reserve’s 2023 international engagement through the FSB and BCBS, highlighting efforts to promote global financial stability, supervisory cooperation, Basel III implementation, responses to banking turmoil, financial digitalization, and emerging risks. It lists major 2023 FSB publications on decentralized finance, commodities markets, crypto-assets, non-bank leverage, cross-border payments, third-party risk, and open-ended funds, and BCBS publications on risk data, climate-related risks, technical amendments, and the 2023 banking turmoil, while noting the BCBS’s membership and role."
+                    },
+                    {
+                      "title": "Basel Committee on Banking Supervision",
+                      "node_id": "0042",
+                      "start_index": 46,
+                      "end_index": 47,
+                      "summary": "The text describes the Federal Reserve’s 2023 international supervisory and financial-infrastructure work. It lists key FSB publications on non-bank leverage, cross-border payments, third-party risk, and open-ended-fund liquidity mismatch, then outlines BCBS priorities and final and consultative publications concerning Basel III, banking turmoil, risk management, climate and cryptoasset disclosures, and supervisory principles. It also explains the BCBS’s membership and purpose, and summarizes the Federal Reserve’s CPMI participation, including practical efforts to improve cross-border payments, coordination with IOSCO on central-counterparty losses, margining, and infrastructure principles, and a joint publication on multilateral cross-border payment platforms."
+                    },
+                    {
+                      "title": "Committee on Payments and Market Infrastructures",
+                      "node_id": "0043",
+                      "start_index": 47,
+                      "end_index": 48,
+                      "summary": "The text reviews the Federal Reserve’s 2023 international supervisory and regulatory engagement. It lists selected BCBS publications and consultations, describes CPMI’s work with the FSB and IOSCO to improve cross-border payments and financial-market infrastructure, identifies major CPMI publications and a consultative paper, and explains the Federal Reserve’s IAIS participation, including 2023 progress on insurance capital standards, supervisory principles, climate-risk guidance, and policyholder protection schemes. Links to the relevant publication catalogs and documents are provided."
+                    },
+                    {
+                      "title": "International Association of Insurance Supervisors",
+                      "node_id": "0044",
+                      "start_index": 48,
+                      "end_index": 49,
+                      "summary": "The text lists major 2023 CPMI publications and a consultative document on payment systems, along with links to complete publication catalogs. It describes the Federal Reserve’s participation in IAIS insurance-standard development, 2023 IAIS initiatives and publications, and the advisory work of IPAC on capital standards, insurer liquidity, and climate risk. It also explains the interagency Shared National Credit program, its governing agencies, review schedule, and sources for further information."
+                    }
+                  ],
+                  "summary": "The section describes the Federal Reserve's domestic outreach and 2023 international engagement through the FSB, BCBS, CPMI, and IAIS. It covers initiatives to strengthen global financial stability, supervisory cooperation, Basel III implementation, responses to banking turmoil, digitalization, climate and emerging risks, and insurance oversight. It catalogs key publications and consultations on crypto-assets, decentralized finance, non-bank leverage, cross-border payments, third-party risk, open-ended funds, banking and insurance capital, risk management, and financial-market infrastructure. It also details CPMI and IOSCO efforts on payment systems, central counterparties, margining, and cross-border payment platforms; IAIS and IPAC work on insurance standards, liquidity, climate risk, and policyholder protection; and the Shared National Credit program, while providing publication and informational resources."
+                },
+                {
+                  "title": "Shared National Credit Program",
+                  "node_id": "0045",
+                  "start_index": 49,
+                  "end_index": 49,
+                  "summary": "The text lists key 2023 IAIS consultations and guidance on insurance capital, valuation, capital adequacy, aggregation-method comparability, and climate risk, with links to the documents and the IAIS publications page. It describes the Federal Reserve’s IPAC role, legal basis, 2023 activities on international insurance standards, life-insurer liquidity, and climate issues. It also introduces the interagency Shared National Credit program, identifying its purpose, participating agencies, review schedule, and related information link."
+                },
+                {
+                  "title": "Bank Secrecy Act and Anti-Money-Laundering Compliance",
+                  "node_id": "0046",
+                  "start_index": 50,
+                  "end_index": 50,
+                  "summary": "In 2023, the Federal Reserve continued supervising BSA/AML compliance, helping revise the FFIEC examination manual, implementing the AML Act of 2020, and participating in the Treasury-led BSA Advisory Group. It also coordinated internationally on sanctions, money laundering, and counter-terrorism financing; monitored sanctions related to Russia’s invasion of Ukraine; contributed to FATF standards; and supported FSB work resulting in the 2023 G20 cross-border-payments progress report."
+                },
+                {
+                  "title": "International Coordination on Sanctions, Anti-Money-Laundering, and Counter-Terrorism Financing",
+                  "node_id": "0047",
+                  "start_index": 50,
+                  "end_index": 51,
+                  "summary": "The text describes the Federal Reserve’s 2023 BSA/AML compliance supervision, interagency manual updates, implementation of the AML Act of 2020, and participation in the Treasury-led BSA Advisory Group. It covers international coordination on sanctions, AML, and counter-terrorism financing through the FATF, FSB, BIS/BCBS, and country-level dialogues and training, including monitoring sanctions linked to Russia’s invasion of Ukraine and supporting the G20 cross-border payments roadmap. It also explains the purpose and scope of Federal Reserve regulatory reporting and details 2023 revisions to the FR Y-7Q report, including new asset reporting requirements, shortened filing deadlines, clarifications, effective dates, and the types of holding companies covered."
+                }
+              ],
+              "summary": "The section reviews the Federal Reserve’s supervisory and regulatory framework, 2023 examination and inspection activity, and five-year institution and asset statistics; explains supervision of financial condition, governance, controls, compliance, consumer protection, operational and cyber resilience, technology, third-party relationships, and specialized securities and fiduciary activities; and details the response to the failures of Silicon Valley Bank and Signature Bank. It covers capital planning, stress testing, crypto-asset and novel-technology supervision, climate-risk scenario analysis and management principles, enforcement actions, supervisory appeals, assessments, reporting obligations, and regulatory reporting revisions. It also describes training, technical assistance, minority-depository-institution outreach, international supervisory cooperation and standard-setting across banking, payments, insurance, climate, crypto, financial-market infrastructure, and emerging risks; the Shared National Credit program; and BSA/AML, sanctions, and counter-terrorism-financing oversight, including related domestic, international, FATF, FSB, and G20 initiatives."
+            },
+            {
+              "title": "Regulatory Reports",
+              "node_id": "0048",
+              "start_index": 51,
+              "end_index": 53,
+              "nodes": [
+                {
+                  "title": "Federal Reserve Regulatory Reports",
+                  "node_id": "0049",
+                  "start_index": 51,
+                  "end_index": 53,
+                  "summary": "The text describes the Federal Reserve’s international AML/CFT cooperation and training, its regulatory-reporting requirements and the purposes of those reports, detailed 2023 revisions to Federal Reserve and FFIEC reporting forms with their effective dates, and the statutory reviews underlying several changes. It concludes with the Federal Reserve’s supervisory staff-development program for nearly 4,200 professionals and state-agency personnel, while citing related legal authorities and reporting-form resources."
+                },
+                {
+                  "title": "FFIEC Regulatory Reports",
+                  "node_id": "0050",
+                  "start_index": 53,
+                  "end_index": 53,
+                  "summary": "The text describes regulatory-reporting revisions finalized in late 2023, the FFIEC’s role in requiring uniform reports for financial supervision and financial-system assessment, 2023 changes to the Call Reports and FFIEC 002—including data-item consolidation and improved monitoring of hedging and country exposures—and the Federal Reserve’s staff development program for supervisory personnel and state banking agencies. It also provides the FFIEC reporting-forms website and supporting legal and Federal Register citations."
+                }
+              ],
+              "summary": "The section covers Federal Reserve and FFIEC regulatory reporting requirements, their supervisory and financial-system purposes, international AML/CFT cooperation and training, and detailed late-2023 revisions to reporting forms—including effective dates, statutory bases, consolidated data items, and improved monitoring of hedging and country exposures. It also describes the FFIEC's uniform-reporting role, the Federal Reserve's supervisory staff-development program for nearly 4,200 professionals and state-agency personnel, and provides related reporting-form resources and legal and Federal Register citations."
+            },
+            {
+              "title": "Staff Development Programs",
+              "node_id": "0051",
+              "start_index": 53,
+              "end_index": 54,
+              "summary": "The text describes 2023 revisions to Federal Reserve and FFIEC regulatory reporting, including Call Report and FFIEC 002 changes effective September 30, 2023, and other revisions effective June 30, 2024. It explains the purpose and statutory basis of uniform FFIEC reports, summarizes supervisory staff training and its delivery formats, outlines the three-track examiner commissioning program and its 74 successful candidates, and describes continuing professional development resources for Federal Reserve and state examiners."
+            }
+          ],
+          "summary": "The section surveys Federal Reserve and FFIEC supervision, regulation, examinations, and reporting, covering institutional and asset trends; oversight of financial condition, governance, compliance, consumer protection, resilience, technology, third parties, securities, fiduciary activities, crypto-assets, climate risks, and emerging threats; and responses to the Silicon Valley Bank and Signature Bank failures. It also addresses capital and stress testing, enforcement and appeals, assessments, BSA/AML and sanctions, domestic and international cooperation and standard-setting, the Shared National Credit program, minority-institution outreach, and supervisory assistance. In addition, it explains regulatory-reporting purposes, requirements, legal bases, resources, and 2023–2024 form revisions, including Call Report and FFIEC 002 changes and enhanced hedging and country-exposure data. Finally, it describes Federal Reserve and state-examiner training, commissioning, staff development, and continuing professional education."
+        },
+        {
+          "title": "Regulatory Developments",
+          "node_id": "0052",
+          "start_index": 55,
+          "end_index": 58,
+          "nodes": [
+            {
+              "title": "Rulemakings and Guidance",
+              "node_id": "0053",
+              "start_index": 55,
+              "end_index": 57,
+              "summary": "The text describes the Federal Reserve’s regulatory responsibilities and summarizes its 2023 rulemakings, statements, guidance, and supervisory initiatives. These covered crypto-asset and liquidity risks, stress testing, the Silicon Valley Bank supervision review, LIBOR transition, supervisory technology, valuation practices, third-party risk, commercial real estate, capital and liquidity requirements, resolution planning, novel banking activities and dollar tokens, CRA rules, climate-related risks, interchange fees, consumer-protection thresholds, payment services, reserve requirements, investment-fund and beneficial-ownership reporting, and other interagency policies. It also reports that the Federal Reserve acted on 752 banking applications in 2023 and explains the availability of semiannual application reports, public decision and filing notices, and application guidance on its website."
+            },
+            {
+              "title": "Banking Applications",
+              "node_id": "0054",
+              "start_index": 57,
+              "end_index": 57,
+              "summary": "The text continues a 2023 supervision and regulation table, summarizing regulatory announcements and guidance issued between November 13 and December 21, including lending and leasing thresholds, Federal Reserve payment-service pricing, a comment-period extension for large-bank long-term-debt requirements, reserve requirement indexing, Regulation O and FDIC reporting guidance, CRA asset-size thresholds, and beneficial-ownership information guidance. It also explains the Federal Reserve’s banking-application review responsibilities, notes that 752 applications were acted on in 2023, identifies its semiannual applications activity report, and directs readers to online resources for Federal Reserve decisions, filings, and application guidance."
+            },
+            {
+              "title": "Public Notice of Federal Reserve Decisions and Filings Received",
+              "node_id": "0055",
+              "start_index": 57,
+              "end_index": 58,
+              "summary": "The text lists Federal Reserve and interagency regulatory actions issued from November 13 through December 21, 2023, covering appraisal exemptions, truth-in-lending and leasing thresholds, payment-service pricing, long-term-debt requirements, reserve requirements, Regulation O and FDIC reporting, Community Reinvestment Act thresholds, and beneficial-ownership information access. It also explains the Federal Reserve's review of banking applications, noting 752 actions in 2023, identifies its semiannual application-activity reports, and directs readers to online resources for regulatory decisions, announcements, and application guidance."
+            }
+          ],
+          "summary": "The section reviews the Federal Reserve’s 2023 regulatory and supervisory work, covering a broad range of financial, banking, consumer-protection, risk-management, capital, liquidity, payments, reporting, and interagency policy matters. It highlights announcements and guidance issued from November 13 through December 21, including threshold adjustments, payment-service pricing, long-term-debt and reserve requirements, Regulation O and FDIC reporting, CRA rules, appraisal exemptions, and beneficial-ownership information. It also explains the Federal Reserve’s banking-application review function, notes 752 applications acted on in 2023, and identifies its semiannual reports and online sources for decisions, filings, notices, and application guidance."
+        }
+      ],
+      "summary": "This section describes the Federal Reserve’s supervision and regulation of the U.S. financial system, including the institutions and financial market utilities it oversees, their 2023 conditions and activities, supervisory frameworks, international operations, systemic-risk responsibilities, and interagency coordination. It covers examinations and supervisory priorities involving financial condition, governance, compliance, consumer protection, resilience, technology, third parties, securities, fiduciary activities, crypto-assets, climate risks, capital, stress testing, enforcement, BSA/AML, sanctions, and responses to the Silicon Valley Bank and Signature Bank failures. It also addresses regulatory reporting requirements and revisions, examiner training and professional development, outreach and supervisory assistance, and the Federal Reserve’s 2023 regulatory actions on banking, consumer, risk, capital, liquidity, payments, and reporting matters. Finally, it explains bank-application reviews, including 752 applications acted on in 2023, and the reports and online resources available for regulatory decisions and filings."
+    },
+    {
+      "title": "5 Payment System and Reserve Bank Oversight",
+      "node_id": "0056",
+      "start_index": 59,
+      "end_index": 88,
+      "nodes": [
+        {
+          "title": "Payment Services to Depository and Other Institutions",
+          "node_id": "0057",
+          "start_index": 60,
+          "end_index": 65,
+          "nodes": [
+            {
+              "title": "Commercial Check-Collection Service",
+              "node_id": "0058",
+              "start_index": 60,
+              "end_index": 60,
+              "summary": "The 2023 Annual Report describes the Reserve Banks' priced payment services and their consolidation under Federal Reserve Financial Services, including the launch of FedNow® in July 2023. It details the commercial check-collection service, which offers electronic and paper processing and recovered 102.9 percent of costs in 2023, generating $4.4 million in net income despite declining check volumes and values. It also introduces the commercial ACH service for domestic and cross-border batch payments with same-day or next-day settlement, and defines the depository institutions that use these services."
+            },
+            {
+              "title": "Commercial Automated Clearinghouse Service",
+              "node_id": "0059",
+              "start_index": 60,
+              "end_index": 60,
+              "summary": "Reserve Banks offer a range of priced payment and settlement services, now managed through the integrated Federal Reserve Financial Services organization, which was reorganized in anticipation of changing financial services and the FedNow launch. The text describes the commercial check-collection service, including its processing options, 2023 cost recovery, revenue, expenses, income, transaction volume, value, and expected decline, and introduces the commercial ACH service for domestic and cross-border batched payments with same-day or next-day settlement. It also defines depository institutions and notes their economic and payment-system roles."
+            },
+            {
+              "title": "Box 5.1. Priced Services and Cost Recovery",
+              "node_id": "0060",
+              "start_index": 61,
+              "end_index": 65,
+              "nodes": [
+                {
+                  "title": "FedNow Service",
+                  "node_id": "0061",
+                  "start_index": 62,
+                  "end_index": 63,
+                  "summary": "The text presents 2021–23 activity and cost-recovery data for Federal Reserve priced services, including checks, ACH, Fedwire funds, national settlement, and securities transfers, with definitions of the activity measures and a note that Treasury securities entered the priced securities-service totals in 2023. It reports 2023 commercial ACH performance and finances, introduces the July 2023 launch, purpose, adoption, investment, and expected growth of the FedNow instant-payments service, and describes the finances and operations of Fedwire Funds and the National Settlement Service. It also explains the functions and 2023 activity of Fedwire Funds, National Settlement, and the Fedwire Securities Service."
+                },
+                {
+                  "title": "Fedwire Funds and National Settlement Services",
+                  "node_id": "0062",
+                  "start_index": 63,
+                  "end_index": 63,
+                  "summary": "The text reviews Federal Reserve payment-system investments, oversight, costs, revenues, and activity. It reports the $545 million FedNow implementation investment and its technology and outreach components, 2023 cost recovery and financial results for Fedwire Funds and National Settlement Services, and operational statistics for the Fedwire Funds Service and National Settlement Service, including transaction volumes, values, files, and year-over-year changes. It also introduces the Fedwire Securities Service as a real-time securities depository and settlement system for eligible government and related securities, although its description is incomplete in the excerpt."
+                },
+                {
+                  "title": "Fedwire Securities Service",
+                  "node_id": "0063",
+                  "start_index": 63,
+                  "end_index": 64,
+                  "summary": "The text reports the Federal Reserve’s $545 million FedNow implementation investment and plans for future volume reporting, then reviews the 2023 performance of Fedwire Funds, NSS, and Fedwire Securities. It explains each service’s purpose, activity and value changes, cost recovery, revenues, expenses, and net income, along with Fedwire Securities’ expanded 2023 priced-service scope, securities holdings, outstanding issues, and principal and interest payments. It also describes FedLine Solutions as the six connectivity options institutions use to access Reserve Bank services, including their fee structure, cost allocation, and security, connectivity, and contingency roles."
+                },
+                {
+                  "title": "FedLine Solutions: Access to Reserve Bank Services",
+                  "node_id": "0064",
+                  "start_index": 64,
+                  "end_index": 65,
+                  "summary": "The text reports 2023 activity and financial results for the Fedwire Securities Service, including its expanded priced scope to Treasury securities, major increases in transfers, payment flows, securities held, and securities outstanding. It describes FedLine Solutions as six access options for Reserve Bank services and notes the shift from legacy to modern products. It then explains Federal Reserve intraday credit and daylight overdrafts, their role in payment efficiency and risk reduction, and their historically low use and fees due to ample reserves, high overnight balances, and free collateralized credit, with a figure documenting trends from 2007–23."
+                },
+                {
+                  "title": "Federal Reserve Intraday Credit",
+                  "node_id": "0065",
+                  "start_index": 65,
+                  "end_index": 65,
+                  "summary": "The text discusses legacy payment-product changes and Federal Reserve oversight of intraday credit, or daylight overdrafts. It defines daylight overdrafts, explains their role in facilitating payments and reducing risk, and reports that their use and associated fees remained low during 2007–2023 because institutions held substantial overnight reserves. Fees are expected to stay low under the ample-reserves regime, especially following the 2011 elimination of charges for collateralized overdrafts. Federal Reserve policy provides no-cost collateralized intraday credit to healthy institutions and is expected to continue limiting demand for such credit."
+                }
+              ],
+              "summary": "This section explains the Federal Reserve’s statutory cost-recovery framework for priced payment and settlement services, including the PSAF, 2014–23 financial results, 2023 full cost recovery, accounting adjustments, and the special long-run recovery timeline for FedNow. It reviews the activity, functions, finances, investments, adoption, and operational performance of ACH, checks, FedNow, Fedwire Funds, National Settlement, and Fedwire Securities, including the latter’s expanded Treasury-securities scope in 2023. It also describes FedLine’s six service-access options and their fees, cost allocation, security, and contingency roles, and explains intraday credit and daylight overdrafts, their payment-system benefits, historically low use and fees under ample reserves, and the continuing policy of free collateralized credit for healthy institutions."
+            }
+          ],
+          "summary": "The section surveys the Reserve Banks’ priced payment and settlement services, their organization under Federal Reserve Financial Services, and the introduction of FedNow®. It details commercial check and ACH services, including processing, settlement, users, activity, revenues, expenses, and cost recovery. It also explains the statutory pricing and recovery framework, reviews the operations and finances of major payment services, describes FedLine access and security arrangements, and covers intraday credit and daylight overdrafts, including their system benefits, low use under ample reserves, and continued free collateralized availability for healthy institutions."
+        },
+        {
+          "title": "Currency and Coin",
+          "node_id": "0066",
+          "start_index": 66,
+          "end_index": 68,
+          "nodes": [
+            {
+              "title": "Banknote Development",
+              "node_id": "0067",
+              "start_index": 66,
+              "end_index": 66,
+              "summary": "The text describes the Federal Reserve’s role in issuing and distributing U.S. currency, its 2023 note and coin circulation statistics, and efforts to modernize the Currency Program and develop the next generation of banknotes. It reports declines in note distributions, receipts, and net payments, continued growth in currency outstanding driven mainly by $100-note demand, and increases in both coin distributions and receipts. It also explains interagency collaboration on counterfeit deterrence, currency design, banknote technology, and the respective issuing authorities for notes and coins."
+            },
+            {
+              "title": "Box 5.2. U.S. Currency Program Initiatives",
+              "node_id": "0068",
+              "start_index": 67,
+              "end_index": 68,
+              "summary": "The text describes Federal Reserve and BEP initiatives to secure, modernize, produce, and distribute U.S. currency. It covers replacement of aging processing equipment, possible regionalization of cash operations, major New York and Miami facility projects, construction of a new BEP production plant, and development of a secure and manufacturable next banknote family beginning with the $10 note in 2026. It also explains related counterfeit-resistance research, CEP education and outreach activities and 2023 performance metrics, and the Board’s cooperation with domestic and international central-bank and industry groups to protect currency integrity and maintain confidence in U.S. banknotes."
+            }
+          ],
+          "summary": "The section explains the authorities and responsibilities governing U.S. notes and coins, reviews 2023 currency and coin circulation trends, and describes Federal Reserve and BEP initiatives to modernize cash operations, facilities, production, and banknote technology. It covers development of a secure next banknote family beginning with the $10 note in 2026, counterfeit-deterrence research, Currency Education Program outreach and results, and broad interagency, central-bank, and industry cooperation to preserve currency security and public confidence."
+        },
+        {
+          "title": "Fiscal Agency and Government Depository Services",
+          "node_id": "0069",
+          "start_index": 69,
+          "end_index": 72,
+          "nodes": [
+            {
+              "title": "Payment Services",
+              "node_id": "0070",
+              "start_index": 69,
+              "end_index": 70,
+              "summary": "The text explains the Federal Reserve Banks’ fiscal agency and depository roles for the Treasury and other entities, including the systems and services they provide and the associated reimbursed expenses. It presents 2021–23 expense data, then details Treasury payment services, their 2023 costs and major programs, Stored Value Card and Pay.gov operations, payment volumes and values, and the Reserve Banks’ support for Treasury financing, securities issuance and servicing, savings bonds, and 2023 Treasury auctions."
+            },
+            {
+              "title": "Financing and Securities Services",
+              "node_id": "0071",
+              "start_index": 70,
+              "end_index": 71,
+              "summary": "The text describes Reserve Bank services performed for the Treasury, covering payment processing, military stored-value cards, Pay.gov, financing and securities operations, government accounting and reporting, and supporting technology infrastructure. It reports 2023 expenses, year-over-year changes and causes, major programs, and transaction volumes and values, including Treasury auctions and securities servicing. It also explains key accounting applications and identifies Treasury financial publications, with footnotes on increased securities demand, the Fedwire Securities Service change, and publication sources."
+            },
+            {
+              "title": "Accounting and Reporting Services",
+              "node_id": "0072",
+              "start_index": 71,
+              "end_index": 71,
+              "summary": "The text describes Reserve Bank oversight and support for Treasury securities, accounting, reporting, and technology infrastructure. It reports 2023 securities-service expenses of $194.4 million, down 6.4% following a Fedwire Securities Service accounting change, and notes support for $427.5 billion in savings bonds and marketable securities amid a 164% rise in product demand. It explains Treasury accounting and reporting activities, including cash management and publication of key financial statements, and reports $81.1 million in related expenses, up 10.3% due mainly to technical-debt remediation, cybersecurity, and cloud migration. The Cash Accounting Reporting System and G-Invoicing are highlighted, followed by a description of Reserve Bank technology infrastructure services and referenced Treasury-report resources."
+            },
+            {
+              "title": "Infrastructure and Technology Services",
+              "node_id": "0073",
+              "start_index": 71,
+              "end_index": 72,
+              "summary": "The text describes Reserve Bank services supporting Treasury securities, government accounting and reporting, technology infrastructure, and banking services for other entities, along with their 2023 expenses and year-over-year changes. It explains key systems such as the Cash Accounting Reporting System and G-Invoicing, ongoing cloud migration, automation, infrastructure modernization, and cybersecurity efforts. It also outlines the Federal Reserve's broader payment-system roles as operator, supervisor, regulator, researcher, and catalyst for improvements, and its research into payment, clearing, settlement, and financial market infrastructures. Footnotes provide explanations of Treasury-product demand, Fedwire accounting changes, official Treasury reports, and the federal Cloud Smart strategy."
+            },
+            {
+              "title": "Services Provided to Other Entities",
+              "node_id": "0074",
+              "start_index": 72,
+              "end_index": 72,
+              "summary": "In 2023, the Reserve Banks expanded cloud migration, automation, infrastructure management, and cybersecurity, reducing infrastructure and technology expenses to $143.6 million. They also provided authorized U.S.-dollar banking and electronic securities services to other entities, with expenses falling to $14.9 million. The Federal Reserve additionally serves as a payment-system supervisor, regulator, researcher, and catalyst for improvements, studying payment, clearing, settlement, and financial market infrastructures and their role in economic activity."
+            }
+          ],
+          "summary": "The section surveys the Reserve Banks’ fiscal agency and depository services for the Treasury and other authorized entities, covering payment processing, Stored Value Cards, Pay.gov, Treasury financing and auctions, securities issuance and servicing, savings bonds, accounting and reporting, and supporting technology infrastructure. It presents expense trends through 2023, transaction volumes and values, and major year-over-year changes, including securities-service expenses of $194.4 million, accounting and reporting expenses of $81.1 million, infrastructure and technology expenses of $143.6 million, and services to other entities expenses of $14.9 million. It highlights the effects of increased Treasury-product demand, a Fedwire Securities Service accounting change, technical-debt remediation, cybersecurity, cloud migration, automation, and modernization. The section also explains systems such as the Cash Accounting Reporting System and G-Invoicing, identifies Treasury financial publications, and describes the Federal Reserve’s wider roles in operating, supervising, regulating, researching, and improving payment, clearing, settlement, and financial market infrastructures, with related explanatory footnotes and sources."
+        },
+        {
+          "title": "Evolutions and Improvements to the System",
+          "node_id": "0075",
+          "start_index": 72,
+          "end_index": 75,
+          "nodes": [
+            {
+              "title": "Payment System Research and Analysis",
+              "node_id": "0076",
+              "start_index": 72,
+              "end_index": 73,
+              "summary": "The text describes 2023 Reserve Bank technology investments, cloud migration, cybersecurity, and related expenses; banking, securities, and safekeeping services provided to other entities and their costs; and the Federal Reserve’s broader payment-system roles as operator, supervisor, regulator, researcher, and catalyst for improvement. It covers payment-system research on payment trends, innovations, infrastructure, and fraud; digital-innovation research involving digital assets, CBDCs, cross-border and wholesale payments; collaboration with international, governmental, academic, and private-sector stakeholders; and the Board’s statutory responsibility to implement payment- and banking-related laws through regulation."
+            },
+            {
+              "title": "Digital Innovations Research",
+              "node_id": "0077",
+              "start_index": 73,
+              "end_index": 73,
+              "summary": "The text describes Federal Reserve research and oversight of payment systems. Its 2023 research covered payment-method trends, innovation drivers and effects, financial market infrastructure, and payments fraud. It also explains staff research into digital assets, CBDCs, cross-border and wholesale payment technologies, and the related policy, technical, risk, and infrastructure implications. The Federal Reserve works with international institutions, other central banks, and domestic stakeholders on innovations such as tokenization, distributed ledgers, APIs, and digital payments. Finally, it notes the Board’s congressional responsibility to implement payment- and banking-related laws through regulations and provides links to relevant Federal Reserve websites and the Payments Study."
+            },
+            {
+              "title": "Payment System Regulation",
+              "node_id": "0078",
+              "start_index": 73,
+              "end_index": 74,
+              "summary": "The text reviews Federal Reserve payment-system research, digital-innovation policy and technology work, international and domestic collaboration, payment-system regulation, and major 2023 oversight actions, including proposed debit-card interchange-fee changes and creation of a public master-account database. It also describes Reserve Bank efforts to launch FedNow, modernize payment and currency-processing infrastructure, strengthen cybersecurity and operational resilience, and refresh the System IT strategy for 2024–26."
+            },
+            {
+              "title": "Other Improvements and Efforts",
+              "node_id": "0079",
+              "start_index": 74,
+              "end_index": 75,
+              "summary": "The text describes 2023 regulatory and operational developments involving the Federal Reserve’s payment systems and Reserve Banks. It covers proposed debit-card interchange-fee changes under Regulation II, the public Master Account and Services Database, FedNow implementation, technology and processing-platform modernization, currency-processing equipment replacement, IT planning and datacenter modernization, cybersecurity and resilience initiatives, facility upgrades, and references to Reserve Bank asset information. It also explains Board oversight, independent annual audits of the Reserve Banks, the Board’s reviews, and use of the COSO framework for assessing financial internal controls."
+            }
+          ],
+          "summary": "The section covers the Federal Reserve’s research, regulation, oversight, and modernization of the payment system. It describes 2023 technology, cloud, cybersecurity, infrastructure, payment-processing, and currency operations; services provided by Reserve Banks and their costs; research into payment trends, fraud, financial-market infrastructure, digital assets, CBDCs, tokenization, distributed ledgers, and cross-border and wholesale payments; and collaboration with domestic and international stakeholders. It also addresses the Board’s statutory regulatory role, major 2023 actions such as proposed debit-card interchange-fee changes and the public master-account database, FedNow implementation, IT and datacenter modernization, facility and equipment upgrades, operational resilience, Reserve Bank assets, audits, oversight, and COSO-based internal-control assessments."
+        },
+        {
+          "title": "Oversight of Federal Reserve Banks",
+          "node_id": "0080",
+          "start_index": 75,
+          "end_index": 81,
+          "nodes": [
+            {
+              "title": "Income and Expenses",
+              "node_id": "0081",
+              "start_index": 77,
+              "end_index": 79,
+              "summary": "The text describes the Board’s annual oversight and external auditing of SOMA and foreign-currency operations, including FOMC compliance, technology controls, vendor management, and resiliency. It presents the Reserve Banks’ 2023 and 2022 financial results, explaining the sharp 2023 loss, the rules governing Treasury remittances and deferred assets, and the $670 million transferred in 2023. Table 5.3 details income, expenses, adjustments, losses, assessments, distributions, dividends, remittances, deferred assets, and comprehensive results, while Appendix G provides expanded financial, historical, staffing, and budget information for the Reserve Banks and related entities."
+            },
+            {
+              "title": "SOMA Holdings",
+              "node_id": "0082",
+              "start_index": 80,
+              "end_index": 80,
+              "summary": "The text describes the FOMC-directed open market operations conducted by the New York Fed and the securities and commitments held in the SOMA, references a table comparing SOMA financial data for 2023 and 2022, reports 2023 balances and interest rates for major Reserve Bank lending programs, and notes pandemic-related SPV lending and the appendix listing Treasury and federal agency holdings."
+            },
+            {
+              "title": "Lending",
+              "node_id": "0083",
+              "start_index": 80,
+              "end_index": 81,
+              "summary": "The text explains the FOMC-authorized open market operations conducted by the New York Fed and the securities held in SOMA, reports 2023 Reserve Bank lending balances and rates—including pandemic-related facilities and SPVs—and presents Table 5.4 comparing SOMA assets, liabilities, income, expenses, interest rates, and net holdings in 2023 and 2022. It also provides the principal asset and liability balances, changes, and income or expense results, together with definitions and valuation notes for the table's categories and a reference to Appendix G."
+            }
+          ],
+          "summary": "The section covers Reserve Bank technology, cybersecurity, and facility modernization; the Board’s oversight framework and independent audits of Reserve Bank, SOMA, foreign-currency, pandemic-related LLC, internal-control, and retirement-plan activities; COSO- and IIA-based control and internal-audit assessments; and auditor independence and fees. It also presents Reserve Bank income, expenses, losses, remittances, deferred assets, and related financial results, along with FOMC-directed New York Fed open market operations, SOMA holdings and commitments, lending programs and rates, pandemic-related facilities, and comparative SOMA financial data, with detailed tables and supporting financial, operational, staffing, budget, holdings, and property information in Appendix G."
+        },
+        {
+          "title": "Pro Forma Financial Statements for Federal Reserve Priced Services",
+          "node_id": "0084",
+          "start_index": 82,
+          "end_index": 88,
+          "nodes": [
+            {
+              "title": "Notes to Pro Forma Financial Statements for Priced Services",
+              "node_id": "0085",
+              "start_index": 84,
+              "end_index": 88,
+              "nodes": [
+                {
+                  "title": "(1) Short-Term Assets",
+                  "node_id": "0086",
+                  "start_index": 84,
+                  "end_index": 84,
+                  "summary": "The notes explain the composition and accounting treatment of short-term and long-term priced-service assets, including receivables, collection items, float costs, shared assets, deferred taxes, and Board assets. They describe the matched-book financing structure and imputed equity requirements for 2023 and 2022, note the revision to the 2022 equity percentage, and introduce the Board’s Payment System Risk policy and its reliance on international financial-market-infrastructure standards for Fedwire Services."
+                },
+                {
+                  "title": "(2) Long-Term Assets",
+                  "node_id": "0087",
+                  "start_index": 84,
+                  "end_index": 84,
+                  "summary": "The notes explain the composition and treatment of short-term and long-term priced-service assets, including receivables, collection items, float costs, deferred taxes, and Board assets. They describe the matched-book financing structure and imputed equity levels used to meet FDIC capitalization standards, note the revision to the 2022 equity figure, and introduce the Board’s Payment System Risk policy and its basis in international financial-market-infrastructure standards."
+                },
+                {
+                  "title": "(3) Liabilities and Equity",
+                  "node_id": "0088",
+                  "start_index": 84,
+                  "end_index": 85,
+                  "summary": "The notes explain the pro forma accounting for priced services, covering short- and long-term assets, float and investment assumptions, matched-book financing and imputed capital, payment-system risk requirements, pension and postretirement benefit accounting, revenues, and operating expenses. They provide the applicable equity ratios, tax rates, pension assets and funded-status effects, Board expenses, pension service costs, exclusions for FedNow development, and relevant 2022 restatements."
+                },
+                {
+                  "title": "(4) Revenue",
+                  "node_id": "0089",
+                  "start_index": 85,
+                  "end_index": 85,
+                  "summary": "The text explains Fedwire Funds Service risk-management and capital/liquidity requirements, noting that no additional imputed balances were needed in 2022 or 2023. It describes ASC 715 accounting for pension and other benefit plans, including balance-sheet recognition, deferred tax effects, AOCI impacts, pension asset amounts, and the 2023 increase in accumulated other comprehensive loss. It then defines priced-service revenue as direct fees charged to depository institutions and outlines operating expenses for Reserve Bank and Board priced-service activities, excluding FedNow development, with related Board and pension service costs. It also notes the 2019 ASC 715 disaggregation requirement and the restatement of the prior-year pension asset."
+                },
+                {
+                  "title": "(5) Operating Expenses",
+                  "node_id": "0090",
+                  "start_index": 85,
+                  "end_index": 86,
+                  "summary": "The text explains Fedwire Funds Service risk-management and pro forma capital requirements, pension accounting under ASC 715, priced-services revenue and operating expenses, pension-related costs and AOCI treatment, and the composition and tax rates of service income statements. It then describes PSAF-based imputed costs, their debt, equity, tax, sales-tax, and float assumptions and allocation, and reports 2023 and 2022 average daily credit-float recovery, including float unrelated to priced services and the definition of credit float."
+                },
+                {
+                  "title": "(6) Imputed Costs",
+                  "node_id": "0091",
+                  "start_index": 86,
+                  "end_index": 87,
+                  "summary": "The text explains Reserve Bank accounting for benefit-plan expenses, service-based income statements, imputed costs and their PSAF-based calculations, allocation of imputed debt interest, and treatment and recovery of credit float, including 2023 and 2022 recovery figures. It also covers other income from imputed investments, the cost-recovery formula, relevant float and PSAF definitions, and the applicable tax rates and accounting treatment under ASC 715."
+                },
+                {
+                  "title": "(7) Other Income and Expenses",
+                  "node_id": "0092",
+                  "start_index": 87,
+                  "end_index": 87,
+                  "summary": "Payment System and Reserve Bank Oversight 81\nFloat that is created by account adjustments due to transaction errors and the observance of non- standard holidays by some depository institutions was recovered from the depository institutions through charging institutions directly. Float subject to recovery is valued at the federal funds rate. Certain ACH funding requirements and check products generate credit float; this float has been subtracted from the cost base subject to recovery in 2023 and 2022.\n(7) Other Income and Expenses\nOther income consists of income on imputed investments. Excess financing resulting from addi- tional equity imputed to meet the FDIC well-capitalized requirements is assumed to be invested and earning interest at the 3-month Treasury bill rate.\n(8) Cost Recovery\nAnnual cost recovery is the ratio of revenue, including other income, to the sum of operating expenses, imputed costs, imputed income taxes, and after-tax targeted return on equity."
+                },
+                {
+                  "title": "(8) Cost Recovery",
+                  "node_id": "0093",
+                  "start_index": 87,
+                  "end_index": 88,
+                  "summary": "Payment System and Reserve Bank Oversight 81\nFloat that is created by account adjustments due to transaction errors and the observance of non- standard holidays by some depository institutions was recovered from the depository institutions through charging institutions directly. Float subject to recovery is valued at the federal funds rate. Certain ACH funding requirements and check products generate credit float; this float has been subtracted from the cost base subject to recovery in 2023 and 2022.\n(7) Other Income and Expenses\nOther income consists of income on imputed investments. Excess financing resulting from addi- tional equity imputed to meet the FDIC well-capitalized requirements is assumed to be invested and earning interest at the 3-month Treasury bill rate.\n(8) Cost Recovery\nAnnual cost recovery is the ratio of revenue, including other income, to the sum of operating expenses, imputed costs, imputed income taxes, and after-tax targeted return on equity."
+                }
+              ],
+              "summary": "The section explains the pro forma financial statements for priced services, covering short- and long-term assets, liabilities, equity, financing, payment-system risk, revenues, operating expenses, pension and postretirement benefit accounting, taxes, and 2022 restatements. It details PSAF-based imputed debt, equity, taxes, investment income, targeted returns, and float assumptions, including the treatment and recovery of credit float from operational, ACH, and check-related activities. It also identifies priced-service revenues and eligible Reserve Bank and Board expenses, excludes FedNow development costs, and defines the annual cost-recovery measure incorporating revenue, other income, expenses, imputed costs and taxes, and the after-tax return on equity."
+            }
+          ],
+          "summary": "This section reports the pro forma financial position and performance of Federal Reserve priced services for 2023 and 2022, including detailed assets, liabilities, equity, revenues, expenses, imputed financing and tax costs, investment income, net income, targeted returns, and cost recovery. It also breaks down 2023 results by service and explains the accompanying accounting assumptions and notes, including PSAF-based financing, float and payment-system risk, pension and benefit accounting, taxes, eligible expenses and revenues, FedNow cost exclusions, and the 2022 pension-balance restatement."
+        }
+      ],
+      "summary": "This section explains how the Federal Reserve supports and oversees the U.S. payment and settlement system through priced payment services, FedNow®, currency and coin operations, Treasury fiscal and depository services, payment-system research and modernization, and comprehensive Reserve Bank oversight. It covers service operations, users, volumes, costs, revenues, pricing and cost recovery; cash production, circulation, security, and education; government payments, financing, securities, accounting, technology, and cybersecurity; regulatory, research, infrastructure, and operational-resilience initiatives; audits, internal controls, financial results, FOMC and SOMA activities, lending and pandemic facilities; and detailed 2023–22 pro forma financial statements and related accounting assumptions for priced services."
+    },
+    {
+      "title": "6 Consumer and Community Affairs",
+      "node_id": "0094",
+      "start_index": 89,
+      "end_index": 108,
+      "nodes": [
+        {
+          "title": "Consumer Compliance Supervision",
+          "node_id": "0095",
+          "start_index": 89,
+          "end_index": 101,
+          "nodes": [
+            {
+              "title": "Consumer Compliance Examinations",
+              "node_id": "0096",
+              "start_index": 91,
+              "end_index": 92,
+              "summary": "The text describes the Federal Reserve’s consumer and community affairs responsibilities, including examiner training and resources, application analysis, and consumer complaint handling. It explains consumer compliance examinations, 2023 guidance updates and HMDA reporting revisions, examination totals and institutional coverage, and the division of supervisory authority with the CFPB. It then outlines CRA requirements and implementation through examinations, application reviews, and community development outreach, reports 2023 CRA examination ratings, and notes the agencies’ issuance of a modernized CRA final rule. Finally, it introduces fair-lending and UDAP enforcement under ECOA, the Fair Housing Act, and the FTC Act, including ECOA’s prohibited bases for credit discrimination; the source text ends mid-discussion."
+            },
+            {
+              "title": "Consumer Compliance Enforcement Activities",
+              "node_id": "0097",
+              "start_index": 92,
+              "end_index": 94,
+              "nodes": [
+                {
+                  "title": "Fair Lending and UDAP Enforcement",
+                  "node_id": "0098",
+                  "start_index": 92,
+                  "end_index": 94,
+                  "summary": "The text describes the Federal Reserve’s 2023 CRA supervision, including its responsibilities, 174 examinations and resulting ratings, and the agencies’ October 2023 CRA modernization rule. It then explains fair lending and consumer protection requirements under ECOA, the FHA, and the FTC Act; the respective supervisory and enforcement roles of the Federal Reserve, CFPB, and DOJ; definitions of discrimination, unfairness, and deception; enforcement and corrective-action processes; one 2023 DOJ referral involving alleged marital-status discrimination; and the Board’s compliance outreach, webinar, and publications. Finally, it outlines flood insurance requirements under the National Flood Insurance Act and Regulation H and reports a 2023 enforcement order imposing approximately $2.9455 million in penalties, distributed between FEMA and the Treasury Department."
+                },
+                {
+                  "title": "Flood Insurance Enforcement",
+                  "node_id": "0099",
+                  "start_index": 94,
+                  "end_index": 94,
+                  "summary": "The text describes the Federal Reserve’s use of informal and public enforcement tools, its transparency and outreach efforts on fair lending and UDAP compliance—including a 2023 webinar with over 6,300 registrants and a compliance article—and its enforcement of flood insurance requirements under the National Flood Insurance Act and Regulation H. It reports a 2023 flood insurance enforcement order totaling approximately $2.9455 million, with penalties distributed to FEMA and the U.S. Treasury, and includes related reference links."
+                }
+              ],
+              "summary": "The section covers the Federal Reserve’s 2023 CRA supervision and the October 2023 CRA modernization rule; fair lending and UDAP requirements, agency responsibilities, prohibited discrimination, unfairness and deception, and related enforcement and corrective-action tools; a DOJ referral involving alleged marital-status discrimination; compliance outreach and publications; and flood insurance requirements and enforcement under the National Flood Insurance Act and Regulation H, including a 2023 order totaling approximately $2.9455 million in penalties paid to FEMA and the U.S. Treasury."
+            },
+            {
+              "title": "Mergers and Acquisitions",
+              "node_id": "0100",
+              "start_index": 95,
+              "end_index": 95,
+              "summary": "The text explains the legal and supervisory factors the Federal Reserve considers in merger and acquisition applications, including competition, financial condition, management and compliance, CRA performance, community needs, and stability. It describes the compliance, fair-lending, supervisory, examiner, applicant, and public information used in reviews, possible pre-membership examinations, and public disclosure through Board Orders, press releases, and semiannual reports covering outcomes, processing times, withdrawals, and public comments. It also discusses 2023 coordination with the CFPB and other regulators under an interagency agreement intended to reduce burden, duplication, and conflicting directives through cooperative supervision and shared examination schedules, with footnotes linking to related guidance and reports."
+            },
+            {
+              "title": "Coordination with Other Agencies",
+              "node_id": "0101",
+              "start_index": 95,
+              "end_index": 95,
+              "summary": "The text explains the legal and supervisory factors the Federal Reserve considers in merger and acquisition applications, including competition, financial condition, management and compliance, CRA and community needs, and financial stability. It describes the compliance, supervisory, examiner, applicant, and public information used in reviews, possible pre-membership examinations, and the Board’s public reporting through Orders, press releases, and semiannual application statistics. It also covers 2023 coordination with the CFPB and other financial regulators under an interagency agreement intended to reduce burden, duplication, and conflicting directives, including sharing examination schedules, and identifies related guidance and reporting resources."
+            },
+            {
+              "title": "Box 6.1. Supporting Consumer Protection and Community Development",
+              "node_id": "0102",
+              "start_index": 96,
+              "end_index": 101,
+              "nodes": [
+                {
+                  "title": "Modernizing the Community Reinvestment Act Regulations",
+                  "node_id": "0103",
+                  "start_index": 96,
+                  "end_index": 96,
+                  "summary": "The text reviews the Federal Reserve’s 2023 efforts to support consumer protection, financial inclusion, and community development amid post-pandemic policy changes, inflation, and evolving banking technology. It describes DCCA’s regulatory, research, outreach, and risk-management work; the jointly issued modernization of CRA regulations; fair-lending education and compliance initiatives; analysis of consumer-law violations; and research from the 2022 household economic well-being survey, including its topics and related public webinar. It also provides links to referenced resources."
+                },
+                {
+                  "title": "Promoting Sound Consumer Risk-Management Practices among Banks",
+                  "node_id": "0104",
+                  "start_index": 96,
+                  "end_index": 96,
+                  "summary": "Box 6.1 of the Federal Reserve's 2023 Annual Report describes DCCA efforts to support consumer protection, financial inclusion, and community development amid the end of pandemic benefits, inflation, and banking-sector technological change. It covers the interagency modernization of CRA regulations, fair-lending and consumer-risk-management initiatives, compliance guidance on common legal violations, and research into household financial well-being and emerging consumer issues, including findings from the 2022 SHED survey and related outreach resources."
+                },
+                {
+                  "title": "Conducting Research and Analysis of Emerging Consumer Issues",
+                  "node_id": "0105",
+                  "start_index": 96,
+                  "end_index": 96,
+                  "summary": "The text reviews the Federal Reserve’s 2023 consumer-protection and community-development work amid the end of pandemic benefits, inflation, and technological change in banking. It describes DCCA’s regulatory, research, policy, and outreach activities; the interagency modernization of CRA rules to reflect digital banking and varying bank models while supporting LMI communities; fair-lending and consumer-compliance risk-management efforts, including disability discrimination, algorithmic bias, redlining, appraisal discrimination, violation reporting, and mitigation guidance; and research on household economic well-being through the 2022 SHED survey and related webinar. It concludes with reference links to the cited resources."
+                },
+                {
+                  "title": "Box 6.1—continued",
+                  "node_id": "0106",
+                  "start_index": 97,
+                  "end_index": 97,
+                  "summary": "The text describes Federal Reserve consumer and community affairs research, outreach, and interagency supervisory coordination. Publications addressed consumer credit products, small-dollar loans, auto finance, workers’ financial well-being, student debt, food-related hardship, pandemic income trends, and women’s workforce exits. Board outreach and advisory activities examined post-pandemic economic conditions, small-business credit, housing costs, the effects of expiring COVID-19 benefits on low- and moderate-income communities, local economic recovery, and inclusive and affordable housing. The Federal Reserve also coordinates with other federal banking agencies and FFIEC members on supervisory guidance and consistent examination practices, including joint exams, information sharing, and review of examination reports, with supporting source references provided."
+                },
+                {
+                  "title": "Engaging with Consumer and Community Perspectives",
+                  "node_id": "0107",
+                  "start_index": 97,
+                  "end_index": 98,
+                  "summary": "The text describes Federal Reserve consumer and community affairs research, outreach, supervisory coordination, regulatory actions, public compliance education, and examiner training in 2023. It covers studies of credit products and household financial challenges; engagement with community, business, civic, and nonprofit perspectives on post-pandemic conditions, housing, and inclusion; collaboration with federal banking and fair-lending agencies; actions concerning HMDA reporting, LIBOR transition, and CRA modernization; publications and webinars for compliance professionals; and professional development for consumer-compliance examiners."
+                },
+                {
+                  "title": "Outreach",
+                  "node_id": "0108",
+                  "start_index": 98,
+                  "end_index": 98,
+                  "summary": "The text reviews Federal Reserve consumer-compliance activities in 2023, including interagency efforts to address appraisal bias, temporary HMDA enforcement guidance following a court decision, LIBOR-transition expectations, and modernization of CRA regulations. It describes the Federal Reserve’s outreach program, its Consumer Compliance Outlook publications and fair-lending webinar, and examiner training designed to develop consumer-compliance supervisory expertise."
+                },
+                {
+                  "title": "Examiner Training",
+                  "node_id": "0109",
+                  "start_index": 98,
+                  "end_index": 99,
+                  "summary": "The text describes 2023 Federal Reserve consumer-compliance initiatives, including interagency work on appraisal bias, HMDA enforcement relief, LIBOR transition guidance, and modernized CRA regulations. It outlines public outreach through compliance publications and a fair-lending webinar; examiner education through commissioning, proficiency testing, and flexible training; continuing professional development and Rapid Response sessions; and the process for investigating or referring consumer complaints involving regulated and nonregulated entities."
+                },
+                {
+                  "title": "Responding to Consumer Complaints and Inquiries",
+                  "node_id": "0110",
+                  "start_index": 99,
+                  "end_index": 101,
+                  "nodes": [
+                    {
+                      "title": "Consumer Complaints",
+                      "node_id": "0111",
+                      "start_index": 100,
+                      "end_index": 101,
+                      "summary": "The text reviews the Federal Reserve's 2023 consumer complaint activity, including complaint patterns by product, FRCH case volumes and contact methods, complaint closure and investigation outcomes, discrimination allegations, and the Board's consumer-law responsibilities. It also describes 2024 annual adjustments to Regulation Z and Regulation M transaction thresholds and the exemption threshold for appraisal requirements on higher-priced mortgage loans."
+                    }
+                  ],
+                  "summary": "This section describes the Federal Reserve's handling of consumer complaints and inquiries, including investigations of complaints against Federal Reserve-regulated entities and referrals to other agencies. It reviews 2023 complaint trends, FRCH volumes and contact channels, case outcomes, discrimination allegations, and the Board's consumer-law responsibilities, and notes 2024 threshold adjustments under Regulations Z and M and for certain appraisal requirements."
+                }
+              ],
+              "summary": "The section summarizes the Federal Reserve’s 2023 consumer protection and community development work, including CRA modernization, fair-lending and consumer-risk-management initiatives, research on household financial well-being and emerging issues, and engagement with communities and other stakeholders. It covers regulatory and supervisory coordination on appraisal bias, HMDA, LIBOR, and consumer-law compliance; public guidance, publications, webinars, examiner training, and professional development; research on credit, housing, debt, hardship, and workforce issues; and the investigation, referral, and analysis of consumer complaints and inquiries, with links to supporting resources and regulatory updates."
+            }
+          ],
+          "summary": "The section describes the Federal Reserve’s 2023 consumer and community affairs work to protect consumers, promote fair financial markets and inclusion, and support community development through supervision, regulation, research, and engagement. It covers consumer compliance examinations and enforcement under major consumer-protection laws and the CRA; examiner resources, applications, complaints, fair lending, UDAP, flood insurance, HMDA, and related corrective actions; CRA examinations, ratings, outreach, and the agencies’ modernized 2023 CRA rule; and research and public engagement on household finances, housing, credit, debt, small-dollar and automobile lending, and emerging risks. It also explains merger and acquisition reviews, public reporting, and coordination with the CFPB and other regulators, while highlighting outreach, training, publications, stakeholder perspectives, and community development initiatives."
+        },
+        {
+          "title": "Consumer Laws and Regulations",
+          "node_id": "0112",
+          "start_index": 101,
+          "end_index": 102,
+          "summary": "The text reports 2023 consumer discrimination-complaint outcomes, including the bases of complaints, limited notice and credit-reporting issues, and investigation results. It describes the Board’s consumer-law regulatory, guidance, and CFPB-consultation responsibilities, then details 2024 inflation-indexed thresholds for exempt consumer credit and leases, appraisal exemptions for higher-priced mortgages, and CRA bank-size classifications. It concludes with the Board’s analysis of emerging consumer financial-services issues and includes references to related announcements."
+        },
+        {
+          "title": "Consumer Research and Analysis of Emerging Issues and Policy",
+          "node_id": "0113",
+          "start_index": 102,
+          "end_index": 105,
+          "nodes": [
+            {
+              "title": "Researching Issues Affecting Consumers and Communities",
+              "node_id": "0114",
+              "start_index": 103,
+              "end_index": 104,
+              "summary": "In 2023, the Federal Reserve Board investigated consumer financial and community economic conditions through surveys, research, and expert collaboration. Its 2022 SHED, published in 2023, documented worsening household financial well-being amid inflation, increased credit card debt, weaker retirement preparedness, persistent demographic and income disparities, and experiences with new financial products and coping strategies. Board researchers produced numerous papers on consumer and community issues, while the Federal Reserve System continued its housing-focused community development research seminar series to identify opportunities for low- and moderate-income households and communities."
+            },
+            {
+              "title": "Community Development Research Seminar Series",
+              "node_id": "0115",
+              "start_index": 104,
+              "end_index": 105,
+              "summary": "The text reviews 2022 survey findings and new questions on rising prices, financial buffers, worker autonomy, and emerging financial products, while noting persistent financial disparities by education, race and ethnicity, and income. It summarizes 2023 Consumer and Community Affairs research output and topics, describes the Community Development Research Seminar Series on housing opportunity and its speakers, and outlines Board analysis of emerging consumer risks involving the pandemic, inflation, housing, small-business credit, and new financial products. It also highlights related publications and explains the Federal Reserve’s decentralized community development structure, which promotes economic and financial stability for underserved communities through Reserve Bank initiatives coordinated and overseen by Board staff."
+            },
+            {
+              "title": "Analysis of Emerging Issues",
+              "node_id": "0116",
+              "start_index": 105,
+              "end_index": 105,
+              "summary": "The text describes the Federal Reserve’s 2023 work on emerging consumer risks and community development. It highlights seminar keynote speakers, Board analysis of pandemic, inflation, housing, and small-business-credit issues, a multi-agency workshop on new consumer financial products, and publications on small-dollar credit and auto finance. It also explains that community development promotes economic growth and financial stability for underserved communities through decentralized Reserve Bank efforts coordinated and overseen by Board staff."
+            }
+          ],
+          "summary": "In 2023, the Federal Reserve researched consumer financial and community economic conditions, documenting worsening household well-being under inflation, rising debt, weaker retirement preparedness, persistent demographic and income disparities, and the effects of new financial products and coping strategies. Board and System researchers published studies on these and other issues, including pandemic impacts, housing, small-business credit, small-dollar lending, and auto finance. The Federal Reserve also continued its housing-focused Community Development Research Seminar Series, collaborated with experts and other agencies to assess emerging consumer risks, and supported decentralized Reserve Bank community development initiatives coordinated by Board staff to advance opportunity, economic growth, and financial stability for underserved communities."
+        },
+        {
+          "title": "Community Development",
+          "node_id": "0117",
+          "start_index": 105,
+          "end_index": 108,
+          "nodes": [
+            {
+              "title": "Understanding Outcomes in the Labor Market",
+              "node_id": "0118",
+              "start_index": 106,
+              "end_index": 108,
+              "summary": "The text describes the Federal Reserve’s community development work to incorporate diverse community perspectives into economic policy and research. In 2023, it focused on post-pandemic employment, workforce development, women’s labor-force participation and family obligations, and job conditions and hiring trends. It also examined effects on minority depository institutions, issued an annual report on supporting them, and recorded Community Advisory Council perspectives that the end of pandemic relief increased small-business loan demand from MDIs and community development financial institutions, alongside observations on local housing, labor, and small-business conditions."
+            }
+          ],
+          "summary": "The section describes Federal Reserve consumer and community affairs activities, including research seminars, analysis of emerging consumer risks, interagency workshops, and publications on consumer credit and auto finance. It explains the decentralized community development function’s role in advancing economic growth and financial stability for underserved communities through research, outreach, and District-specific strategies coordinated by the Board. It also covers 2023 research incorporating community perspectives on labor-market outcomes, workforce development, women’s employment and family responsibilities, job and hiring conditions, minority depository institutions, small-business lending, and local housing, labor, and business trends."
+        }
+      ],
+      "summary": "The section reviews the Federal Reserve’s consumer and community affairs work, covering consumer compliance supervision, enforcement, fair lending, CRA examinations and modernization, merger reviews, complaints, regulatory thresholds, appraisal and CRA classifications, and coordination with other regulators. It also summarizes research and analysis of household finances, inflation, debt, retirement, disparities, housing, credit, small-business, small-dollar, and automobile lending, as well as emerging financial risks. Finally, it describes public engagement, publications, seminars, training, interagency collaboration, and decentralized community development efforts that incorporate community perspectives and promote economic opportunity, inclusion, growth, and financial stability for underserved communities."
+    },
+    {
+      "title": "A Federal Reserve System Organization",
+      "node_id": "0119",
+      "start_index": 109,
+      "end_index": 146,
+      "nodes": [
+        {
+          "title": "Board of Governors",
+          "node_id": "0120",
+          "start_index": 109,
+          "end_index": 116,
+          "nodes": [
+            {
+              "title": "Members",
+              "node_id": "0121",
+              "start_index": 109,
+              "end_index": 109,
+              "summary": "The text describes the Federal Reserve System’s structure and purpose, consisting of the Washington-based Board of Governors and 12 regional banks, and introduces its 2023 officials. It explains the Board’s seven-member appointment and confirmation process, lists the 2023 governors and their roles or service dates, references a historical membership list, and notes that 15 divisions support the Board. It also identifies officials in the Division of Board Members and their positions."
+            },
+            {
+              "title": "Divisions and Officers",
+              "node_id": "0122",
+              "start_index": 109,
+              "end_index": 116,
+              "summary": "This excerpt from the Federal Reserve's 2023 Annual Report explains the System's nationwide structure and presents the 2023 Board of Governors and its organizational leadership. It identifies the Board's members and statutory appointment process, then gives an extensive directory of officials across the Board's divisions and offices—including legal, secretarial, international finance, financial stability, monetary affairs, research, supervision, consumer affairs, payment systems, operations, financial management, management, information technology, and the Office of Inspector General—with their positions and any 2023 appointment or departure dates."
+            }
+          ],
+          "summary": "The section presents the Federal Reserve System’s organization and the 2023 Board of Governors, explaining the Board’s seven-member presidential appointment and Senate confirmation process, identifying its governors and historical membership references, and describing the 15 supporting divisions. It also provides a detailed directory of Board leadership and officials across its major divisions and offices, including their positions and relevant 2023 appointments or departures."
+        },
+        {
+          "title": "Federal Open Market Committee",
+          "node_id": "0123",
+          "start_index": 117,
+          "end_index": 118,
+          "summary": "The text describes the FOMC’s composition and 2023 meeting schedule, identifies its members and rotating alternate members with relevant role and service-date changes, and lists its officers, legal staff, economists, associate economists, and System Open Market Account managers and their appointment periods."
+        },
+        {
+          "title": "Board of Governors Advisory Councils",
+          "node_id": "0124",
+          "start_index": 119,
+          "end_index": 122,
+          "nodes": [
+            {
+              "title": "Federal Advisory Council",
+              "node_id": "0125",
+              "start_index": 119,
+              "end_index": 120,
+              "summary": "The text describes the Federal Reserve Board’s advisory committees, focusing on the statutory Federal Advisory Council and the Community Depository Institutions Advisory Council. It explains each council’s purpose, composition, leadership selection, meeting requirements and 2023 meeting dates, and provides the full 12-district membership rosters with institutional roles and locations, along with the Federal Advisory Council’s officers and a link to further advisory-committee information."
+            },
+            {
+              "title": "Community Depository Institutions Advisory Council",
+              "node_id": "0126",
+              "start_index": 120,
+              "end_index": 121,
+              "summary": "The excerpt from the Federal Reserve System’s 2023 annual report presents the officers, purpose, structure, meeting schedule, and complete membership of the Community Depository Institutions Advisory Council, which represents community financial institutions across the 12 Federal Reserve districts, and the Community Advisory Council, which advises on consumer and community economic and financial-services needs, especially those of low- and moderate-income populations. It also lists the organizations and locations represented by each council member and identifies the councils’ leadership."
+            },
+            {
+              "title": "Community Advisory Council",
+              "node_id": "0127",
+              "start_index": 121,
+              "end_index": 121,
+              "summary": "This page identifies Federal Reserve officers and describes the Community Advisory Council, established in 2015 to advise the Board of Governors on economic and financial-service issues affecting consumers and communities, particularly low- and moderate-income populations. It explains the council’s diverse representation, areas of expertise, leadership structure, meeting history, and 2023 meeting dates, and lists all members with their positions and organizations, including Chair Daniel Betancourt and Vice Chair Christie McCravy."
+            },
+            {
+              "title": "Model Validation Council",
+              "node_id": "0128",
+              "start_index": 122,
+              "end_index": 122,
+              "summary": "116 110th Annual Report | 2023\nModel Validation Council\nThe Model Validation Council was established in 2012 by the Board of Governors to provide expert and independent advice on its process to rigorously assess the models used in stress tests of banking institutions. The Dodd-Frank Wall Street Reform and Consumer Protection Act required the Federal Reserve to conduct annual stress tests of large bank holding companies and systemically important, nonbank financial institutions supervised by the Board. The Model Validation Council provides input on the Board’s efforts to assess the effectiveness of the models used in the stress tests. The council is intended to improve the quality of the Federal Reserve’s model assessment program and to strengthen the confidence in the integrity and independence of the program.\nMembers\nThe council had no members or meetings during 2023."
+            }
+          ],
+          "summary": "The section covers the Federal Reserve Board’s four advisory councils, detailing their purposes, statutory or organizational foundations, structures, leadership, membership, representation, meeting requirements and 2023 schedules. It provides complete rosters and institutional affiliations for the Federal Advisory Council, Community Depository Institutions Advisory Council, and Community Advisory Council, including the latter’s focus on consumer and low- and moderate-income community concerns, and explains the Model Validation Council’s role in independently assessing stress-test models while noting that it had no members or meetings in 2023."
+        },
+        {
+          "title": "Federal Reserve Banks and Branches",
+          "node_id": "0129",
+          "start_index": 123,
+          "end_index": 146,
+          "nodes": [
+            {
+              "title": "Reserve Bank and Branch Directors",
+              "node_id": "0130",
+              "start_index": 123,
+              "end_index": 140,
+              "nodes": [
+                {
+                  "title": "District 1–Boston",
+                  "node_id": "0131",
+                  "start_index": 124,
+                  "end_index": 124,
+                  "summary": "The page identifies Federal Reserve District 1—Boston, its geographic coverage, and its 2023 Class A, B, and C representatives, along with listed 2024 and 2025 officials and a 2025 vacancy. It also directs readers to Boston Fed information, the Beige Book, and the Reserve Bank's 2023 financial statements."
+                },
+                {
+                  "title": "District 2–New York",
+                  "node_id": "0132",
+                  "start_index": 125,
+                  "end_index": 125,
+                  "summary": "The text describes Federal Reserve District 2, headquartered in New York, including its geographic coverage of New York, part of Connecticut and New Jersey, Puerto Rico, and the U.S. Virgin Islands. It provides links to information about the New York Fed, the Beige Book, and 2023 financial statements, and lists the District’s Class A, B, and C directors, their organizations and titles, service years, and a 2023 Class A vacancy."
+                },
+                {
+                  "title": "District 3–Philadelphia",
+                  "node_id": "0133",
+                  "start_index": 126,
+                  "end_index": 126,
+                  "summary": "The 2023 Annual Report identifies the Philadelphia Federal Reserve's District 3 coverage area as Delaware, nine southern New Jersey counties, and 48 eastern Pennsylvania counties. It directs readers to resources on District operations, economic conditions, and 2023 financial statements, and lists the Class A, B, and C directors serving three-year terms from 2023 through 2025, along with their positions, organizations, and locations."
+                },
+                {
+                  "title": "District 4–Cleveland",
+                  "node_id": "0134",
+                  "start_index": 127,
+                  "end_index": 127,
+                  "summary": "This page describes Federal Reserve District 4, headquartered in Cleveland, including its geographic coverage, informational resources, and map locations. It lists the Cleveland District’s Class A, B, and C directors for 2023–2025, including one 2024 vacancy, and identifies Cincinnati and Pittsburgh Branch directors, organized by whether they were appointed by the Federal Reserve Bank or the Board of Governors, with their years, positions, organizations, and locations."
+                },
+                {
+                  "title": "District 5–Richmond",
+                  "node_id": "0135",
+                  "start_index": 128,
+                  "end_index": 128,
+                  "summary": "This page describes Federal Reserve District 5–Richmond, its geographic coverage and information resources, and lists the district, Baltimore Branch, and Charlotte Branch directors, including their class or appointing authority, service years, professional positions, locations, and noted vacancies."
+                },
+                {
+                  "title": "District 6–Atlanta",
+                  "node_id": "0136",
+                  "start_index": 129,
+                  "end_index": 130,
+                  "summary": "This section describes Federal Reserve District 6, headquartered in Atlanta, including its geographic coverage, informational and financial-report links, and branch locations. It lists the Atlanta District board’s Class A, B, and C directors for 2023–2025 and the directors of the Birmingham, Jacksonville, Miami, Nashville, and New Orleans branches, identifying each person’s year, professional affiliation, location, and whether appointed by the Federal Reserve Bank or the Board of Governors."
+                },
+                {
+                  "title": "District 7–Chicago",
+                  "node_id": "0137",
+                  "start_index": 131,
+                  "end_index": 131,
+                  "summary": "This section presents the organization of Federal Reserve District 7, including its Chicago headquarters, geographic coverage across parts of five states, map locations, informational and financial-report links, and the 2023–2025 Class A, B, and C directors. It also lists Detroit Branch directors appointed by the Federal Reserve Banks and by the Board of Governors, along with their years, roles, employers, and locations."
+                },
+                {
+                  "title": "District 8–St. Louis",
+                  "node_id": "0138",
+                  "start_index": 132,
+                  "end_index": 133,
+                  "summary": "This section of the 2023 110th Annual Report describes Federal Reserve District 8, headquartered in St. Louis, including its geographic coverage, map references, informational and financial-report links, and the directors serving on the St. Louis board and the Little Rock, Louisville, and Memphis Branch boards. It identifies each director’s class or appointing authority, term year, professional title, organization, and location, including one vacant 2025 Memphis position."
+                },
+                {
+                  "title": "District 9–Minneapolis",
+                  "node_id": "0139",
+                  "start_index": 134,
+                  "end_index": 134,
+                  "summary": "The text profiles Federal Reserve District 9—Minneapolis, identifying its geographic coverage and providing web resources for Minneapolis Fed operations, economic conditions, and 2023 financial statements. It lists the 2023–2025 Class A, B, and C directors with their positions and locations, followed by Helena Branch directors appointed by the Federal Reserve Bank and the Board of Governors, including their terms, roles, and Montana affiliations."
+                },
+                {
+                  "title": "District 10–Kansas City",
+                  "node_id": "0140",
+                  "start_index": 135,
+                  "end_index": 136,
+                  "summary": "This excerpt profiles Federal Reserve District 10, its geographic coverage, information resources, and the 2023–2025 directors of the Kansas City District and its Denver, Oklahoma City, and Omaha branches, including appointment authority, professional positions, and locations."
+                },
+                {
+                  "title": "District 11–Dallas",
+                  "node_id": "0141",
+                  "start_index": 137,
+                  "end_index": 139,
+                  "nodes": [
+                    {
+                      "title": "Class B",
+                      "node_id": "0142",
+                      "start_index": 137,
+                      "end_index": 137,
+                      "summary": "This section presents the organization of Federal Reserve District 11–Dallas, its geographic coverage and map, online resources, and 2023 financial-statement reference. It lists the Dallas board's Class A, B, and C directors, including a 2024 vacancy, and identifies directors of the El Paso and Houston branches, their appointment authorities, service years, professional positions, and locations."
+                    },
+                    {
+                      "title": "Vacancy, 2024",
+                      "node_id": "0143",
+                      "start_index": 137,
+                      "end_index": 137,
+                      "summary": "The text presents the organization of Federal Reserve District 11–Dallas, its geographic coverage and map labels, informational web resources, and the 2023–2025 directors of the district and its El Paso and Houston branches, categorized by appointing authority and including each director's title, affiliation, and location."
+                    },
+                    {
+                      "title": "Jack Harper, 2023",
+                      "node_id": "0144",
+                      "start_index": 137,
+                      "end_index": 138,
+                      "summary": "The text describes Federal Reserve District 11, based in Dallas, including its geographic coverage and informational resources, then lists its Class A, B, and C board directors for 2023–2025, noting one 2024 vacancy. It also identifies the directors of the El Paso, Houston, and San Antonio Branches, grouped by whether they were appointed by the Federal Reserve Bank or the Board of Governors, with their terms, positions, organizations, and locations."
+                    },
+                    {
+                      "title": "San Antonio Branch",
+                      "node_id": "0145",
+                      "start_index": 138,
+                      "end_index": 138,
+                      "summary": "Page 132 of the 2023 110th Annual Report lists appointed representatives, their term years, titles, organizations, and locations. It identifies four Board of Governors appointees and then details San Antonio Branch representatives appointed either by the Federal Reserve Bank or the Board of Governors, including their professional leadership roles and Texas-based organizations."
+                    },
+                    {
+                      "title": "Rosa Santana, 2025",
+                      "node_id": "0146",
+                      "start_index": 138,
+                      "end_index": 139,
+                      "summary": "This excerpt from the 2023 Federal Reserve annual report lists San Antonio Branch directors and their appointing authorities, then introduces Federal Reserve District 12—the San Francisco District—its geographic coverage, map, informational and financial-statement links, and its Class A, B, and C directors, including vacancies. It also lists the directors and appointing authorities for the Los Angeles and Portland Branches, with each person's term year, title, organization, and location."
+                    }
+                  ],
+                  "summary": "The section presents the organization and geographic coverage of Federal Reserve District 11–Dallas, its maps, online resources, and financial-statement reference, followed by detailed listings of district and El Paso, Houston, and San Antonio Branch directors, their appointing authorities, terms, roles, affiliations, and locations, including a 2024 vacancy and specific San Antonio representatives. It then transitions to District 12–San Francisco, introducing its coverage and resources and listing its district, Los Angeles, and Portland Branch directors and vacancies."
+                },
+                {
+                  "title": "District 12–San Francisco",
+                  "node_id": "0147",
+                  "start_index": 139,
+                  "end_index": 140,
+                  "summary": "This section profiles Federal Reserve District 12, headquartered in San Francisco, including its geographic coverage, affiliated territories, branch locations, information and financial-reporting links, and the 2023 district and branch director rosters. It lists each director’s class or appointing authority, service year, professional position, organization, and location for the San Francisco, Los Angeles, Portland, Salt Lake City, and Seattle offices, including noted vacancies."
+                }
+              ],
+              "summary": "The section explains the structure and governance of the 12 Federal Reserve Districts, including the composition and appointment of Reserve Bank and Branch boards, director-selection considerations, term and location information, and district maps and resources. It then provides district-by-district coverage areas, Reserve Bank and Branch locations, links to Federal Reserve information, Beige Book and financial reports where applicable, and detailed 2023–2025 listings of district and Branch directors, their classes or appointing authorities, professional affiliations, locations, terms, and noted vacancies."
+            },
+            {
+              "title": "Reserve Bank and Branch Leadership",
+              "node_id": "0148",
+              "start_index": 141,
+              "end_index": 143,
+              "nodes": [
+                {
+                  "title": "Boston",
+                  "node_id": "0149",
+                  "start_index": 141,
+                  "end_index": 141,
+                  "summary": "The text explains how Reserve Bank and Branch leaders are selected and lists the chairs, deputy chairs, presidents, first vice presidents, and relevant Branch or regional officers for the Boston, New York, Philadelphia, and Cleveland Reserve Banks, including the Cincinnati and Pittsburgh Branches and an additional office in East Rutherford, New Jersey."
+                },
+                {
+                  "title": "New York",
+                  "node_id": "0150",
+                  "start_index": 141,
+                  "end_index": 141,
+                  "summary": "The text explains how Reserve Bank and Branch leaders are appointed and lists the chairs, deputy chairs, presidents, first vice presidents, and relevant Branch officers for the Boston, New York, Philadelphia, and Cleveland Reserve Banks, along with leadership for the Cincinnati and Pittsburgh Branches and an additional New York office in East Rutherford, New Jersey."
+                },
+                {
+                  "title": "Philadelphia",
+                  "node_id": "0151",
+                  "start_index": 141,
+                  "end_index": 141,
+                  "summary": "The text explains how Reserve Bank and Branch leaders are appointed and lists the chairs, deputy chairs, presidents, first vice presidents, and relevant branch officers for the Boston, New York, Philadelphia, and Cleveland Reserve Banks, including Cincinnati and Pittsburgh Branch leadership and an additional New York office in East Rutherford, New Jersey."
+                },
+                {
+                  "title": "Cleveland",
+                  "node_id": "0152",
+                  "start_index": 141,
+                  "end_index": 141,
+                  "summary": "The text explains how Reserve Bank and Branch leaders are appointed and how Branch operations are overseen, then lists chairs, deputy chairs, presidents, first vice presidents, and Branch officers for the Boston, New York, Philadelphia, and Cleveland Reserve Banks, along with leadership for the Cincinnati and Pittsburgh Branches and an additional East Rutherford, New Jersey, office."
+                },
+                {
+                  "title": "Richmond",
+                  "node_id": "0153",
+                  "start_index": 142,
+                  "end_index": 142,
+                  "summary": "The page lists leadership personnel and titles for offices in Richmond, Atlanta, Birmingham, Chicago, St. Louis, Baltimore, Jacksonville, Miami, Little Rock, Louisville, Charlotte, Nashville, New Orleans, Detroit, and Memphis, including chairs, deputy chairs, presidents, chief operating officers, vice presidents, and regional executives. It also notes an additional Miami office in Des Moines, Iowa."
+                },
+                {
+                  "title": "Atlanta",
+                  "node_id": "0154",
+                  "start_index": 142,
+                  "end_index": 142,
+                  "summary": "Page 136 of the 2023 110th Annual Report lists the chairs and executive or regional leadership of offices in Richmond, Atlanta, Birmingham, Chicago, St. Louis, Baltimore, Jacksonville, Miami, Little Rock, Louisville, Charlotte, Nashville, New Orleans, Detroit, and Memphis, including an additional Miami office in Des Moines, Iowa."
+                },
+                {
+                  "title": "Chicago",
+                  "node_id": "0155",
+                  "start_index": 142,
+                  "end_index": 142,
+                  "summary": "The text lists chairs and executive or regional leadership for Federal Reserve offices in Richmond, Atlanta, Birmingham, Chicago, St. Louis, Baltimore, Jacksonville, Miami, Little Rock, Louisville, Charlotte, Nashville, New Orleans, Detroit, and Memphis, including an additional Miami office in Des Moines, Iowa."
+                },
+                {
+                  "title": "St. Louis",
+                  "node_id": "0156",
+                  "start_index": 142,
+                  "end_index": 142,
+                  "summary": "The text is a 2023 annual-report page listing chairs, deputy chairs, presidents, chief operating officers, and regional executives for Federal Reserve offices in Richmond, Atlanta, Birmingham, Chicago, St. Louis, Baltimore, Jacksonville, Miami, Little Rock, Louisville, Charlotte, Nashville, New Orleans, Detroit, and Memphis, including Miami’s additional office in Des Moines, Iowa."
+                },
+                {
+                  "title": "Minneapolis",
+                  "node_id": "0157",
+                  "start_index": 143,
+                  "end_index": 143,
+                  "summary": "A Federal Reserve System organization listing identifies the chairs, deputy chairs, presidents and chief executive officers, first vice presidents, chief operating officers, and branch executives or regional officers for the Minneapolis, Kansas City, Dallas, and San Francisco offices, notes an additional Phoenix office, and provides chair and executive leadership for branches in Denver, Oklahoma City, El Paso, Houston, Los Angeles, Portland, Helena, Omaha, San Antonio, Salt Lake City, and Seattle."
+                },
+                {
+                  "title": "Kansas City",
+                  "node_id": "0158",
+                  "start_index": 143,
+                  "end_index": 143,
+                  "summary": "The text presents part of the Federal Reserve System organization, listing the chairs, deputy chairs, presidents, chief executive officers, first vice presidents, and chief operating officers of the Minneapolis, Kansas City, Dallas, and San Francisco Reserve Banks, along with their branch-office leadership and an additional Phoenix, Arizona, office."
+                },
+                {
+                  "title": "Dallas",
+                  "node_id": "0159",
+                  "start_index": 143,
+                  "end_index": 143,
+                  "summary": "The text lists Federal Reserve System organizational leadership for Minneapolis, Kansas City, Dallas, San Francisco, and associated offices and branches, identifying chairs, deputy chairs, presidents and chief executive officers, first vice presidents and chief operating officers, senior vice presidents, assistant vice presidents, branch executives, and regional executives. It also notes an additional office in Phoenix, Arizona."
+                },
+                {
+                  "title": "San Francisco",
+                  "node_id": "0160",
+                  "start_index": 143,
+                  "end_index": 143,
+                  "summary": "The text lists leadership for the Minneapolis, Kansas City, Dallas, and San Francisco Federal Reserve Banks, including chairs, deputy chairs, presidents or chief executive officers, and first vice presidents or chief operating officers. It also identifies branch and additional offices in Denver, Oklahoma City, Omaha, El Paso, Houston, San Antonio, Los Angeles, Portland, Helena, Salt Lake City, Seattle, and Phoenix, with their respective chairs and executive officers."
+                }
+              ],
+              "summary": "This section describes the selection or appointment of Reserve Bank and Branch leaders and Cleveland’s Branch oversight, then provides 2023 organizational leadership listings—including chairs, deputy chairs, presidents or CEOs, first vice presidents, chief operating officers, regional executives, vice presidents, and branch officers—for all 12 Reserve Banks, their branches, and additional offices in East Rutherford, Des Moines, and Phoenix."
+            },
+            {
+              "title": "Leadership Conferences",
+              "node_id": "0161",
+              "start_index": 144,
+              "end_index": 146,
+              "nodes": [
+                {
+                  "title": "Conference of Chairs",
+                  "node_id": "0162",
+                  "start_index": 144,
+                  "end_index": 144,
+                  "summary": "The text describes the organization, purposes, meetings, and 2023 leadership of the Federal Reserve’s Conferences of Chairs and Presidents. It lists their officers and affiliated Reserve Banks, explains the historical origins of the Conference of Presidents and its former name, and records the Conference of Chairs’ 2024 executive committee elections."
+                },
+                {
+                  "title": "Conference of Presidents",
+                  "node_id": "0163",
+                  "start_index": 144,
+                  "end_index": 144,
+                  "summary": "The text outlines the roles, meeting dates, historical background, and 2023 leadership of the Federal Reserve’s Conferences of Chairs and Presidents. It lists the 2023 executive committee and officers and records the Conference of Chairs’ elections for its 2024 leadership."
+                },
+                {
+                  "title": "Conference of First Vice Presidents",
+                  "node_id": "0164",
+                  "start_index": 145,
+                  "end_index": 146,
+                  "summary": "Federal Reserve System Organization 139\nConference of First Vice Presidents\nThe Conference of First Vice Presidents of the Federal Reserve Banks was organized in 1969 to meet periodically for the consideration of operations and other matters. Conference officers for 2023 are listed below.2\nConference of First Vice Presidents—2023\nRon Feldman, Chair,\nFederal Reserve Bank of Minneapolis\nJamica Quillin, Secretary,\nFederal Reserve Bank of Minneapolis\nBecky Bareford, Vice Chair,\nFederal Reserve Bank of Richmond\nNina Mantilla, Assistant Secretary, Federal Reserve Bank of Richmond\n2 On November 16, 2022, the conference elected Ron Feldman, Federal Reserve Bank of Minneapolis, as chair and Becky Bareford, Federal Reserve Bank of Richmond, as vice chair for 2024. The conference also elected Jamica Quillin, Federal Reserve Bank of Minneapolis, as secretary and Nina Mantilla, Federal Reserve Bank of Richmond, as assistant secretary."
+                }
+              ],
+              "summary": "The section covers the organization, purposes, meetings, history, affiliated Reserve Banks, officers, and leadership elections of the Federal Reserve Conferences of Chairs, Presidents, and First Vice Presidents, including their 2023 leadership and elections for 2024, as well as the First Vice Presidents Conference’s 1969 founding and operational focus."
+            }
+          ],
+          "summary": "The section presents the governance, locations, directors, and leadership of the 12 Federal Reserve Districts, including detailed 2023–2025 board and 2023 executive listings for Reserve Banks, branches, and specified additional offices. It also covers district resources, maps, reports, and coverage areas, along with the organization, history, operations, meetings, officers, and leadership elections of the Federal Reserve Conferences of Chairs, Presidents, and First Vice Presidents."
+        }
+      ],
+      "summary": "The section details the organization and leadership of the Federal Reserve System through the Board of Governors, the Federal Open Market Committee, four advisory councils, and the 12 Federal Reserve Districts. It identifies members, officials, divisions, committees, councils, banks, branches, and offices; explains appointment, governance, advisory, meeting, and operational structures; provides 2023 schedules, rosters, service changes, maps, reports, and district coverage information; and describes the history and administration of the Federal Reserve leadership conferences."
+    },
+    {
+      "title": "B Minutes of Federal Open Market Committee Meetings",
+      "node_id": "0165",
+      "start_index": 147,
+      "end_index": 148,
+      "summary": "This section explains the legal requirements and purpose of FOMC meeting minutes, lists links to minutes for all eight regularly scheduled 2023 meetings, and describes their coverage of policy votes, supporting information, discussions, differing views, and dissents. It also identifies the Federal Reserve Bank of New York as the executor of FOMC policy directives, directs readers to the Board’s FOMC website, and cites the applicable 2023 rules and authorizations."
+    },
+    {
+      "title": "C Federal Reserve System Audits",
+      "node_id": "0166",
+      "start_index": 149,
+      "end_index": 152,
+      "nodes": [
+        {
+          "title": "Office of Inspector General Activities",
+          "node_id": "0167",
+          "start_index": 149,
+          "end_index": 151,
+          "summary": "The text explains the layered audit and oversight framework for the Federal Reserve, covering annual independent audits of the Board and Reserve Banks, Board examinations, public financial statements, OIG oversight, and GAO authority. It describes the OIG's statutory role for the Board and CFPB, its pandemic-program oversight, 2023 reports and reviews, investigations and enforcement results, publications, and reporting channels. It also summarizes the legal basis and 2023 status of GAO reviews, including 11 completed and 14 ongoing projects."
+        },
+        {
+          "title": "Government Accountability Office Reviews",
+          "node_id": "0168",
+          "start_index": 151,
+          "end_index": 152,
+          "summary": "The text reports OIG enforcement outcomes and regulatory reviews, directs readers to OIG resources, explains GAO’s statutory authority to audit Federal Reserve operations, and summarizes GAO’s 2023 work: 11 completed projects and 14 active at year-end. It lists the subjects of the issued reports and ongoing projects, along with relevant project numbers, dates, and statuses, and provides GAO website information plus a definition of criminal information."
+        }
+      ],
+      "summary": "This section outlines the Federal Reserve’s independent audit, examination, financial-reporting, OIG, and GAO oversight structure. It details the OIG’s legal role for the Board and CFPB, pandemic oversight, 2023 reports, reviews, investigations, enforcement results, publications, resources, and reporting channels. It also explains GAO’s authority and summarizes its 2023 activities, including 11 completed and 14 ongoing reviews, their subjects and project details, website resources, and the meaning of criminal information."
+    },
+    {
+      "title": "D Federal Reserve System Budgets",
+      "node_id": "0169",
+      "start_index": 153,
+      "end_index": 174,
+      "nodes": [
+        {
+          "title": "System Budgets Overview",
+          "node_id": "0170",
+          "start_index": 153,
+          "end_index": 157,
+          "nodes": [
+            {
+              "title": "2023 Budget Performance",
+              "node_id": "0171",
+              "start_index": 153,
+              "end_index": 153,
+              "summary": "This section explains Federal Reserve budgeting and accountability, presenting 2023 budget performance and 2024 budget and expense information for the Board and Reserve Banks, along with employment, budgeting trends, and new-currency costs. It reports $6,459.6 million in 2023 net expenses, only $3.2 million above budget, and a 2024 net operating-expense budget of $7,123.7 million, 10.3 percent above 2023 actual expenses. Reserve Banks make up nearly three-quarters of the 2024 budget, and priced-services revenue is expected to decline 1.2 percent. It also identifies the relevant tables, the former separate budget report, annual budget coverage, and the treatment of System and supplemental retirement-plan expenses in Board and Reserve Bank figures."
+            },
+            {
+              "title": "2024 Operating Expense Budget",
+              "node_id": "0172",
+              "start_index": 153,
+              "end_index": 154,
+              "summary": "The section reviews Federal Reserve System budgeting, presenting 2023 actual and budget performance, 2024 budgets, expense and employment information, and currency costs. Net 2023 expenses were $6.4596 billion, essentially on budget, while 2024 net expenses are budgeted at $7.1237 billion, 10.3 percent higher, driven largely by Reserve Banks and currency programs. Detailed figures cover the Board, OIG, Reserve Banks, currency, revenues, reimbursement claims, and variances, with notes on CFPB work, pension and retirement-plan accounting, currency project classifications, Regulation TT assessments, NIT expenses, and organizational changes. Long-term expense growth reflects investments in technology, payment modernization, NextGen currency processing, supervision, and strategic initiatives."
+            },
+            {
+              "title": "Trends in Expenses and Employment",
+              "node_id": "0173",
+              "start_index": 154,
+              "end_index": 156,
+              "summary": "The text presents Federal Reserve System operating-expense and employment budgets for 2023–24, actual-versus-budget variances, expense and reimbursement totals, explanatory accounting and organizational notes, and the 2024 distribution of costs. It describes long-term expense growth and staffing trends, attributing increases to technology, payment and currency modernization, monetary-policy and Treasury services, NextGen, supervision, pandemic-related operations, and FedNow, Fedwire, and ACH initiatives. It also explains changes in supervision spending, employment measurement methods, and the contents of the accompanying expense and employment figures."
+            },
+            {
+              "title": "2024 Capital Budgets",
+              "node_id": "0174",
+              "start_index": 157,
+              "end_index": 157,
+              "summary": "The text describes the Federal Reserve System’s 2024 capital budgets, totaling $389.9 million for the Board and $913.8 million for the Reserve Banks, and explains that these investments support strategic priorities, operational efficiency, customer services, and safe workplaces. It outlines how the Board’s budget is aligned with the 2024–27 Strategic Plan and details the process of setting a growth target, prioritizing and refining divisional requests, reviewing submissions, and obtaining CBA and full Board approval. Footnotes clarify what the reported capital-budget figures include, note organizational changes involving National Information Technology and Employee Benefits, identify the Strategic Plan’s approval and link, and list the functional areas covered."
+            }
+          ],
+          "summary": "The section reviews Federal Reserve System operating and capital budgeting, accountability, and performance. It compares 2023 actual and budgeted expenses, presents the 2024 operating budgets and detailed Board, OIG, Reserve Bank, currency, revenue, reimbursement, employment, and accounting information, and explains related organizational and programmatic changes. It analyzes long-term expense and staffing trends driven by technology, payment and currency modernization, supervision, monetary-policy and Treasury services, and major initiatives such as FedNow, Fedwire, ACH, and NextGen. It also presents the 2024 Board and Reserve Bank capital budgets and explains their alignment with strategic priorities and the process for setting targets, evaluating requests, and securing approvals."
+        },
+        {
+          "title": "Board of Governors Budgets",
+          "node_id": "0175",
+          "start_index": 157,
+          "end_index": 163,
+          "nodes": [
+            {
+              "title": "Board of Governors",
+              "node_id": "0176",
+              "start_index": 157,
+              "end_index": 158,
+              "summary": "The text describes the Federal Reserve’s 2024 capital budgets, the Board’s strategic-plan-based budgeting process and ongoing financial monitoring, and the contents of its budget and staffing tables. It reports the Board’s 2023 operating and capital performance, including the operating-budget overrun, lower single-year capital spending, and higher multiyear-project spending. It also provides detailed 2023 budget-versus-actual and 2024 budget figures and variances by operating area, explains the cost-accounting changes and included functions, and defines the capital-budget coverage for the Board, OIG, Reserve Banks, National Information Technology, and employee benefits."
+            },
+            {
+              "title": "2023 Budget Performance",
+              "node_id": "0177",
+              "start_index": 158,
+              "end_index": 159,
+              "summary": "The text explains the Board’s expense-monitoring and variance-review processes and summarizes budget, operating-expense, staffing, and capital-spending tables for 2023–24, including OIG information. The Board spent slightly above its 2023 operating authority, underspent single-year capital, and overspent multiyear capital because of early construction while remaining within projected project totals. It provides operating-area and organizational-unit results, explains special accounts and the Survey of Consumer Finances, notes the effects of the July 2023 cost-accounting framework, and describes the $1.0441 billion 2024 operating budget, which is 5.0 percent above 2023 actual expenses and supports five organizational goal areas."
+            },
+            {
+              "title": "2024 Operating Expense Budget",
+              "node_id": "0178",
+              "start_index": 159,
+              "end_index": 161,
+              "summary": "The text presents the Federal Reserve Board’s 2023–24 operating, staffing, and capital budgets. It details divisional and account-level operating expenses, 2023 budget-to-actual variances, 2024 budget increases, OIG finances, benefits and special accounts, authorized positions, and explanatory notes on the Survey of Consumer Finances and position accounting. Board operations totaled $994.1 million in 2023 actual expenses against a $989.6 million budget, with a $1,044.1 million 2024 budget. The 2024 budget supports compensation, strategic hiring, contractors, ongoing services, and priority initiatives, while capital plans include a $25.1 million single-year program and $364.3 million in expected multiyear-project expenditures focused on equipment, software, facilities, security, modernization, collaboration, efficiency, productivity, and sustainability."
+            },
+            {
+              "title": "2024 Capital Budgets",
+              "node_id": "0179",
+              "start_index": 161,
+              "end_index": 161,
+              "summary": "The text presents Board staffing authorizations for 2023 and 2024, including division-level budgets, year-end actuals, variances, and totals. Board operations remain at 2,990 positions in 2023 and rise to 3,007 in 2024, while the Inspector General and Currency functions also expand. It defines budget versus actual position counts and identifies the extraordinary-items pool. The text then describes the 2024 capital budgets: a $25.1 million single-year budget, elevated by deferred 2023 purchases, and $364.3 million in expected multiyear capital spending focused on building improvements and a secure, modern, efficient, collaborative, productive, and sustainable work environment."
+            },
+            {
+              "title": "Office of Inspector General",
+              "node_id": "0180",
+              "start_index": 162,
+              "end_index": 162,
+              "summary": "The text explains the OIG's independent, strategic-plan-based budgeting process and reports its 2023 budget performance and 2024 operating and capital budgets. It details actual and budgeted operating income, expenses, and capital spending, explains the main variances and 2024 budget increases, identifies planned capital projects, and references Tables D.5 and D.7 and the OIG strategic plan."
+            },
+            {
+              "title": "2023 Budget Performance",
+              "node_id": "0181",
+              "start_index": 162,
+              "end_index": 162,
+              "summary": "The text describes the OIG’s strategically aligned and independently prepared budget process, reports that 2023 operating expenses met budget while operating income exceeded projections due partly to increased CFPB work, and notes lower-than-budgeted capital spending. It then presents the 2024 operating and capital budgets, explaining their increases and planned uses, and references the relevant budget tables and OIG strategic plan."
+            },
+            {
+              "title": "2024 Operating Expense Budget",
+              "node_id": "0182",
+              "start_index": 162,
+              "end_index": 162,
+              "summary": "The text explains the OIG's strategic-plan-based, independently prepared budgeting process and reports its 2023 budget performance and 2024 budgets. In 2023, operating expenses excluding income matched the $54.1 million budget, operating income exceeded budget by $3.3 million, CFPB-related activity contributed to total expenses of $34.6 million including CFPB income, and capital spending was $0.1 million, or 54.6 percent, below budget. The 2024 operating budget is $59.0 million excluding CFPB income and $39.0 million including it, reflecting staffing, compensation, benefits, and vacancy-rate changes. The 2024 capital budget is $0.5 million for vehicles, equipment, and San Francisco office improvements, with referenced tables providing budget and actual figures."
+            },
+            {
+              "title": "2024 Capital Budget",
+              "node_id": "0183",
+              "start_index": 162,
+              "end_index": 163,
+              "summary": "The text explains the OIG’s strategically grounded and independently prepared budget, presents its 2023 operating and capital performance, details the 2024 operating and capital budgets and staffing increase, and summarizes Board and OIG capital expenditures and variances in Table D.7. It then describes how Federal Reserve Banks set and monitor strategically aligned goals, organize budgets around their core monetary-policy, financial-stability, supervision, and service responsibilities, and begin a budget process involving a simplified five-committee structure led by the Conferences of Presidents and First Vice Presidents."
+            }
+          ],
+          "summary": "The section explains how the Federal Reserve Board and its Office of Inspector General develop, monitor, and report strategically aligned operating, staffing, and capital budgets. It covers 2023 budget performance and variances, detailed organizational and account-level results, cost-accounting changes, staffing authorizations, special accounts, and the Survey of Consumer Finances; presents the Board’s $1.0441 billion 2024 operating budget and $25.1 million single-year and $364.3 million multiyear capital plans; and describes the OIG’s independent budgeting process, 2023 results, $59.0 million 2024 operating budget excluding CFPB income, $39.0 million including it, and $0.5 million capital budget. It also defines capital-budget coverage, references the relevant tables and strategic plans, and outlines the Reserve Banks’ strategic budgeting responsibilities and simplified committee-based process."
+        },
+        {
+          "title": "Federal Reserve Banks Budgets",
+          "node_id": "0184",
+          "start_index": 163,
+          "end_index": 169,
+          "nodes": [
+            {
+              "title": "2023 Budget Performance",
+              "node_id": "0185",
+              "start_index": 166,
+              "end_index": 166,
+              "summary": "The text presents Federal Reserve Bank operating expense budgets and actuals by account for 2023–24. Actual 2023 expenses were essentially on budget at $5,648.3 million, with variances driven by modernization, staffing, and facility-related costs, while staffing and capital expenditures were below plan. The 2024 budget rises to $6,053.2 million, mainly because of expanded inflation-related monetary policy work and Treasury fees, software, personnel, and vendor support. Account definitions, pension exclusions, other-expense components, and the Board’s approval of the 2024 budget are also provided."
+            },
+            {
+              "title": "2024 Operating Expense Budget",
+              "node_id": "0186",
+              "start_index": 166,
+              "end_index": 168,
+              "summary": "The text presents Federal Reserve System budget and staffing statistics for 2023–24. It details Reserve Bank operating expenses by account, showing $5.6483 billion in 2023 actual expenses—slightly above the $5.6462 billion budget—and a $6.0532 billion 2024 budget, driven by inflation research, Treasury and technology needs, NextGen cash initiatives, supervision growth, and FedNow investments. It explains the main sources of 2023 variances, staffing performance, personnel-cost increases, and salary and variable-pay programs. Employment tables provide District, National IT, and Office of Employee Benefits staffing data, totaling 20,680 actual FTEs in 2023 and 21,238 budgeted for 2024. Capital-expenditure tables show $645.5 million spent in 2023 against an $888.2 million budget and a $913.8 million 2024 budget, supporting IT, cash services, buildings, NextGen, and data-center modernization. The text also includes definitions, organizational notes, approval and budget footnotes, and conditional approval of $334.2 million in 2024 projects."
+            },
+            {
+              "title": "2024 Capital Budgets",
+              "node_id": "0187",
+              "start_index": 168,
+              "end_index": 169,
+              "summary": "The text presents a district-by-district table of Federal Reserve and National IT capital budgets and variances for 2023 and 2024, showing total 2023 actual expenditures of $645.5 million and a 2024 budget of $913.8 million. It explains related salary and variable-pay programs, the purposes of the 2024 capital budget, conditional-approval projects, other large and small capital initiatives, and the currency budget, including BEP note-production reimbursements, currency distribution, security, issuance, and statutory funding responsibilities."
+            }
+          ],
+          "summary": "This section explains Federal Reserve System and Reserve Bank budgeting, covering Board and OIG capital expenditures, Reserve Bank strategic functions, governance and approval procedures, monitoring, and capital-project review. It presents 2023 budgeted versus actual and 2024 budgeted operating expenses by District, operating area, and account, together with explanations of variances, inclusions, exclusions, staffing, personnel costs, salary and variable-pay programs, and employment totals. It also details Reserve Bank capital budgets and projects, including IT, cash, facilities, NextGen, data-center, FedNow, and modernization initiatives, conditional approvals, and currency-production and distribution responsibilities, while identifying the supporting tables, definitions, organizational notes, and statistical references."
+        },
+        {
+          "title": "Currency Budget",
+          "node_id": "0188",
+          "start_index": 169,
+          "end_index": 174,
+          "nodes": [
+            {
+              "title": "2023 Budget Performance",
+              "node_id": "0189",
+              "start_index": 170,
+              "end_index": 171,
+              "summary": "The text explains how the Federal Reserve’s currency budget supports banknote production quality, anti-counterfeiting work, currency integrity, and public education; outlines the annual budget-development and approval process; reviews 2023 BEP and Board budget performance, including the effect of a reimbursement credit and the causes of underruns; and presents the 2024 single-cycle budget of $1.104 billion, with detailed BEP, Board, and program-category amounts and notes on reimbursement reconciliation and included costs."
+            },
+            {
+              "title": "2024 Budget",
+              "node_id": "0190",
+              "start_index": 171,
+              "end_index": 174,
+              "nodes": [
+                {
+                  "title": "BEP Single-Cycle Operating Costs",
+                  "node_id": "0191",
+                  "start_index": 172,
+                  "end_index": 172,
+                  "summary": "The text reports the composition of the BEP operating budget, details 2023–24 funding and historical spending for three multicycle capital projects—including their approval history—and describes the 2024 single-cycle operating budget, including fixed and variable printing costs, their year-over-year increases, and the factors driving those changes. The three multicycle projects have a combined lifetime budget of $3,331.9 million."
+                },
+                {
+                  "title": "BEP Multicycle Project Operating Costs",
+                  "node_id": "0192",
+                  "start_index": 172,
+                  "end_index": 173,
+                  "summary": "The text details the Federal Reserve's 2024 currency budget, covering BEP single-cycle operating costs, multicycle capital projects, and Board expenses. BEP single-cycle costs are budgeted at $1,033.7 million, with increases in fixed and variable printing costs driven by technology, cybersecurity, staffing, deliveries, and materials. Three multicycle projects—Fort Worth expansion, the Washington, D.C. replacement facility, and note-production equipment modernization—have a combined lifetime budget of $3,331.9 million, with specified approved, conditional, prior-year, 2023, and 2024 funding. The text also explains project purposes and 2024 allocations, presents the revised historical-cost basis in Figure D.4, and reports a $70.2 million Board operating budget, with increases tied to strategic initiatives, currency distribution, banknote development, security testing, usability, and design-process improvements."
+                },
+                {
+                  "title": "Board Single-Cycle Operating Costs",
+                  "node_id": "0193",
+                  "start_index": 173,
+                  "end_index": 174,
+                  "summary": "The text details Federal Reserve currency-related multicycle and single-cycle budgets. It gives approved and conditional funding for WCF and DCRF facilities and BEP note-production equipment, including 2024 project allocations and equipment life expectations. It describes the currency-cost figure and its methodology, reports the Board's $70.2 million 2024 operating budget and year-over-year increase, and explains higher costs for currency issuance and banknote development. It also outlines currency-education priorities, two added positions, and the personnel, travel, training, and enterprise support costs included in the currency budget."
+                }
+              ],
+              "summary": "The section presents the Federal Reserve’s 2024 currency budget, covering BEP printing and support operations, three multicycle capital projects, and Board currency-related expenses. It explains 2023 BEP and Board budget variances, the $1,033.7 million 2024 BEP budget and its cost drivers, and the three projects’ combined $3,331.9 million lifetime budget, funding history, purposes, allocations, and cost methodology. It also details the Board’s $70.2 million 2024 budget, including higher issuance, development, security, usability, education, staffing, and enterprise-support costs. The total 2024 single-cycle currency budget is $1,104.0 million, $180.3 million above 2023 actual expenses, with itemized variances shown in Table D.13."
+            }
+          ],
+          "summary": "The section first outlines related capital expenditures and then explains how the Federal Reserve’s Currency Budget finances BEP banknote production and the Board’s statutory currency-issuing responsibilities, including supply, quality, security, transportation, resilience, and public education. It reviews the 2023 budgeting and performance results, including credits, underruns, and reconciliations, and presents the 2024 $1.104 billion single-cycle budget: $1,033.7 million for BEP operations and three multicycle capital projects totaling $3,331.9 million over their lifetimes, and $70.2 million for Board currency activities. It also details the projects, cost drivers, staffing and program expenses, and the principal variances from 2023 actual spending."
+        }
+      ],
+      "summary": "This section provides a comprehensive overview of Federal Reserve System operating and capital budgets, accountability, performance, strategic priorities, governance, and approval processes. It compares 2023 budgeted and actual results and presents detailed 2024 budgets for the Board, OIG, Reserve Banks, and currency operations, including expenses, staffing, personnel and compensation programs, revenues, reimbursements, accounting, organizational changes, and capital plans. It discusses long-term cost and employment trends and major initiatives such as technology and payment modernization, FedNow, Fedwire, ACH, NextGen, facilities, data centers, and currency infrastructure. It also explains Reserve Bank and Board budget monitoring and project review, and details the Currency Budget’s support for BEP production and the Board’s statutory responsibilities, including its 2024 funding, multiyear capital projects, performance variances, and operational priorities."
+    },
+    {
+      "title": "E Record of Policy Actions of the Board of Governors",
+      "node_id": "0194",
+      "start_index": 175,
+      "end_index": 184,
+      "nodes": [
+        {
+          "title": "Rules and Regulations",
+          "node_id": "0195",
+          "start_index": 175,
+          "end_index": 177,
+          "nodes": [
+            {
+              "title": "Regulation BB (Community Reinvestment)",
+              "node_id": "0196",
+              "start_index": 176,
+              "end_index": 176,
+              "summary": "The text summarizes two Board regulatory actions reported in the 2023 Annual Report: a joint CRA rule that modernizes community reinvestment evaluations through tiered requirements, lending and community-development metrics, expanded geographic coverage, and clarified qualifying activities, along with a later rule extending certain implementation dates and making technical amendments; and a joint update to administrative procedure rules recognizing electronic communications and improving adjudication efficiency and fairness. It states effective dates, participating agencies, docket numbers, voting records, and related Federal Register references."
+            },
+            {
+              "title": "Rules of Practice and Procedure",
+              "node_id": "0197",
+              "start_index": 176,
+              "end_index": 177,
+              "summary": "The text summarizes 2023 Federal Reserve regulatory and policy actions. It covers the modernization of Community Reinvestment Act regulations and subsequent applicability-date amendments; electronic updates to administrative hearing procedures; revised allowances-for-credit-loss guidance removing TDR references; updated guidance for commercial real estate loan accommodations and workouts; and a Section 9(13) policy establishing consistent limits on bank activities, including crypto-related activities, while emphasizing legal compliance, safety, soundness, risk management, and internal controls. It also records effective dates, interagency participation, voting outcomes, and related Federal Register notices."
+            }
+          ],
+          "summary": "This section records the Federal Reserve Board’s 2023 policy actions pursuant to the Federal Reserve Act, explaining the reporting framework, action categories, voting records, source materials, and relationship to FOMC actions. It summarizes capital requirements for holding companies engaged in insurance, including the Building Block Approach, as well as Community Reinvestment Act modernization and implementation amendments, electronic administrative-procedure updates, credit-loss and commercial-real-estate workout guidance, and limits on bank activities under Section 9(13), including crypto-related activities. The section also notes the relevant statutory purposes, effective dates, agencies, dockets, votes, and Federal Register references."
+        },
+        {
+          "title": "Policy Statements and Other Actions",
+          "node_id": "0198",
+          "start_index": 177,
+          "end_index": 181,
+          "nodes": [
+            {
+              "title": "Allowances for Credit Losses",
+              "node_id": "0199",
+              "start_index": 177,
+              "end_index": 177,
+              "summary": "The text records three Board policy actions in 2023: an interagency allowances-for-credit-losses statement removing obsolete TDR references after CECL-related accounting changes; updated interagency guidance on commercial real estate loan workouts and short-term accommodations for financially stressed but creditworthy borrowers; and a section 9(13) policy generally aligning state member bank activity limits with those for national banks, including for novel activities such as crypto-assets, while emphasizing legal compliance, safety, soundness, risk management, and internal controls. Each action received unanimous approval from Chair Powell, Vice Chair Barr, and Governors Bowman, Waller, Cook, and Jefferson, with Federal Register citations provided."
+            },
+            {
+              "title": "Commercial Real Estate Loan Accommodations and Workouts",
+              "node_id": "0200",
+              "start_index": 177,
+              "end_index": 177,
+              "summary": "The text records three Board policy actions in 2023: an interagency update removing Troubled Debt Restructuring references from allowances-for-credit-loss guidance following CECL-related accounting changes; updated interagency guidance on commercial real estate loan workouts and short-term accommodations during borrower financial stress; and a section 9(13) policy statement generally aligning state member bank activity limits with those for national banks, including restrictions on novel and crypto-asset-related activities. The latter emphasizes legal compliance, safe and sound operations, risk management, and internal controls. The first two actions were jointly issued with the FDIC, OCC, and NCUA, Federal Register citations are provided, and the listed votes for them were unanimous among the named Board members."
+            },
+            {
+              "title": "Policy Statement on Section 9(13) of the Federal Reserve Act",
+              "node_id": "0201",
+              "start_index": 177,
+              "end_index": 178,
+              "summary": "The excerpt records Federal Reserve Board policy actions in 2023 concerning credit-loss allowances, commercial real estate workouts and short-term accommodations, interpretation of section 9(13) and uniform limits on bank activities, climate-related financial risk management, and emergency measures following the failures of Silicon Valley Bank and Signature Bank. It explains the purpose and scope of each policy, identifies interagency partners and applicable institutions, provides voting outcomes, describes the systemic-risk exception and Bank Term Funding Program authorities, and supplies official source references."
+            },
+            {
+              "title": "Principles for Climate-Related Financial Risk Management",
+              "node_id": "0202",
+              "start_index": 178,
+              "end_index": 178,
+              "summary": "The excerpt covers requirements for appropriate information systems; Board voting on a related action; approval of interagency climate-related financial risk principles for institutions with over $100 billion in assets, including physical and transition risks and the vote split; and the Board's March 12, 2023 response to the SVB and Signature Bank failures. That response involved recommending the systemic risk exception to normal FDIC least-cost resolution rules and establishing the emergency Bank Term Funding Program under section 13(3) of the Federal Reserve Act. It explains the banks' receiverships, deposit runs, financial-stability rationale, and the statutory conditions and limitations governing the program, with supporting footnote references."
+            },
+            {
+              "title": "Systemic Risk Exception and Bank Term Funding Program",
+              "node_id": "0203",
+              "start_index": 178,
+              "end_index": 179,
+              "summary": "The text records Board actions on information-system adequacy, climate-related financial risk principles, emergency responses to the 2023 failures of Silicon Valley Bank and Signature Bank, and third-party risk management. It explains the systemic risk exception and the Bank Term Funding Program’s legal basis, eligibility, collateral, pricing, later rate modification, and scheduled closure, and gives the voting outcomes for each action, including dissenting governors and supporting source references."
+            },
+            {
+              "title": "Third-Party Risk Management",
+              "node_id": "0204",
+              "start_index": 179,
+              "end_index": 179,
+              "summary": "The text records Board actions involving requirements for securing loans to insolvent entities, establishment and later modification and scheduled termination of the BTFP, including its eligibility, collateral, advance terms, valuation, and interest rate, as well as the votes approving those actions. It also describes final interagency third-party risk-management guidance issued with the FDIC and OCC, its purpose and principles, the related votes, and referenced source documents."
+            },
+            {
+              "title": "Interest on Reserves",
+              "node_id": "0205",
+              "start_index": 180,
+              "end_index": 181,
+              "summary": "The 2023 record details the Board’s reserve-balance interest-rate decisions: increases from 4.4% to 5.4% between February and July, followed by maintenance at 5.4% from September through December, each aligned with corresponding FOMC federal funds target-range actions and accompanied by voting records and press-release citations. It also explains the statutory and biweekly process for setting discount-window rates for depository institutions, including primary, secondary, and seasonal credit rates, and points to year-end rate tables and online historical references."
+            }
+          ],
+          "summary": "This section records the Federal Reserve Board’s 2023 policy statements and related actions on credit-loss allowances, commercial real estate accommodations and workouts, state member bank activity limits under section 9(13), climate-related financial risk management, emergency measures following the failures of Silicon Valley Bank and Signature Bank, third-party risk management, interest on reserve balances, and discount-window rates. It explains the purposes, legal authorities, scope, eligibility, risk controls, and operational terms of these policies, including the systemic-risk exception and Bank Term Funding Program, and provides voting results, dissenting views, interagency participation, and official citations and references."
+        },
+        {
+          "title": "Discount Rates for Depository Institutions in 2023",
+          "node_id": "0206",
+          "start_index": 181,
+          "end_index": 183,
+          "nodes": [
+            {
+              "title": "Primary, Secondary, and Seasonal Credit",
+              "node_id": "0207",
+              "start_index": 182,
+              "end_index": 182,
+              "summary": "The text presents year-end 2023 Federal Reserve lending rates and explains the eligibility, purpose, pricing, and operational terms of primary, secondary, and seasonal credit. It records four primary-rate increases from 4.5% to 5.5%, a 50-basis-point secondary-credit spread, and a 5.35% seasonal rate, along with the Board’s renewal of rate-calculation formulas. It then introduces the 2023 votes and FOMC meeting details concerning discount-rate changes, beginning with the February 1 meeting, whose list of approving Reserve Banks and actions is cut off in the excerpt."
+            },
+            {
+              "title": "Votes on Changes to Discount Rates for Depository Institutions",
+              "node_id": "0208",
+              "start_index": 182,
+              "end_index": 183,
+              "summary": "The text presents year-end 2023 Federal Reserve lending rates and explains the purposes, eligibility, terms, and rate-setting methods for primary, secondary, and seasonal credit. It records four Board-approved increases in the primary credit rate—from 4.5% to 5.5% between February and July 2023—along with the participating Reserve Banks, effective dates, and governors voting for each action. It also notes the 50-basis-point secondary-credit spread, the seasonal-credit calculation and year-end rate, renewal of the secondary and seasonal rate formulas, the 90-day renewable primary-credit borrowing provision, and a related 2020 press-release reference."
+            }
+          ],
+          "summary": "The section records the Board's September, November, and December 2023 decisions to maintain the reserve-balances rate at 5.4 percent in support of an unchanged 5¼-to-5½-percent federal funds target range, including the voting records. It explains the statutory and procedural framework for setting discount-window rates and summarizes the eligibility, purposes, pricing, formulas, and operating terms of primary, secondary, and seasonal credit. It reports four primary-credit-rate increases from 4.5 percent to 5.5 percent between February and July, the 50-basis-point secondary-credit spread, the 5.35 percent year-end seasonal rate, renewed calculation formulas, renewable primary-credit borrowing for up to 90 days, year-end rates in table E.1, and the recorded Reserve Bank actions and Board votes, beginning with an incomplete February 1 entry. The section also cites related press releases, meeting minutes, and discount-rate resources."
+        },
+        {
+          "title": "The Board of Governors and the Government Performance and Results Act",
+          "node_id": "0209",
+          "start_index": 184,
+          "end_index": 184,
+          "summary": "The Board voluntarily follows the GPRA framework by publishing a multiyear strategic plan, annual performance plan, and annual performance report. Its 2020–23 strategic plan establishes priorities across five functional areas, while the annual plan allocates projects and resources to support those priorities and the annual report records progress and accomplishments. These processes guide mission-critical work, allow flexibility for emerging challenges, and promote public transparency; the documents are available on the Board’s website."
+        }
+      ],
+      "summary": "This section records the Federal Reserve Board’s 2023 rules, regulations, policy statements, emergency and supervisory actions, discount-rate decisions, and related legal, procedural, voting, interagency, and citation information. It covers capital and banking-activity requirements, CRA modernization, administrative procedures, credit-loss and commercial-real-estate guidance, climate and third-party risk management, responses to bank failures, reserve remuneration, and the terms and rates of discount-window credit. It also describes the Board’s strategic planning, performance planning, and reporting under the GPRA framework and the transparency of those processes."
+    },
+    {
+      "title": "F Litigation",
+      "node_id": "0210",
+      "start_index": 185,
+      "end_index": 186,
+      "summary": "The text reports the Board of Governors’ 2023 litigation activity: 16 total cases, comprising 7 new and 9 previously pending matters, with 11 still pending at year-end, matching the 2022 total. It lists pending cases involving master-account access, breach of contract and debt collection, Regulation II debit interchange fees, bank-acquisition approval, and Freedom of Information Act requests, and describes five resolved matters, including stipulated dismissals, dismissal of a Regulation II challenge, and appellate affirmance of the Board’s prohibition orders."
+    },
+    {
+      "title": "G Statistical Tables",
+      "node_id": "0211",
+      "start_index": 187,
+      "end_index": 222,
+      "summary": "Appendix G of the 2023 Annual Report compiles 13 statistical tables covering Federal Reserve open market operations; securities holdings and temporary transactions; reserve requirements; U.S. banking offices and bank-holding-company affiliations; reserve-fund supply and absorption data from 1918 through 2023; commercial-bank assets and liabilities; historical margin requirements; the statements of condition of all Reserve Banks; Reserve Bank income, expenses, remittances, and comprehensive income; operational processing volumes; personnel and salaries; and Reserve Bank premises costs and book values. Detailed notes explain classifications, valuation, accounting changes, regulatory history, rounding, unavailable data, and related Federal Reserve sources."
+    }
+  ],
+  "has_abstract_or_references_section": false
+}

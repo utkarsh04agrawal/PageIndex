@@ -1,0 +1,144 @@
+{
+  "doc": "Regulation Best Interest_Interpretive release.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 28,
+  "raw_tree": {
+    "nodes": 16,
+    "leaves": 12,
+    "max_depth": 3,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 0.7,
+    "layout_outline": 0.1,
+    "merge": 0.0,
+    "expand": 4.8,
+    "summary_optimized": 24.1,
+    "total_optimize": 29.7,
+    "thin": 0.0,
+    "summary_baseline": 21.5,
+    "total_baseline": 22.3
+  },
+  "optimize": {
+    "merges": 2,
+    "expands": 0,
+    "before": {
+      "total_pages": 28,
+      "frontier_nodes": 15,
+      "worst_case_search_complexity": 8,
+      "average_search_complexity": 6.321,
+      "normalized_worst_case_complexity": 0.2857,
+      "max_depth": 3,
+      "mean_depth": 2.2,
+      "probability_mass": 1.3929
+    },
+    "after": {
+      "total_pages": 28,
+      "frontier_nodes": 14,
+      "worst_case_search_complexity": 8,
+      "average_search_complexity": 6.107,
+      "normalized_worst_case_complexity": 0.2857,
+      "max_depth": 3,
+      "mean_depth": 2.07,
+      "probability_mass": 1.3929
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 2,
+      "errors": 1,
+      "empty": 0,
+      "in": 3513,
+      "cached": 0,
+      "out": 247,
+      "reasoning": 192,
+      "llm_wall": 3.8,
+      "slowest_call": 3.8
+    },
+    "summary_opt_leaf": {
+      "calls": 13,
+      "errors": 1,
+      "empty": 0,
+      "in": 16683,
+      "cached": 0,
+      "out": 6127,
+      "reasoning": 639,
+      "llm_wall": 66.6,
+      "slowest_call": 8.5
+    },
+    "summary_opt_parent": {
+      "calls": 2,
+      "errors": 0,
+      "empty": 0,
+      "in": 3867,
+      "cached": 0,
+      "out": 1176,
+      "reasoning": 78,
+      "llm_wall": 15.5,
+      "slowest_call": 8.5
+    },
+    "summary_opt": {
+      "calls": 15,
+      "errors": 1,
+      "empty": 0,
+      "in": 20550,
+      "cached": 0,
+      "out": 7303,
+      "reasoning": 717,
+      "llm_wall": 82.1,
+      "slowest_call": 8.5
+    },
+    "summary_baseline": {
+      "calls": 17,
+      "errors": 1,
+      "empty": 0,
+      "in": 21220,
+      "cached": 11875,
+      "out": 8040,
+      "reasoning": 756,
+      "llm_wall": 82.3,
+      "slowest_call": 8.4
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 14,
+      "leaves": 12,
+      "max_depth": 3,
+      "key_items": 2
+    },
+    "baseline": {
+      "nodes": 16,
+      "leaves": 12,
+      "max_depth": 3,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "optimize",
+      "kind": "expand",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.0008005829295143485
+    },
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.029410041985101998
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.029472375055775046
+    }
+  ],
+  "wall": 51.2,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}

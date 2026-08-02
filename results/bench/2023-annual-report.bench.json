@@ -1,0 +1,156 @@
+{
+  "doc": "2023-annual-report.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 222,
+  "raw_tree": {
+    "nodes": 267,
+    "leaves": 194,
+    "max_depth": 6,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 2.7,
+    "layout_outline": 2.2,
+    "merge": 0.0,
+    "expand": 17.7,
+    "summary_optimized": 40.4,
+    "total_optimize": 63.0,
+    "thin": 0.0,
+    "summary_baseline": 38.0,
+    "total_baseline": 42.9
+  },
+  "optimize": {
+    "merges": 38,
+    "expands": 1,
+    "before": {
+      "total_pages": 222,
+      "frontier_nodes": 217,
+      "worst_case_search_complexity": 37,
+      "average_search_complexity": 10.563,
+      "normalized_worst_case_complexity": 0.1667,
+      "max_depth": 6,
+      "mean_depth": 3.72,
+      "probability_mass": 1.6216
+    },
+    "after": {
+      "total_pages": 222,
+      "frontier_nodes": 174,
+      "worst_case_search_complexity": 10,
+      "average_search_complexity": 7.032,
+      "normalized_worst_case_complexity": 0.045,
+      "max_depth": 5,
+      "mean_depth": 3.19,
+      "probability_mass": 1.482
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 5,
+      "errors": 2,
+      "empty": 0,
+      "in": 46764,
+      "cached": 46755,
+      "out": 1955,
+      "reasoning": 1368,
+      "llm_wall": 15.7,
+      "slowest_call": 5.4
+    },
+    "summary_opt_leaf": {
+      "calls": 157,
+      "errors": 1,
+      "empty": 0,
+      "in": 210107,
+      "cached": 157012,
+      "out": 125738,
+      "reasoning": 24673,
+      "llm_wall": 945.2,
+      "slowest_call": 26.0
+    },
+    "summary_opt_parent": {
+      "calls": 36,
+      "errors": 0,
+      "empty": 0,
+      "in": 42812,
+      "cached": 0,
+      "out": 22786,
+      "reasoning": 1695,
+      "llm_wall": 167.7,
+      "slowest_call": 6.9
+    },
+    "summary_opt": {
+      "calls": 193,
+      "errors": 1,
+      "empty": 0,
+      "in": 252919,
+      "cached": 157012,
+      "out": 148524,
+      "reasoning": 26368,
+      "llm_wall": 1112.8,
+      "slowest_call": 26.0
+    },
+    "summary_baseline": {
+      "calls": 208,
+      "errors": 2,
+      "empty": 0,
+      "in": 251927,
+      "cached": 144005,
+      "out": 145991,
+      "reasoning": 22665,
+      "llm_wall": 1145.1,
+      "slowest_call": 13.7
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 196,
+      "leaves": 160,
+      "max_depth": 5,
+      "key_items": 86
+    },
+    "baseline": {
+      "nodes": 212,
+      "leaves": 163,
+      "max_depth": 5,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "optimize",
+      "kind": "expand",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.0009744580602273345
+    },
+    {
+      "stage": "optimize",
+      "kind": "expand",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.004066916066221893
+    },
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.11378891603089869
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.12827204202767462
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.08451499999500811
+    }
+  ],
+  "wall": 101.0,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}

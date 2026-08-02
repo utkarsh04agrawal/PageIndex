@@ -1,0 +1,150 @@
+{
+  "doc": "earthmover.pdf",
+  "model": "gpt-5.6-luna",
+  "variant": "both",
+  "pages": 12,
+  "raw_tree": {
+    "nodes": 20,
+    "leaves": 17,
+    "max_depth": 2,
+    "key_items": 0
+  },
+  "time": {
+    "pdf_parse": 0.9,
+    "layout_outline": 0.2,
+    "merge": 0.0,
+    "expand": 0.0,
+    "summary_optimized": 20.0,
+    "total_optimize": 21.1,
+    "thin": 0.0,
+    "summary_baseline": 18.7,
+    "total_baseline": 19.9
+  },
+  "optimize": {
+    "merges": 1,
+    "expands": 0,
+    "before": {
+      "total_pages": 12,
+      "frontier_nodes": 19,
+      "worst_case_search_complexity": 4,
+      "average_search_complexity": 6.917,
+      "normalized_worst_case_complexity": 0.3333,
+      "max_depth": 2,
+      "mean_depth": 1.63,
+      "probability_mass": 2.3333
+    },
+    "after": {
+      "total_pages": 12,
+      "frontier_nodes": 17,
+      "worst_case_search_complexity": 4,
+      "average_search_complexity": 6.583,
+      "normalized_worst_case_complexity": 0.3333,
+      "max_depth": 2,
+      "mean_depth": 1.53,
+      "probability_mass": 2.25
+    }
+  },
+  "usage": {
+    "expand": {
+      "calls": 0,
+      "errors": 0,
+      "empty": 0,
+      "in": 0,
+      "cached": 0,
+      "out": 0,
+      "reasoning": 0,
+      "llm_wall": 0,
+      "slowest_call": 0
+    },
+    "summary_opt_leaf": {
+      "calls": 19,
+      "errors": 3,
+      "empty": 0,
+      "in": 47794,
+      "cached": 2261,
+      "out": 13856,
+      "reasoning": 1313,
+      "llm_wall": 117.2,
+      "slowest_call": 10.6
+    },
+    "summary_opt_parent": {
+      "calls": 2,
+      "errors": 0,
+      "empty": 0,
+      "in": 3517,
+      "cached": 0,
+      "out": 1214,
+      "reasoning": 120,
+      "llm_wall": 14.0,
+      "slowest_call": 9.4
+    },
+    "summary_opt": {
+      "calls": 21,
+      "errors": 3,
+      "empty": 0,
+      "in": 51311,
+      "cached": 2261,
+      "out": 15070,
+      "reasoning": 1433,
+      "llm_wall": 131.1,
+      "slowest_call": 10.6
+    },
+    "summary_baseline": {
+      "calls": 21,
+      "errors": 1,
+      "empty": 0,
+      "in": 53882,
+      "cached": 38874,
+      "out": 16772,
+      "reasoning": 1806,
+      "llm_wall": 149.4,
+      "slowest_call": 11.4
+    }
+  },
+  "tree": {
+    "optimized": {
+      "nodes": 18,
+      "leaves": 16,
+      "max_depth": 2,
+      "key_items": 2
+    },
+    "baseline": {
+      "nodes": 20,
+      "leaves": 17,
+      "max_depth": 2,
+      "key_items": 0
+    }
+  },
+  "errors": [
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.024872457957826555
+    },
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.02356333297211677
+    },
+    {
+      "stage": "summary_opt",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.021979957935400307
+    },
+    {
+      "stage": "summary_base",
+      "kind": "summary_leaf",
+      "error": "APIConnectionError('Connection error.')",
+      "latency": 0.030285416054539382
+    }
+  ],
+  "wall": 39.8,
+  "price": {
+    "input": 2e-07,
+    "output": 1.2e-06,
+    "cached": 2e-08
+  }
+}
