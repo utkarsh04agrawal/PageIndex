@@ -870,6 +870,7 @@ def format_structure(structure, order=None):
 
 
 def page_level_thinning(structure, thinning_threshold_node_num=20, min_pages_for_large_tree=3):
+    """Legacy; superseded by tree_optimize.merge_tree."""
     def count_nodes(nodes):
         total = 0
         for node in nodes:
