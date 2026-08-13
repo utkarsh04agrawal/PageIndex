@@ -56,14 +56,14 @@ outline, merge, LLM expand, then a summary for every node.
 
 <img src="assets/time_vs_pages.png" alt="Time against document length" width="50%">
 
-| Document | Pages | Input tokens | Output tokens |
-|---|---:|---:|---:|
-| Bitcoin whitepaper | 9 | 8,715 | 4,673 |
-| Attention Is All You Need | 15 | 26,805 | 10,183 |
-| KIMI K3 | 47 | 85,704 | 35,217 |
-| DeepSeek-R1 | 86 | 68,398 | 26,351 |
-| Situational Awareness | 165 | 115,130 | 54,347 |
-| Federal Reserve 2023 report | 222 | 280,975 | 136,982 |
-| 9/11 Commission Report | 585 | 720,624 | 200,202 |
-| Pattern Recognition and Machine Learning | 758 | 857,983 | 277,675 |
-| Machine Learning: A Probabilistic Perspective | 1,098 | 1,587,265 | 646,958 |
+| Document                                      | Pages | Document length (tokens) | Input tokens | Output tokens |
+| --------------------------------------------- | ----: | -----------------------: | -----------: | ------------: |
+| Bitcoin whitepaper                            |     9 |                    5,196 |        8,715 |         4,673 |
+| Attention Is All You Need                     |    15 |                   10,133 |       26,805 |        10,183 |
+| KIMI K3                                       |    47 |                   49,997 |       85,704 |        35,217 |
+| DeepSeek-R1                                   |    86 |                   62,661 |       68,398 |        26,351 |
+| Situational Awareness                         |   165 |                   72,403 |      115,130 |        54,347 |
+| Federal Reserve 2023 report                   |   222 |                  139,064 |      280,975 |       136,982 |
+| Pattern Recognition and Machine Learning      |   758 |                  471,648 |      857,983 |       277,675 |
+| Machine Learning: A Probabilistic Perspective | 1,098 |                  751,820 |    1,587,265 |       646,958 |
+
