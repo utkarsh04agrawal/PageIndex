@@ -2,7 +2,7 @@
   "mcpServers": {
     "books": {
       "type": "http",
-      "url": "https://books-mcp-ulo37etflq-uc.a.run.app/mcp"
+      "url": "https://books-mcp-ulo37etflq-el.a.run.app/mcp"
     }
   }
 }

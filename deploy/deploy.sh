@@ -4,7 +4,7 @@
 set -euo pipefail
 
 PROJECT_ID="${1:?Usage: deploy.sh <GCP_PROJECT_ID> [REGION]}"
-REGION="${2:-us-central1}"
+REGION="${2:-asia-south1}"
 SERVICE=books-mcp
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 BOOK_LIBRARY_SRC="${BOOK_LIBRARY_SRC:-/Users/utkarshagrawal/github/repos/book-library}"

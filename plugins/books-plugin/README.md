@@ -21,7 +21,7 @@ Skills aren't available on Claude.ai (they're a Claude Code feature), but
 the raw library tools are, via a Connector:
 
 1. Open Claude.ai → Settings → Connectors → Add custom connector
-2. URL: `https://books-mcp-ulo37etflq-uc.a.run.app/mcp`
+2. URL: `https://books-mcp-ulo37etflq-el.a.run.app/mcp`
 3. Authentication: None
 4. Ask Claude things like "what books are in my library" or "search the
    library for X" — it has the same `list_books`/`get_structure`/
